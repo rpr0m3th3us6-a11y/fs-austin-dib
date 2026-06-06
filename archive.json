@@ -1,0 +1,23 @@
+[
+  {
+    "date_str": "June 3, 2026",
+    "day_str": "Wednesday",
+    "date_file": "20260603",
+    "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260603.pdf",
+    "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260603.pdf"
+  },
+  {
+    "date_str": "June 4, 2026",
+    "day_str": "Thursday",
+    "date_file": "20260604",
+    "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260604.pdf",
+    "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260604.pdf"
+  },
+  {
+    "date_str": "June 5, 2026",
+    "day_str": "Friday",
+    "date_file": "20260605",
+    "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260605.pdf",
+    "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260605.pdf"
+  }
+]

@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Intelligence Brief — Four Seasons Austin</title>
+  <style>
+    :root {
+      --navy:   #0D1B2A;
+      --teal:   #01696F;
+      --teal-lt:#E6F2F3;
+      --amber:  #964219;
+      --red:    #A13544;
+      --green:  #437A22;
+      --gold:   #C9A84C;
+      --text:   #1A1A2E;
+      --muted:  #5A6A7A;
+      --border: #CBD5DC;
+      --bg:     #F4F6F8;
+      --white:  #FFFFFF;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      background: var(--navy);
+      color: white;
+      padding: 0;
+    }
+    .header-classify {
+      background: rgba(255,255,255,0.08);
+      text-align: center;
+      font-size: 10px;
+      letter-spacing: 2px;
+      padding: 5px;
+      color: var(--gold);
+      font-weight: 600;
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 20px 16px;
+    }
+    .header-title {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+    .header-sub {
+      font-size: 12px;
+      color: #A8C4C8;
+      margin-bottom: 8px;
+    }
+    .header-meta {
+      font-size: 11px;
+      color: #6A9FA5;
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .header-meta span::before { content: "▸ "; }
+
+    /* ── LAYOUT ── */
+    .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+
+    /* ── THREAT MATRIX ── */
+    .threat-section { margin-bottom: 20px; }
+    .section-label {
+      background: var(--teal);
+      color: white;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      padding: 5px 10px;
+      margin-bottom: 0;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .section-label.amber { background: var(--amber); }
+    .section-label.red   { background: var(--red); }
+    .section-label.navy  { background: var(--navy); }
+
+    .threat-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+    @media (max-width: 600px) { .threat-grid { grid-template-columns: 1fr; } }
+
+    .tm-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+      background: white;
+    }
+    .tm-table th {
+      background: var(--navy);
+      color: white;
+      padding: 5px 8px;
+      text-align: left;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+    }
+    .tm-table th:nth-child(2),
+    .tm-table th:nth-child(3) { text-align: center; }
+    .tm-table td {
+      padding: 5px 8px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    .tm-table tr:nth-child(even) td { background: #F0F4F7; }
+    .tm-table td:nth-child(2) { text-align: center; }
+    .tm-table td:nth-child(3) { text-align: center; color: var(--muted); font-size: 11px; }
+
+    .level-pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 3px;
+      color: white;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+    }
+    .level-critical  { background: #7B0000; }
+    .level-elevated  { background: #A13544; }
+    .level-moderate  { background: #964219; }
+    .level-low-moderate { background: #5A7A3A; }
+    .level-low       { background: #437A22; }
+
+    .bluf-box {
+      background: var(--teal-lt);
+      border: 1px solid var(--teal);
+      padding: 12px 14px;
+      font-size: 12.5px;
+      line-height: 1.6;
+    }
+    .bluf-box strong { color: var(--navy); }
+
+    /* ── CONTENT GRID ── */
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    @media (max-width: 600px) { .content-grid { grid-template-columns: 1fr; } }
+
+    .card {
+      background: white;
+      border: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .card-full { grid-column: 1 / -1; }
+
+    .card-body { padding: 10px 12px; }
+
+    .incident {
+      padding: 8px 0;
+      border-bottom: 1px solid #EEF0F3;
+      font-size: 12px;
+    }
+    .incident:last-child { border-bottom: none; }
+    .incident-title { font-weight: 700; color: var(--navy); margin-bottom: 2px; }
+    .incident-meta { font-size: 10px; color: var(--muted); margin-bottom: 4px; }
+    .incident-detail { color: #333; line-height: 1.5; }
+
+    .relevance {
+      display: inline-block;
+      font-size: 9px;
+      font-weight: 700;
+      padding: 1px 5px;
+      border-radius: 2px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+    .rel-direct   { background: #A13544; color: white; }
+    .rel-elevated { background: #964219; color: white; }
+    .rel-moderate { background: #5A7A3A; color: white; }
+    .rel-low      { background: #CBD5DC; color: #333; }
+
+    .bullet-list { list-style: none; padding: 0; }
+    .bullet-list li {
+      padding: 5px 0;
+      border-bottom: 1px solid #EEF0F3;
+      font-size: 12px;
+      padding-left: 12px;
+      position: relative;
+      line-height: 1.5;
+    }
+    .bullet-list li:last-child { border-bottom: none; }
+    .bullet-list li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: var(--teal);
+      font-size: 10px;
+      top: 7px;
+    }
+
+    .action-list { list-style: none; padding: 0; counter-reset: actions; }
+    .action-list li {
+      padding: 6px 0 6px 24px;
+      border-bottom: 1px solid #EEF0F3;
+      font-size: 12px;
+      position: relative;
+      line-height: 1.5;
+      counter-increment: actions;
+    }
+    .action-list li:last-child { border-bottom: none; }
+    .action-list li::before {
+      content: counter(actions);
+      position: absolute;
+      left: 0;
+      background: var(--teal);
+      color: white;
+      font-size: 10px;
+      font-weight: 700;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      top: 7px;
+    }
+
+    .event-row {
+      padding: 7px 0;
+      border-bottom: 1px solid #EEF0F3;
+      font-size: 12px;
+    }
+    .event-row:last-child { border-bottom: none; }
+    .event-name { font-weight: 700; color: var(--navy); }
+    .event-meta { font-size: 10px; color: var(--muted); margin-top: 1px; }
+
+    .contact-table { width: 100%; font-size: 11px; border-collapse: collapse; }
+    .contact-table td { padding: 4px 8px; border-bottom: 1px solid #EEF0F3; }
+    .contact-table tr:nth-child(even) td { background: #F6F8FA; }
+    .contact-table td:first-child { font-weight: 600; color: var(--navy); }
+    .contact-table td:last-child { color: var(--teal); font-family: monospace; }
+
+    .weather-stat {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .weather-chip {
+      background: #E8F0F4;
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      font-size: 11px;
+      border-radius: 3px;
+      color: var(--navy);
+    }
+    .weather-chip strong { color: var(--teal); }
+
+    /* ── LOOKAHEAD ── */
+    .lookahead-item {
+      padding: 6px 0;
+      border-bottom: 1px solid #EEF0F3;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+    .lookahead-item:last-child { border-bottom: none; }
+
+    /* ── PDF DOWNLOADS ── */
+    .pdf-bar {
+      background: var(--navy);
+      padding: 12px 20px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      max-width: 900px;
+      margin: 0 auto 20px;
+    }
+    .pdf-bar-label { color: #A8C4C8; font-size: 11px; letter-spacing: 1px; flex: 1; }
+    .pdf-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--teal);
+      color: white;
+      text-decoration: none;
+      padding: 7px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      border-radius: 3px;
+      transition: background 0.15s;
+    }
+    .pdf-btn:hover { background: #015A5F; }
+    .pdf-btn.outline {
+      background: transparent;
+      border: 1px solid var(--teal);
+      color: var(--teal);
+    }
+    .pdf-btn.outline:hover { background: var(--teal); color: white; }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      background: var(--navy);
+      color: #6A9FA5;
+      text-align: center;
+      font-size: 10px;
+      letter-spacing: 1px;
+      padding: 10px;
+      margin-top: 20px;
+    }
+
+    /* ── ARCHIVE ── */
+    .archive-link {
+      font-size: 11px;
+      color: var(--muted);
+      text-align: right;
+      margin-bottom: 8px;
+    }
+    .archive-link a { color: var(--teal); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="site-header">
+  <div class="header-classify">UNCLASSIFIED // FOR INTERNAL SECURITY USE ONLY</div>
+  <div class="header-inner">
+    <div class="header-title">DAILY INTELLIGENCE BRIEF</div>
+    <div class="header-sub">Four Seasons Hotel Austin &mdash; Staff Quick Reference</div>
+    <div class="header-meta">
+      <span id="brief-date">Loading...</span>
+      <span>98 San Jacinto Blvd, Austin TX 78701</span>
+      <span>Prepared: Security Office // 41</span>
+    </div>
+  </div>
+</div>
+
+<!-- PDF DOWNLOADS -->
+<div class="pdf-bar">
+  <span class="pdf-bar-label">&#x1F4C4; TODAY&rsquo;S REPORTS</span>
+  <a class="pdf-btn" id="full-pdf-link" href="#" target="_blank">&#x2B07; Full Report (PDF)</a>
+  <a class="pdf-btn outline" id="onepager-pdf-link" href="#" target="_blank">&#x2B07; 1-Pager (PDF)</a>
+</div>
+
+<div class="container">
+
+  <div class="archive-link">
+    <a href="archive.html">&#x1F4C1; View Archive</a>
+  </div>
+
+  <!-- THREAT MATRIX + BLUF -->
+  <div class="threat-section">
+    <div class="section-label">&#x258C;&nbsp; THREAT MATRIX &amp; BOTTOM LINE</div>
+    <div class="threat-grid">
+      <table class="tm-table" id="tm-table">
+        <thead><tr><th>Domain</th><th>Level</th><th>Trend</th></tr></thead>
+        <tbody id="tm-body">
+          <tr><td colspan="3" style="text-align:center;padding:12px;color:#999">Loading...</td></tr>
+        </tbody>
+      </table>
+      <div class="bluf-box" id="bluf-box">Loading brief...</div>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT GRID -->
+  <div class="content-grid">
+
+    <!-- ACTIVE INCIDENTS -->
+    <div class="card card-full">
+      <div class="section-label">&#x258C;&nbsp; ACTIVE INCIDENTS</div>
+      <div class="card-body" id="incidents-body">Loading...</div>
+    </div>
+
+    <!-- LEFT COL -->
+    <div>
+      <!-- CIVIL UNREST -->
+      <div class="card" style="margin-bottom:16px">
+        <div class="section-label red">&#x258C;&nbsp; CIVIL UNREST</div>
+        <div class="card-body"><ul class="bullet-list" id="unrest-body"></ul></div>
+      </div>
+
+      <!-- WEATHER -->
+      <div class="card" style="margin-bottom:16px">
+        <div class="section-label amber">&#x258C;&nbsp; WEATHER &#x26A0;</div>
+        <div class="card-body" id="weather-body">Loading...</div>
+      </div>
+
+      <!-- EMERGENCY CONTACTS -->
+      <div class="card">
+        <div class="section-label navy">&#x258C;&nbsp; EMERGENCY CONTACTS</div>
+        <div class="card-body" id="contacts-body">Loading...</div>
+      </div>
+    </div>
+
+    <!-- RIGHT COL -->
+    <div>
+      <!-- EVENTS -->
+      <div class="card" style="margin-bottom:16px">
+        <div class="section-label">&#x258C;&nbsp; EVENTS &mdash; DOWNTOWN TODAY</div>
+        <div class="card-body" id="events-body">Loading...</div>
+      </div>
+
+      <!-- PROPERTY ACTIONS -->
+      <div class="card" style="margin-bottom:16px">
+        <div class="section-label">&#x258C;&nbsp; PROPERTY ACTIONS</div>
+        <div class="card-body"><ol class="action-list" id="actions-body"></ol></div>
+      </div>
+
+      <!-- NATIONAL CONTEXT -->
+      <div class="card">
+        <div class="section-label navy">&#x258C;&nbsp; NATIONAL CONTEXT</div>
+        <div class="card-body"><ul class="bullet-list" id="national-body"></ul></div>
+      </div>
+    </div>
+
+    <!-- LOOK-AHEADS -->
+    <div class="card card-full">
+      <div class="section-label">&#x258C;&nbsp; LOOK-AHEADS — NEXT 24-48 HRS</div>
+      <div class="card-body" id="lookahead-body">Loading...</div>
+    </div>
+
+  </div><!-- /content-grid -->
+</div><!-- /container -->
+
+<div class="site-footer">
+  UNCLASSIFIED // FOR INTERNAL SECURITY USE &nbsp;|&nbsp;
+  Four Seasons Hotel Austin &nbsp;|&nbsp; 98 San Jacinto Blvd, Austin TX 78701
+</div>
+
+<script>
+// Load today's DIB data from data.json
+fetch('data.json')
+  .then(r => r.json())
+  .then(d => renderDIB(d))
+  .catch(() => document.body.innerHTML += '<p style="text-align:center;padding:20px;color:red">Failed to load brief data.</p>');
+
+function renderDIB(d) {
+  // Header date
+  document.getElementById('brief-date').textContent = d.day_str + ', ' + d.date_str + '  |  0600 CDT';
+  document.title = 'DIB — ' + d.date_str + ' — Four Seasons Austin';
+
+  // PDF links
+  if (d.full_pdf_url) document.getElementById('full-pdf-link').href = d.full_pdf_url;
+  if (d.onepager_pdf_url) document.getElementById('onepager-pdf-link').href = d.onepager_pdf_url;
+
+  // Threat Matrix
+  const levelClass = {
+    'CRITICAL': 'level-critical', 'ELEVATED': 'level-elevated',
+    'MODERATE': 'level-moderate', 'LOW-MODERATE': 'level-low-moderate', 'LOW': 'level-low'
+  };
+  const tbody = document.getElementById('tm-body');
+  tbody.innerHTML = d.threat_matrix.map(([dom, lev, trd]) =>
+    `<tr><td>${dom}</td><td><span class="level-pill ${levelClass[lev.toUpperCase()] || 'level-moderate'}">${lev}</span></td><td>${trd}</td></tr>`
+  ).join('');
+
+  // BLUF
+  document.getElementById('bluf-box').innerHTML = '<strong>BOTTOM LINE:</strong> ' + d.bluf;
+
+  // Incidents
+  const inc = document.getElementById('incidents-body');
+  inc.innerHTML = d.incidents.map(i => {
+    const relCls = {DIRECT:'rel-direct',ELEVATED:'rel-elevated',MODERATE:'rel-moderate',LOW:'rel-low'}[i.relevance] || 'rel-low';
+    return `<div class="incident">
+      <div class="incident-title">${i.title}<span class="relevance ${relCls}">${i.relevance}</span></div>
+      <div class="incident-meta">${i.location}</div>
+      <div class="incident-detail">${i.detail}</div>
+    </div>`;
+  }).join('');
+
+  // Civil Unrest
+  document.getElementById('unrest-body').innerHTML = d.civil_unrest.map(c =>
+    `<li><strong>${c.title}</strong> — ${c.detail}</li>`
+  ).join('');
+
+  // Weather
+  const wx = d.weather;
+  document.getElementById('weather-body').innerHTML = `
+    <div class="weather-stat">
+      <span class="weather-chip"><strong>High</strong> ${wx.high}</span>
+      <span class="weather-chip"><strong>Low</strong> ${wx.low}</span>
+      <span class="weather-chip"><strong>Wind</strong> ${wx.wind}</span>
+      <span class="weather-chip"><strong>Humidity</strong> ${wx.humidity}</span>
+    </div>
+    <div style="font-size:12px;color:#c0392b;font-weight:600;margin-bottom:6px">${wx.precip}</div>
+    <ul class="bullet-list">${wx.notes.map(n => `<li>${n}</li>`).join('')}</ul>`;
+
+  // Emergency Contacts
+  document.getElementById('contacts-body').innerHTML =
+    `<table class="contact-table">${d.contacts.map(([n,v]) =>
+      `<tr><td>${n}</td><td>${v}</td></tr>`).join('')}</table>`;
+
+  // Events
+  document.getElementById('events-body').innerHTML = d.events.map(e =>
+    `<div class="event-row">
+      <div class="event-name">${e.name}</div>
+      <div class="event-meta">${e.venue} &nbsp;|&nbsp; ${e.distance} &nbsp;|&nbsp; ${e.time} &nbsp;|&nbsp; ${e.crowd}</div>
+      <div style="font-size:11px;color:#555;margin-top:3px">${e.detail}</div>
+    </div>`
+  ).join('');
+
+  // Property Actions
+  document.getElementById('actions-body').innerHTML = d.property_actions.map(a =>
+    `<li>${a}</li>`).join('');
+
+  // National Context
+  document.getElementById('national-body').innerHTML = d.national_context.map(n =>
+    `<li>${n}</li>`).join('');
+
+  // Look-aheads
+  document.getElementById('lookahead-body').innerHTML = d.lookaheads.map(l =>
+    `<div class="lookahead-item">&#x1F538; ${l}</div>`).join('');
+}
+</script>
+</body>
+</html>

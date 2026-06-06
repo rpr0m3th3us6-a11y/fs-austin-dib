@@ -1,0 +1,201 @@
+{
+  "date_str": "June 5, 2026",
+  "day_str": "Friday",
+  "date_file": "20260605",
+  "generated_utc": "2026-06-06T08:20:00Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260605.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260605.pdf",
+  "threat_matrix": [
+    [
+      "Physical Security",
+      "MODERATE",
+      "Stable"
+    ],
+    [
+      "Civil Unrest",
+      "LOW-MODERATE",
+      "Watch"
+    ],
+    [
+      "Cyber / Fraud",
+      "ELEVATED",
+      "Rising"
+    ],
+    [
+      "Weather",
+      "MODERATE",
+      "Watch"
+    ],
+    [
+      "Travel / Mobility",
+      "LOW",
+      "Stable"
+    ]
+  ],
+  "bluf": "Friday event night with late-night crowd spillover risk. Karmelo Anthony trial enters emotional testimony phase (Day 2 \u2014 bloody jacket evidence shown to jury; coach testified Anthony was 'genuinely' distressed). Trial expected to continue through next week; verdict-reactive protest watch for Austin remains active. MACC grand reopening TOMORROW (Sat, 11 AM\u20139 PM, 600 River St, 0.4 mi) \u2014 plan for 2,000\u20135,000+ attendees on Rainey waterfront corridor. Cold front arriving Saturday evening with storm risk. NCAA Baseball Super Regionals open Saturday at Disch-Falk (Texas vs. Oregon, 8 PM ESPN) \u2014 7,000 cap, 1.8 mi from property. FIFA WC cyber/physical threat window fully active June 11.",
+  "incidents": [
+    {
+      "title": "Karmelo Anthony Trial \u2014 Day 2, Emotional Testimony Phase",
+      "location": "Collin County Courthouse, McKinney TX (~200 mi NE)",
+      "relevance": "MODERATE",
+      "detail": "Day 2 of the Karmelo Anthony murder trial. Prosecution showed jury Anthony's bloody jacket from the stabbing. Austin Metcalf's last words disclosed in court \u2014 highly emotional testimony ongoing. Coach Vincent Hooper testified Anthony appeared genuinely distressed and cried at scene. Hundreds lined up daily for limited courthouse seats; demonstrators outside clashing \u2014 heated exchanges between supporter factions reported Thursday. Trial expected through end of next week. Verdict-reactive protest watch for Austin remains active \u2014 monitor Capitol/Congress Ave corridor.",
+      "source": "FOX 4 / NBC News / YouTube LiveNOW, June 5, 2026"
+    },
+    {
+      "title": "Austin Teen Shooting Spree \u2014 New Charges (19 Total)",
+      "location": "Austin metro area (mid-May incidents)",
+      "relevance": "LOW",
+      "detail": "17-year-old Christian Mondragon now faces 19 charges including aggravated assault and deadly conduct following 10 new charges filed for his role in a mid-May shooting spree across the Austin area. No Four Seasons nexus; awareness item \u2014 juvenile violent crime trending in Austin region.",
+      "source": "Texas News Now / KXAN, June 5, 2026"
+    },
+    {
+      "title": "Taylor Homicide \u2014 Suspect Arrested (Devon Olwin)",
+      "location": "Taylor, TX (~30 mi NE of Austin)",
+      "relevance": "LOW",
+      "detail": "Devon Olwin (30) arrested for murder of his cousin Alfred Olwin Flores (48) in Taylor. Case initially classified suspicious death. No Four Seasons nexus. Regional awareness.",
+      "source": "Texas News Now, June 5, 2026"
+    },
+    {
+      "title": "AISD Police Chief Injured \u2014 Motorcycle Motorcade Crash",
+      "location": "W US 290 & MoPac service road (~3 mi W)",
+      "relevance": "LOW",
+      "detail": "AISD Police Chief Wayne Sneed injured late June 3 in motorcycle crash while escorting AISD Superintendent from graduation. Non-life-threatening. APD investigating. No Four Seasons nexus; situational awareness \u2014 AISD police leadership disruption may reduce visibility at near-property school events.",
+      "source": "FOX 7 Austin, June 4, 2026"
+    },
+    {
+      "title": "FIFA World Cup \u2014 Lone-Actor / Cyber Threat Window: Active",
+      "location": "National / All Host Cities (Opens June 11)",
+      "relevance": "ELEVATED",
+      "detail": "One week to tournament open. CCCS and Command Eleven/ISKP advisories remain active for hotels and hospitality sector. DHS lone-actor advisory also active. Brief IT/front desk on FIFA phishing this week. Review access control and lobby loitering protocols before June 11.",
+      "source": "CCCS / Command Eleven, May 29, 2026"
+    }
+  ],
+  "civil_unrest": [
+    {
+      "title": "Karmelo Anthony Trial \u2014 Courthouse Tensions Escalating",
+      "location": "McKinney TX / Austin (monitoring)",
+      "detail": "Heated exchanges between supporter factions erupted outside Collin County Courthouse Thursday as trial got underway. Sheriff's deputies intervening. Emotional testimony (bloody jacket, Metcalf's last words) will intensify public sentiment. Trial expected through end of next week. Austin verdict-reactive demonstration risk remains elevated \u2014 PSL, BLM-aligned groups active. Texas Capitol (1.1 mi NNW) and Congress Ave are primary Austin rally points. Develop and brief contingency routing plan.",
+      "level": "LOW-MODERATE"
+    },
+    {
+      "title": "ICE / Immigration \u2014 Texas Tribune: 18 Deaths in ICE Custody (2026)",
+      "location": "Statewide / National",
+      "detail": "Texas Tribune (June 4): 18 people have died in ICE custody in 2026 \u2014 on pace to surpass the record 2025 total. Three facility deaths in El Paso area ICE centers including one homicide by staff. Continued fueling of protest energy in immigrant-heavy Austin communities. Texas Capitol primary rally location. No Austin marches confirmed for today.",
+      "level": "LOW"
+    },
+    {
+      "title": "C\u00e9sar Ch\u00e1vez Day Controversy \u2014 Political Tensions",
+      "location": "Austin / Statewide",
+      "detail": "Governor Abbott directed state agencies to stop observing C\u00e9sar Ch\u00e1vez Day; City of Austin considering renaming C\u00e9sar Ch\u00e1vez Street. UT Austin removing related statue from campus. Politically charged atmosphere during Latino community events this weekend \u2014 MACC reopening (Sat) may generate political commentary or demonstration activity.",
+      "level": "LOW"
+    }
+  ],
+  "weather": {
+    "high": "~90\u00b0F (feels like 95\u00b0F+ with humidity)",
+    "low": "Near 72\u00b0F overnight",
+    "humidity": "High \u2014 dew points mid-to-upper 60s; feels oppressive",
+    "wind": "ESE 5\u201310 mph, increasing Friday afternoon ahead of front",
+    "precip": "20\u201330% Friday PM. Cold front arrives Sat afternoon \u2014 storm risk Sat eve.",
+    "notes": [
+      "NWS Austin/San Antonio (June 5): No Flood Watch or Flash Flood Statement currently active. Scattered thunderstorm threat remains for today's afternoon and evening. High near 90\u00b0F. Overnight low near 72\u00b0F.",
+      "Cold front approaching: Expected to arrive Saturday afternoon. Marginal severe weather risk Sat PM with a line of storms possible. Most of Saturday daytime will be dry. After frontal passage: Sunday drier and cooler \u2014 typical post-frontal improvement.",
+      "Extended outlook: Next Thur-Sat heatwave in 90s forecast.",
+      "ACTION: Monitor NWS EWX through Friday PM for any storm upgrades. Saturday MACC grand reopening (outdoors, 0.4 mi from property) \u2014 brief team on frontal storm timing if outdoor event coincides with storm window."
+    ]
+  },
+  "events": [
+    {
+      "name": "Lost Frequencies (EDM)",
+      "venue": "The Concourse Project, 8509 Burleson Rd",
+      "distance": "5.5 mi SE",
+      "time": "9:00 PM",
+      "crowd": "Large \u2014 EDM/rave crowd",
+      "risk": "LOW-MODERATE",
+      "detail": "Belgian EDM act at large outdoor/warehouse venue south of downtown. Late-night event (9 PM\u20132 AM range). Rideshare surge on I-35 and Riverside Dr area post-show. MDMA/substance use typical at EDM shows \u2014 note for any guest medical assist requests in early morning."
+    },
+    {
+      "name": "Jessica Baio",
+      "venue": "ACL Live at 3TEN, 310 Willie Nelson Blvd",
+      "distance": "0.7 mi NW",
+      "time": "7:00 PM",
+      "crowd": "350 cap",
+      "risk": "LOW",
+      "detail": "Indie singer-songwriter at intimate ACL Live 3TEN. Neighborhood-level foot traffic on Willie Nelson Blvd. Dispersal ~2130\u20132200."
+    },
+    {
+      "name": "Katherine Center (Author Reading/Event)",
+      "venue": "The State Theatre, 719 Congress Ave",
+      "distance": "0.4 mi N",
+      "time": "8:00 PM",
+      "crowd": "~1,600 cap",
+      "risk": "LOW",
+      "detail": "Author event at State Theatre on Congress Ave \u2014 literary crowd, low risk. Congress Ave foot traffic elevated pre/post show. State Theatre 1.5 blocks from Four Seasons side entry."
+    },
+    {
+      "name": "Mini KISS (KISS Tribute Band)",
+      "venue": "Come and Take It Live, 2003 E Riverside Dr",
+      "distance": "2.1 mi SE",
+      "time": "7:00 PM",
+      "crowd": "~800 cap",
+      "risk": "LOW",
+      "detail": "Novelty tribute act (performers dressed as KISS but only 4 ft tall). East Riverside corridor. Minimal direct property impact."
+    },
+    {
+      "name": "JC Currais + Comedy (Cap City Comedy Club)",
+      "venue": "Red Room at Cap City Comedy Club, 8120 Research Blvd",
+      "distance": "6 mi N",
+      "time": "7:30 PM & 9:45 PM",
+      "crowd": "Small",
+      "risk": "LOW",
+      "detail": "Two shows at North Austin comedy club. No direct property impact."
+    }
+  ],
+  "property_actions": [
+    "SATURDAY MACC PREP: MACC grand reopening at 600 River St (0.4 mi S) runs 11 AM\u20139 PM with 2,000\u20135,000+ expected attendees. Begin briefing valet and lobby staff now for elevated Rainey Street/waterfront foot traffic and parking pressure Saturday.",
+    "NCAA BASEBALL SUPER REGIONALS (Sat\u2013Mon): Texas vs. Oregon at Disch-Falk Field (1.8 mi N, 7,000 cap). Longhorn fans will be visible downtown Sat/Sun. Game 1 Sat 8 PM on ESPN. Coordinate with F&B on gameday crowd patterns near property.",
+    "FIFA WC CYBER (One Week Out): Brief IT and reservations team this week \u2014 CCCS advisory explicitly targets hotels. Verify any FIFA-themed reservation modifications. No unsolicited FIFA/ticket links to be opened.",
+    "KARMELO TRIAL PROTEST PROTOCOL: Develop and circulate contingency routing plan for staff and guests now. Don't wait for verdict (expected end of next week). Primary Austin rally points: Texas Capitol (1.1 mi NNW), Congress Ave.",
+    "WEATHER: Monitor NWS EWX Friday PM \u2014 isolated storm possible this afternoon/evening. Cold front Saturday \u2014 MACC outdoor event may be impacted Sat evening. Stage umbrellas at all entries today.",
+    "ACL LIVE / STATE THEATRE CORRIDOR: Congress Ave foot traffic elevated by Katherine Center show at State Theatre (719 Congress). Monitor pedestrian density 1900\u20132300.",
+    "Maintain credential verification discipline \u2014 Hyatt Centric and The Line Austin remain in ownership transition. Displaced contractor/staff inquiries may continue."
+  ],
+  "national_context": [
+    "FIFA WC opens June 11 \u2014 CCCS cyber threat bulletin and ISKP/Command Eleven lone-actor advisory both active for hotel and hospitality sector. Complete security briefing and access control protocol review before June 11.",
+    "Texas Tribune (June 4): 18 ICE custody deaths in 2026, on pace to surpass 2025 record. Continued protest energy in Austin immigration-advocacy community.",
+    "C\u00e9sar Ch\u00e1vez Day controversy (Abbott order to cease observance; UT Austin statue removal; Austin Council debate on street renaming) creates politically charged climate ahead of MACC grand reopening this weekend.",
+    "Celsius energy drink lawsuit / AG Paxton investigation: 23-year-old's death allegedly linked to excessive caffeine. Note for F&B and bar teams \u2014 verify energy drink policies and guest service protocols, especially for guests who appear to over-consume."
+  ],
+  "contacts": [
+    [
+      "APD Non-Emergency",
+      "(512) 974-2000"
+    ],
+    [
+      "APD Downtown",
+      "(512) 974-5200"
+    ],
+    [
+      "Austin Fire Dept",
+      "(512) 974-0130"
+    ],
+    [
+      "FBI Austin",
+      "(512) 346-6878"
+    ],
+    [
+      "Crime Stoppers",
+      "(512) 472-8477"
+    ],
+    [
+      "TX DPS Fusion Ctr",
+      "1-800-832-8942"
+    ]
+  ],
+  "lookaheads": [
+    "SAT June 6 (MAJOR): MACC grand reopening 'Juntos de Nuevo' \u2014 600 River St, 11 AM\u20139 PM. Free public event with live music, food trucks, artisan market. Expect 2,000\u20135,000+ on Rainey/waterfront corridor. Largest community event this weekend.",
+    "SAT June 6: NCAA Baseball Super Regional Game 1 \u2014 Texas vs. Oregon, UFCU Disch-Falk Field (7,000 cap, 1.8 mi N), 8 PM on ESPN. Longhorn fan traffic downtown.",
+    "SAT June 6: Austin Symphony \u2014 Taylor Swift's The Symphony Era, Dell Hall at Long Center (2,442 cap, 0.9 mi W), 7:30 PM. Swifties + classical crowd on Lady Bird Lake corridor.",
+    "SAT June 6 evening: Cold front arrives \u2014 marginal severe weather risk Sat PM. MACC and Long Center outdoor areas may be affected. Monitor NWS EWX.",
+    "June 11: FIFA World Cup opens. Complete all security protocol updates by June 10."
+  ]
+}
