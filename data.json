@@ -1,10 +1,10 @@
 {
-  "date_str": "June 6, 2026",
-  "day_str": "Saturday",
-  "date_file": "20260606",
-  "generated_utc": "2026-06-06T10:05:27Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260606.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260606.pdf",
+  "date_str": "June 7, 2026",
+  "day_str": "Sunday",
+  "date_file": "20260607",
+  "generated_utc": "2026-06-07T10:06:57Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260607.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260607.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -23,134 +23,125 @@
     ],
     [
       "Weather",
-      "MODERATE",
-      "Improving"
+      "ELEVATED",
+      "Rising"
     ],
     [
       "Travel / Mobility",
-      "LOW-MODERATE",
+      "MODERATE",
       "Watch"
     ]
   ],
-  "bluf": "High foot-traffic Saturday driven by three concurrent major events within 2 miles of property. ESB-MACC Grand Reopening (600 River St, 0.4 mi) draws 2,000\u20135,000+ with full 11 AM\u20139 PM programming \u2014 Rainey Street corridor will be densely congested all day. NCAA Super Regionals (Texas vs. Oregon, 7 PM ESPN, Disch-Falk) brings 7,000-cap crowd with post-game spillover 9:30\u201311 PM. Monster Jam (Moody Center, 7 PM) draws family crowds to UT corridor. Post-trial weekend recess: Karmelo Anthony trial on break Saturday/Sunday \u2014 monitor for verdict-reactive demonstrations at Capitol/Congress Ave. Flash Flood Watch expired; residual road impacts on low-lying approaches. FIFA WC soft-target and cyber advisory window remains active through June 11.",
+  "bluf": "Crowd-heavy Sunday with dangerous heat and active storm threat. Monster Jam matinee draws 10,000+ to Moody Center (1 PM, UT corridor) \u2014 morning valet/routing impact. NCAA Super Regionals Game 2 (Texas vs. Oregon, 9 PM ESPN, must-win for Oregon) fills Disch-Falk to 8,500+ with late-night dispersal pushing past midnight. Heat index at 103\u00b0F \u2014 enforce outdoor guest advisories and brief staff on heat protocols. NWS severe thunderstorm watch active; isolated large hail, damaging winds, and tornado possible through evening \u2014 outdoor event cancellation/delay risk for Game 2. Karmelo Anthony prosecution rested Saturday after 21 witnesses; defense opens Monday 9 AM \u2014 trial now entering most critical phase. Protest watch remains active. FIFA WC threat window: 4 days to tournament kickoff (June 11).",
   "incidents": [
     {
-      "title": "ESB-MACC Grand Reopening \u2014 Juntos de Nuevo",
-      "location": "600 River St, Austin TX (0.4 mi NE of property)",
-      "relevance": "HIGH",
-      "detail": "The Emma S. Barrientos Mexican American Cultural Center officially reopens today after nearly three years of renovation. Free, no-ticket event runs 11 AM\u20139 PM with live music on three stages, artisan market, food trucks, and ribbon-cutting at 11 AM. Projected attendance 2,000\u20135,000+. No dedicated on-site parking \u2014 overflow directed to Holly St neighborhood and Convention Center Garage (601 E 5th). Rainey Street corridor and Ann & Roy Butler Hike & Bike Trail will see significantly elevated pedestrian traffic throughout the day and into evening. Coincides with Waterloo Greenway Confluence reopening. Expect increased foot traffic on San Jacinto Blvd, valet queue congestion, and rideshare/taxi surges especially 10 PM\u201311:30 PM.",
-      "source": "City of Austin ACME / austintexas.gov"
-    },
-    {
-      "title": "NCAA Baseball Super Regionals \u2014 Texas vs. Oregon, Game 1",
+      "title": "NCAA Baseball Super Regionals Game 2 \u2014 Texas vs. Oregon (Elimination Game)",
       "location": "UFCU Disch-Falk Field, 1 Nolte Dr (1.8 mi E of property)",
-      "relevance": "MODERATE",
-      "detail": "Game 1 of the best-of-3 Super Regional series: #6 Texas Longhorns vs. #11 Oregon Ducks. 7 PM CT first pitch, live on ESPN. Stadium capacity ~7,000. Parking lots open ~5 PM; UT-area parking and Red River/I-35 corridor expect significant pre-game congestion 5\u20137 PM and post-game dispersal 9:30\u201311 PM. Alcohol sales in-venue; expect elevated late-night bar activity on 6th Street and East Austin corridors post-game. Game 2 Sunday 8 PM; Game 3 Monday if necessary.",
-      "source": "UT Athletics / ESPN"
+      "relevance": "HIGH",
+      "detail": "Texas leads series 1-0 after dominant 11-3 win Saturday night (attendance 8,550 \u2014 over capacity). Adrian Rodriguez drove in 5 RBI. Game 2 tonight, 9 PM CT, ESPN. Must-win for Oregon \u2014 if Texas wins, series over; if Oregon wins, Game 3 Monday TBD. Late 9 PM start means post-game dispersal will extend past midnight (11:30 PM\u20131 AM depending on game length). I-35/Red River/6th Street corridor congestion expected from approximately 7 PM through 1 AM. Longhorn nation high-energy \u2014 elevated bar and entertainment district activity throughout evening. Brief valet and overnight shift on extended late crowd dispersal.",
+      "source": "ESPN / NCAA.com"
     },
     {
-      "title": "Monster Jam \u2014 Moody Center ATX",
+      "title": "Monster Jam Sunday Matinee \u2014 Moody Center ATX",
       "location": "2001 Robert Dedman Dr (2.3 mi N of property)",
-      "relevance": "LOW-MODERATE",
-      "detail": "Monster Jam runs Saturday and Sunday at Moody Center. Saturday: Parking 4 PM, Pit Party 4:30 PM (separate ticket), Doors 6 PM, Show 7 PM. Expected family crowd 10,000+. UT campus and Guadalupe St ('The Drag') will see heavy vehicle and pedestrian traffic 4\u201310 PM. Post-event dispersal will compound I-35 congestion alongside Super Regionals crowd. Impact to property: valet advisory for east/north-bound guests; recommend Cesar Chavez or 5th St routing.",
+      "relevance": "MODERATE",
+      "detail": "Sunday matinee Monster Jam: Parking 10 AM, Pit Party 11 AM, Doors noon, Show 1 PM. Family crowd 10,000+. UT campus and Guadalupe St congested 10 AM\u20134 PM with combined event and Sunday brunch traffic. Heat index 103\u00b0F makes outdoor queuing hazardous \u2014 expect some crowd distress calls in UT corridor. Dispersal 3:30\u20135 PM will overlap with early Super Regionals pre-event arrivals on I-35.",
       "source": "Moody Center ATX"
     },
     {
-      "title": "South Austin Homicide \u2014 Joseph George Charged (Duc Vo Murder)",
-      "location": "Packed Saddle Pass / W Benno Blvd, South Austin (~6 mi S)",
-      "relevance": "LOW",
-      "detail": "APD arrested Joseph George (68) for the murder of Duc Vo (59), whose body was found concealed in a trash can. Surveillance video placed George at scene; he admitted to helping conceal the body for $50. Charged with murder and evidence tampering; bond $250,000. No Four Seasons nexus. South Austin residential area. Awareness item \u2014 ongoing APD homicide case trending locally.",
-      "source": "KVUE / KEYE"
+      "title": "Severe Thunderstorm/Tornado Risk \u2014 Travis County",
+      "location": "Travis County and surrounding counties",
+      "relevance": "HIGH",
+      "detail": "NWS Austin Area Forecast Discussion confirms active severe weather pattern through weekend. Severe thunderstorms capable of large hail, damaging winds (60+ mph gusts), and isolated tornadoes possible over central Texas through Sunday evening. Heat index at 103\u00b0F by afternoon with South wind gusts to 20 mph. Thunderstorms with heavy to excessive rainfall moving from Texas into mid-Mississippi Valley \u2014 flash flooding threat elevated given already-saturated ground from Friday night's event. Primary impact window: late afternoon through evening (4\u201310 PM). NCAA Game 2 (9 PM start) could be delayed or suspended. Coordinate with engineering on outdoor furniture securing protocol.",
+      "source": "NWS Austin (EWX) / weather.gov"
+    },
+    {
+      "title": "Toledo Festival Shooting \u2014 Soft-Target Pattern Advisory",
+      "location": "Toledo OH Old West End Festival (national awareness item)",
+      "relevance": "LOW-MODERATE",
+      "detail": "Multiple people shot Saturday evening near Toledo's Old West End Festival. Large outdoor public festival attack pattern consistent with elevated pre-World Cup soft-target environment. No Austin nexus; reinforces posture for outdoor event crowd awareness at MACC (Day 2), Super Regionals, and any property terrace gatherings. Suspects at large as of filing. Pattern alert: outdoor festivals remain highest-risk venue category nationally.",
+      "source": "FOX 7 Austin / national wire"
     }
   ],
   "civil_unrest": [
     {
-      "title": "Karmelo Anthony Trial \u2014 Weekend Recess (Day 3 Monday)",
-      "location": "Collin County Courthouse, McKinney TX (~200 mi NE) / Austin Capitol area",
-      "detail": "Trial on weekend recess; resumes Monday. Day 2 (Fri) featured highly emotional testimony: prosecution showed jury Anthony's bloody jacket; Coach Vincent Hooper testified Anthony appeared 'genuinely distressed and cried' at the scene. SRO bodycam footage showed Anthony's first words: 'He put his hands on me, I told him no.' Jury has no Black members \u2014 ongoing controversy; demonstrators outside courthouse reported clashing. Verdict-reactive protest watch for Austin remains active \u2014 monitor Capitol/Congress Ave corridor and social media for mobilization. Trial expected through ~June 16\u201320.",
+      "title": "Karmelo Anthony Trial \u2014 Prosecution Rests; Defense Opens Monday",
+      "location": "Collin County Courthouse, McKinney TX (~200 mi NE) / Austin monitor",
+      "detail": "Saturday was a rare full-session court day (nearly 9 hours). Prosecution rested after 21 witnesses \u2014 many teenagers who became emotional on the stand. Key Saturday testimony: Medical examiner Dr. Elizabeth Ventura testified Metcalf was stabbed through the heart (2.5-inch gaping wound, 'not survivable'). One witness testified Metcalf asked Anthony to leave the tent approximately 15 times before stabbing. Defense opens Monday 9 AM \u2014 self-defense argument and Frisco ISD 'no policy barring athletes from other teams tents' angle. Anthony faces 5\u201399 years or life if convicted. Social media polarization extremely high; verdict-reactive demonstration planning active online. Monitor Capitol/Congress Ave corridor and social media through verdict.",
       "level": "LOW-MODERATE"
     },
     {
-      "title": "Round Rock Pride Festival",
-      "location": "Centennial Plaza, 301 W Baghdad St, Round Rock TX (~25 mi N)",
-      "detail": "5th annual Round Rock Pride Festival, 2\u20137 PM. Free, family-marketed event. Texas Scorecard and conservative groups have flagged potential conflict with Texas law re: 'sexually oriented performances in front of minors' due to drag performers (Cynthia Lee Fontaine, Weird City Sisters). City Mayor and Councilmember giving opening remarks despite opposition. Counter-protest activity possible. No direct Austin downtown nexus but monitor for social media spillover and any incidents that could energize local activist networks.",
-      "level": "LOW-MODERATE"
+      "title": "MACC Grand Reopening Aftereffect \u2014 Rainey Corridor Residual Activity",
+      "location": "Rainey Street / 600 River St (0.4 mi NE of property)",
+      "detail": "Day 2 of MACC/Waterloo Greenway Confluence reopening weekend. Smaller programming expected Sunday vs. Saturday's grand opening. Residual foot traffic on Rainey Street corridor and hike-and-bike trail remains elevated. No specific unrest indicators; awareness item for pedestrian density on east approach to property.",
+      "level": "LOW"
     }
   ],
   "weather": {
-    "high": "Mid 80s\u00b0F",
-    "low": "Mid 70s\u00b0F",
-    "humidity": "High (96% overnight, decreasing through day)",
-    "wind": "S 5\u201310 mph",
-    "precip": "50% chance showers/thunderstorms",
+    "high": "91\u00b0F (Heat Index 103\u00b0F)",
+    "low": "76\u00b0F",
+    "humidity": "Very High \u2014 dewpoint near 74\u201376\u00b0F",
+    "wind": "S 5\u201310 mph, gusts to 20 mph",
+    "precip": "Active severe thunderstorm risk \u2014 large hail, damaging winds, isolated tornado possible",
     "notes": [
-      "Flash Flood Watch expired overnight \u2014 Friday night system produced 1\u20139\" totals across Travis/Williamson/Hays counties",
-      "Residual road impacts possible on low-lying approaches (Cesar Chavez, Waller Creek crossings)",
-      "50% precip chance lingers through afternoon/evening \u2014 pop-up storm possible during outdoor event hours",
-      "MACC Grand Reopening has major outdoor stage component \u2014 weather may affect late afternoon/evening attendance",
-      "Sunday: 50% precip chance, lows mid-70s \u2014 NCAA Super Regionals Game 2 at risk"
+      "Heat index 103\u00b0F \u2014 outdoor queuing hazardous; enforce heat protocols for valet/door staff",
+      "NWS: Severe thunderstorms with large hail, damaging winds, isolated tornadoes possible through evening",
+      "Ground already saturated from Friday night; flash flood risk elevated with any new heavy rain",
+      "Storm timing: late afternoon through evening (4\u201310 PM) \u2014 impacts Monster Jam dispersal and Super Regionals Game 2 start",
+      "Monday June 8: High 92\u00b0F, heat index 105\u00b0F \u2014 conditions continue oppressive"
     ]
   },
   "events": [
     {
-      "name": "ESB-MACC Grand Reopening \u2014 Juntos de Nuevo",
-      "venue": "Emma S. Barrientos MACC, 600 River St",
-      "distance": "0.4 mi NE",
-      "time": "11:00 AM \u2013 9:00 PM",
-      "crowd": "2,000\u20135,000+",
-      "risk": "MODERATE",
-      "detail": "Free, no-ticket. Full-day programming: live music (3 stages), artisan market, food trucks. Rainey St and Butler Trail congested all day. Peak density 5\u20139 PM."
-    },
-    {
-      "name": "NCAA Baseball Super Regionals \u2014 Texas vs. Oregon (Game 1)",
+      "name": "NCAA Baseball Super Regionals Game 2 \u2014 Texas vs. Oregon",
       "venue": "UFCU Disch-Falk Field, 1 Nolte Dr",
       "distance": "1.8 mi E",
-      "time": "7:00 PM CT (ESPN)",
-      "crowd": "~7,000",
-      "risk": "LOW-MODERATE",
-      "detail": "First of best-of-3 series. Post-game 6th Street/East Austin bar activity elevated. I-35/Red River congestion 5\u20137 PM and 9:30\u201311 PM."
+      "time": "9:00 PM CT (ESPN)",
+      "crowd": "8,500+ (capacity+)",
+      "risk": "HIGH",
+      "detail": "Texas leads series 1-0. Must-win for Oregon. Late start means post-game crowd dispersal extends past midnight \u2014 heavy 6th Street/East Austin bar and rideshare congestion through 1 AM."
     },
     {
-      "name": "Monster Jam",
+      "name": "Monster Jam \u2014 Sunday Matinee",
       "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
       "distance": "2.3 mi N",
-      "time": "Doors 6:00 PM / Show 7:00 PM",
+      "time": "Doors Noon / Show 1:00 PM",
       "crowd": "10,000+",
-      "risk": "LOW",
-      "detail": "Family motorsport event. UT campus/Guadalupe corridor congested 4\u201310 PM. Compounds post-Super Regionals traffic on I-35."
+      "risk": "MODERATE",
+      "detail": "Parking opens 10 AM. Family crowd. UT/Guadalupe corridor heavy 10 AM\u20134 PM. 103\u00b0F heat index \u2014 outdoor queuing hazardous. Dispersal 3:30\u20135 PM compounds I-35 pre-game traffic."
     },
     {
-      "name": "Waterloo Greenway Confluence Reopening",
-      "venue": "Confluence Park, adjacent to MACC (Rainey & River St)",
+      "name": "MACC/Waterloo Greenway \u2014 Day 2 Weekend Programming",
+      "venue": "600 River St / Confluence Park",
       "distance": "0.4 mi NE",
-      "time": "All Day",
-      "crowd": "1,000\u20132,000+",
+      "time": "Afternoon programming",
+      "crowd": "500\u20132,000",
       "risk": "LOW",
-      "detail": "Reopens same day as MACC. Combined foot traffic with MACC event will heavily saturate the Rainey/Waterfront corridor. No dedicated parking."
+      "detail": "Day 2 of reopening weekend. Smaller than Saturday's grand opening but Rainey Street corridor remains elevated. Outdoor event subject to storm cancellation."
     },
     {
-      "name": "Never Rest Austin \u2014 Live Music",
-      "venue": "Come and Take It Live, 1104 E 6th St",
-      "distance": "1.1 mi E",
-      "time": "Evening",
-      "crowd": "300\u2013600",
+      "name": "Sunday Brunch Service Peak",
+      "venue": "4th Street / Rainey Street / East Austin restaurant corridor",
+      "distance": "0.2\u20130.8 mi",
+      "time": "10:00 AM \u2013 2:00 PM",
+      "crowd": "Diffuse / high volume",
       "risk": "LOW",
-      "detail": "Evening concert on 6th Street corridor; adds to late-night pedestrian traffic post-Super Regionals."
+      "detail": "Typical Sunday brunch peak combined with event weekend foot traffic. Elevated jaywalking and pedestrian density on San Jacinto Blvd approach. Rideshare demand elevated."
     }
   ],
   "property_actions": [
-    "VALET \u2014 Expect surge congestion 10:30 AM\u20131 PM (MACC ribbon-cutting), 6\u20138 PM (Monster Jam/Super Regionals dual pre-event), and 9:30\u201311:30 PM (triple post-event dispersal). Pre-position additional valet staff for afternoon and evening shifts.",
-    "DOOR / LOBBY \u2014 Brief all public-facing staff on crowd density day: firm guest-only lobby protocol, heightened tailgating awareness during MACC all-day event window (11 AM\u20139 PM).",
-    "ROUTING \u2014 Advise inbound guests: avoid Rainey St corridor and Red River/UT area 11 AM\u20139 PM and 9:30\u201311:30 PM. Use Cesar Chavez eastbound or 5th St/Red River routing for hotel approach.",
-    "WEATHER \u2014 Wet pavement from Friday night flooding. Brief valet on slick surfaces. Monitor for afternoon pop-up storm (50% chance); have umbrellas at main entrance.",
-    "SITUATIONAL AWARENESS \u2014 Karmelo Anthony trial on weekend break; monitor social media and local news for any verdict-reactive protest mobilization targeted at Austin. Capitol/Congress Ave is primary flash-point corridor.",
-    "CYBER HYGIENE \u2014 FIFA WC advisory window active through June 11. Reinforce no-click policy on unsolicited emails/QR codes to F&B, front desk, and concierge staff. Report anomalous POS/Wi-Fi behavior immediately."
+    "HEAT PROTOCOL \u2014 Heat index 103\u00b0F today. Mandate water/shade rotation for all outdoor staff (valet, door, pool, terrace). Have cold water available at valet stand. Watch for guest distress \u2014 pool and terrace areas are highest risk.",
+    "STORM MONITORING \u2014 Assign one staff member per shift to monitor NWS Austin radar from 3 PM. Know storm shelter locations. Secure outdoor furniture on terrace and pool deck if storm warning issued.",
+    "VALET \u2014 Surge windows: 10 AM\u2013Noon (Monster Jam pre-event), 3:30\u20135 PM (Monster Jam dispersal + early Super Regionals arrivals), 7:30\u20139 PM (Game 2 pre-event), 11 PM\u20131 AM (Game 2 post + bar close). Pre-position overnight staff for late dispersal.",
+    "LATE-NIGHT PROTOCOL \u2014 Game 2 post-game dispersal expected 11:30 PM\u20131:00 AM. Brief overnight front desk and security on elevated pedestrian traffic on San Jacinto Blvd approach from east. Firm lobby access protocol.",
+    "GUEST ROUTING \u2014 Advise guests: avoid I-35/Red River corridor 7\u20139 PM and UT/Guadalupe 10 AM\u20134 PM. Disch-Falk post-game: avoid Red River northbound 11 PM\u20131 AM. Recommend Cesar Chavez or Congress Ave routing.",
+    "CYBER HYGIENE \u2014 FIFA WC advisory window: 4 days to June 11 tournament kickoff. Elevate staff awareness on phishing/QR code fraud to F&B, concierge, and front desk teams. Report any anomalous POS behavior immediately."
   ],
   "national_context": [
-    "FIFA World Cup 2026 \u2014 Security threat window active through June 11 (pre-tournament). FBI/DHS have issued soft-target and cyber advisories for large public venues and hospitality properties. No specific credible threat to Austin; elevated baseline posture warranted.",
-    "NSPM-11 Signed (June 5) \u2014 White House National Security Presidential Memorandum directing accelerated AI integration across national security enterprise. Hospitality-sector relevance: signals increased federal focus on critical infrastructure cybersecurity; FinCEN issued separate advisory (FIN-2026-A002) on fraud schemes same day.",
-    "Karmelo Anthony Trial \u2014 Day 2 emotional testimony (bloody jacket, SRO bodycam, coach testimony) has elevated social media polarization. Trial expected 2+ weeks. Monitor for Austin-area demonstration activity tied to verdict.",
-    "FinCEN Advisory FIN-2026-A002 (June 5) \u2014 Treasury advisory on financial fraud schemes involving unauthorized employment; flags hospitality industry as a targeted sector. Coordinate with HR/Finance on I-9 compliance and fraud indicators if applicable."
+    "FIFA World Cup 2026 \u2014 Tournament kickoff June 11 in Los Angeles, New York/New Jersey, and Dallas. T-4 days. FBI/DHS soft-target and cyber advisory window intensifying. Host-city and adjacent hospitality properties on elevated posture. Austin not a host city but elevated threat applies broadly to luxury hospitality.",
+    "Toledo OH Festival Shooting (June 6) \u2014 Multiple victims at outdoor festival, suspects at large. Reinforces soft-target threat pattern at public gatherings nationally. Cross-reference: MACC, Super Regionals, Monster Jam all fall within this profile.",
+    "Karmelo Anthony Trial \u2014 Prosecution rested Saturday (21 witnesses, 3+ days of testimony). Defense opens Monday. Trial entering critical phase \u2014 social media monitoring for Austin-area protest mobilization warranted through verdict.",
+    "Iran/US Geopolitical Tension \u2014 Euronews reports Iran-US exchanges and fragile ceasefire condition as of June 6 evening. No direct domestic impact; global instability backdrop contributes to elevated cyber threat environment per FinCEN FIN-2026-A002 advisory."
   ],
   "contacts": [
     [
@@ -175,9 +166,9 @@
     ]
   ],
   "lookaheads": [
-    "SUNDAY JUNE 7 \u2014 NCAA Super Regionals Game 2: Texas vs. Oregon, 8 PM ESPN, Disch-Falk (7,000 cap). Monster Jam Sunday matinee 1 PM Moody Center. 50% precip chance \u2014 outdoor crowd management risk.",
-    "MONDAY JUNE 8 \u2014 NCAA Super Regionals Game 3 (if necessary, TBD time). Karmelo Anthony trial resumes \u2014 emotional testimony phase continues. Monitor Capitol/Congress Ave corridor.",
-    "FIFA WORLD CUP \u2014 Tournament kicks off June 11 in LA/NY/Dallas. Threat window intensifies. Austin not a host city but elevated soft-target advisory applies to large public venues and luxury hospitality properties.",
-    "WEATHER TREND \u2014 Tropical moisture pattern persists through mid-week; repeated storm chances possible. Monitor for additional Flash Flood Watch issuances for Travis County."
+    "MONDAY JUNE 8 \u2014 Karmelo Anthony trial resumes 9 AM, defense opens. Heat index 105\u00b0F \u2014 most dangerous heat day of the stretch. NCAA Super Regionals Game 3 possible (TBD time if Oregon wins tonight). Monitor verdict-reactive protest mobilization.",
+    "TUESDAY\u2013WEDNESDAY \u2014 FIFA WC threat window at peak intensity as June 11 tournament open approaches. Maintain elevated cyber and physical posture. Austin-area venues should expect elevated threat environment through at least June 14.",
+    "WEATHER TREND \u2014 Oppressive heat continues through early week (105\u00b0F heat index Monday). Thunderstorm pattern persists \u2014 flash flood watch possible again if additional heavy rainfall.",
+    "NCAA SUPER REGIONALS \u2014 If Texas wins Game 2 tonight, they advance to Men's College World Series (Omaha, June 14). Major celebration activity in Austin Monday morning \u2014 monitor 6th Street and UT campus."
   ]
 }
