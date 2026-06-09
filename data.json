@@ -1,10 +1,10 @@
 {
-  "date_str": "June 8, 2026",
-  "day_str": "Monday",
-  "date_file": "20260608",
-  "generated_utc": "2026-06-08T10:14:25Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260608.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260608.pdf",
+  "date_str": "June 9, 2026",
+  "day_str": "Tuesday",
+  "date_file": "20260609",
+  "generated_utc": "2026-06-09T10:08:27Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260609.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260609.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -13,7 +13,7 @@
     ],
     [
       "Civil Unrest",
-      "MODERATE",
+      "HIGH",
       "Rising"
     ],
     [
@@ -23,152 +23,143 @@
     ],
     [
       "Weather",
-      "MODERATE",
-      "Watch"
+      "LOW",
+      "Stable"
     ],
     [
       "Travel / Mobility",
-      "LOW-MODERATE",
+      "LOW",
       "Stable"
     ]
   ],
-  "bluf": "Monday is a trial-watch and celebration day. Karmelo Anthony defense opens 9 AM \u2014 self-defense argument begins; expect heightened social media activity and possible Austin demonstration mobilization as trial enters its most emotionally charged phase. Texas Longhorns swept Oregon Sunday (6-5, Game 2) to advance to the College World Series (Omaha, June 12) \u2014 anticipate post-celebration residual bar traffic on 6th Street and campus through midday. Madison Beer at Moody Center (8 PM) brings 15,000+ to UT corridor for the evening. Severe thunderstorms possible 1\u20134 PM \u2014 brief shower/storm window overlaps lunch service and early afternoon terrace/pool activity. Heat index 91\u00b0F today, rising to 105\u00b0F Tuesday \u2014 enforce heat protocols. NYC Penn Station stabbing (5 victims, suspect arrested) reinforces elevated soft-target awareness in crowded transit/venue environments. FIFA WC T-3 days: cyber and physical posture remains elevated.",
+  "bluf": "Tuesday is the highest civil unrest risk day in the current cycle. Closing arguments begin in the Karmelo Anthony murder trial \u2014 prosecution argues Anthony was the aggressor; defense argues self-defense in a split-second fear response. Jury deliberations could begin as early as today. Social media mobilization for Austin protests at peak \u2014 monitor Capitol/Congress Ave corridor all day and into the evening. Blues on the Green (free concert, Zilker Park) draws 5,000\u201315,000 today through tomorrow; foot traffic elevated on South Congress and Barton Springs corridors. Weather: high 92\u00b0F, 20% storm chance 1\u20134 PM \u2014 manageable but monitor radar. Israel-Iran declared mutual pause in missile exchanges late Monday \u2014 fragile ceasefire holds for now; Iranian diaspora sentiment elevated ahead of FIFA WC (T-2 days). NBA Finals Game 3: Trump attended MSG last night, booed \u2014 elevated security footprint at Knicks vs. Spurs sets national security tone. Cyber posture remains ELEVATED entering FIFA WC final 48-hour window.",
   "incidents": [
     {
-      "title": "Karmelo Anthony Trial \u2014 Defense Opens (Day 4)",
+      "title": "Karmelo Anthony Trial \u2014 Closing Arguments (Day 5)",
       "location": "Collin County Courthouse, McKinney TX (~200 mi NE) / Austin monitor",
+      "relevance": "HIGH",
+      "detail": "Closing arguments begin Tuesday in the Karmelo Anthony murder trial \u2014 the most emotionally charged day of the proceeding. Prosecution will argue Anthony was the aggressor who had no legal justification to use deadly force: he was in another team's tent, was asked to leave multiple times, had a knife already in hand, and stabbed Metcalf in the chest. Defense will counter that Anthony acted in a split-second fear response to Metcalf's physical contact and had a reasonable belief of serious bodily harm. Anthony did NOT testify in his own defense \u2014 defense rested Monday without calling a single witness who substantiated the self-defense claim. Analysts assess prosecution holds strong advantage. Jury deliberations could begin Tuesday afternoon or Wednesday. Verdict window: ~June 10\u201320. CRITICAL: The moment closing arguments begin and especially if a verdict is announced, Austin protest risk escalates to HIGH. Monitor Capitol/Congress Ave corridor, UT campus, and social media platforms (X, Telegram, Instagram) continuously. No confirmed permitted marches today, but spontaneous gatherings likely if verdict breaks.",
+      "source": "Court TV / Fox News / YouTube live coverage"
+    },
+    {
+      "title": "Israel\u2013Iran Mutual Ceasefire Pause \u2014 Fragile Truce Resumes",
+      "location": "Middle East (national geopolitical awareness; Austin diaspora monitor)",
       "relevance": "MODERATE",
-      "detail": "Defense begins presenting its case Monday 9 AM after prosecution rested Saturday following 21 witnesses. Defense argument centers on self-defense: Anthony's team will argue Metcalf was the aggressor and that Frisco ISD had no policy barring athletes from other teams' tents. Key defense moves expected: (1) challenge credibility of teen witnesses, (2) present SRO bodycam in full context, (3) humanize Anthony. All-white jury controversy continues \u2014 social media polarization at peak. Multiple civil rights groups calling for mistrial on jury composition grounds. Legal analysts say full acquittal unlikely; manslaughter conviction or hung jury most probable outcomes. Austin protest watch: monitor Capitol/Congress Ave corridor and social media for mobilization tied to verdict. Trial expected to continue through ~June 16\u201320.",
-      "source": "CBS Texas / Shadow League / NCAA.com"
+      "detail": "Israel and Iran traded long-range missile exchanges Sunday\u2013Monday for the first time since an April ceasefire. Iran launched ~30 ballistic missiles at Israeli targets; Israel struck Iranian air defense installations and a petrochemical facility in western Iran. By Monday evening, both sides declared a pause in hostilities. Netanyahu stated the situation is 'contained'; Iran's president confirmed a halt while demanding Lebanon ceasefire conditions. Trump pressured both sides on Truth Social. AUSTIN RELEVANCE: Iranian diaspora community sentiment significantly elevated ahead of FIFA WC (Iran plays June 15 vs. New Zealand in LA). Iranian team is staged in Tijuana \u2014 U.S. officials blocked their base camp entry. Protest activity from Iranian diaspora is expected to intensify through WC. Monitor any community gatherings or demonstrations around Iranian match dates. No direct Austin threat but elevated baseline awareness required.",
+      "source": "PBS NewsHour / Deutsche Welle / AP"
     },
     {
-      "title": "Texas Longhorns CWS Celebration \u2014 Post-Sweep Activity",
-      "location": "UT Campus / 6th Street / Downtown Austin",
-      "relevance": "LOW-MODERATE",
-      "detail": "Texas swept Oregon Sunday (Game 2: 6-5 walk-off style) to advance to the Men's College World Series in Omaha (June 12). Post-game celebration activity on UT campus and 6th Street entertainment district reported Sunday night through early Monday. Residual bar and restaurant traffic elevated through midday Monday. No specific unrest indicators; standard post-major-win crowd management applies. Brief valet/lobby staff on elevated walk-in requests and ride-share demand through 1 PM Monday.",
-      "source": "NCAA.com / Longhorns Country"
+      "title": "NBA Finals Game 3 \u2014 Trump at MSG; Presidential Security Footprint",
+      "location": "Madison Square Garden, New York City (national awareness)",
+      "relevance": "LOW",
+      "detail": "President Trump attended NBA Finals Game 3 (Knicks vs. Spurs) at Madison Square Garden Monday night \u2014 the first sitting U.S. president to attend an NBA Finals game. NYPD and Secret Service established a multi-block perimeter, canceled outdoor watch parties, implemented TSA-style screening, and required 2-hour early arrival. Trump was booed during the National Anthem and upon arrival at MSG. NYC Mayor Zohran Mamdani also attended. No Austin nexus. Monitoring note: national political temperature remains elevated; any local Knicks/Spurs watch party activity or political demonstrations are low-risk but should be logged if they occur near property.",
+      "source": "AP / Variety / WTOP"
     },
     {
-      "title": "Madison Beer \u2014 Moody Center ATX (The 1976 Tour)",
-      "location": "Moody Center ATX, 2001 Robert Dedman Dr (2.3 mi N of property)",
+      "title": "Blues on the Green \u2014 Zilker Park (Free Outdoor Concert)",
+      "location": "Zilker Metropolitan Park, 2100 Barton Springs Rd (1.8 mi S of property)",
       "relevance": "LOW-MODERATE",
-      "detail": "Madison Beer with Thuy and Lulu Simon \u2014 Monday evening concert at Moody Center (15,000 cap). Doors estimated 7 PM, show 8 PM. UT corridor and Guadalupe St congested 6\u201310 PM. Primarily 18\u201330 female demographic \u2014 elevated rideshare demand post-show (10:30 PM\u2013midnight). Standard concert crowd management applies. Secondary event: Metric with Broken Social Scene and Stars at Moody Amphitheater (6:30 PM, outdoor \u2014 weather-dependent).",
-      "source": "Moody Center ATX / SeatGeek"
-    },
-    {
-      "title": "NYC Penn Station Mass Stabbing \u2014 Soft-Target Advisory",
-      "location": "Pennsylvania Station, New York City (national awareness item)",
-      "relevance": "LOW-MODERATE",
-      "detail": "Five people stabbed at Penn Station Sunday; suspect arrested. Mass-casualty knife attack in a major transit hub reinforces the current soft-target threat environment nationally \u2014 particularly in crowded venue lobbies, hotel entrances, and event ingress/egress points. No Austin or Four Seasons nexus. Pattern alert: Combine with Toledo festival shooting (June 6) and FIFA WC threat window \u2014 maintain heightened lobby and valet situational awareness. Brief door and security staff on spontaneous violence indicators.",
-      "source": "People Magazine / National wire"
+      "detail": "Blues on the Green is Austin's longest-running free outdoor concert series. Tonight features Alejandro Escovedo, Brownout, Mama Duke, Aaron Behrens, Nik Parr & the Selfless Lovers, and Kylie Hernandez. Event continues through June 10. Expected attendance: 5,000\u201315,000 per night. Barton Springs Rd and South Congress corridor congested 5\u201310:30 PM. Rideshare demand elevated post-show (~10 PM). Free admission draws mixed demographics including large crowds of young adults; alcohol-permissive outdoor environment \u2014 monitor for intoxicated pedestrian traffic near property. Standard free-concert crowd management applies.",
+      "source": "Austin Texas.org / Songkick"
     }
   ],
   "civil_unrest": [
     {
-      "title": "Karmelo Anthony Trial \u2014 Defense Phase; Austin Protest Watch Active",
-      "location": "McKinney TX (trial) / Austin Capitol/Congress Ave (monitor)",
-      "detail": "As defense opens, social media activity around Austin-area demonstration planning is at its highest point since trial began. Civil rights groups have publicly criticized the all-white jury selection. Defense argument (self-defense) likely to inflame both sides of the debate simultaneously. Verdict-reactive protest planning observed across multiple platforms targeting Austin. Monitor UT campus, Capitol grounds, and Congress Ave corridor. No confirmed permitted march for today but spontaneous gathering risk elevated during and after major trial developments.",
-      "level": "MODERATE"
+      "title": "Karmelo Anthony Trial \u2014 Closing Arguments; Austin Protest Risk at PEAK",
+      "location": "McKinney TX (trial) / Austin Capitol/Congress Ave/UT Campus (monitor)",
+      "detail": "Closing arguments today represent the highest single-day civil unrest risk in this trial cycle. Social media mobilization for Austin demonstrations has been building for 48+ hours. Civil rights groups have publicly called for rally activities tied to any verdict outcome. Both a conviction AND an acquittal carry demonstration risk \u2014 particularly on social justice grounds given the all-white jury controversy. Monitor X, Instagram, Telegram for 'Austin' protest coordination keywords. Key watch zones: Texas State Capitol grounds, Congress Ave bridge, UT West Mall, 6th Street. Exterior staff should be briefed to avoid engaging demonstrators and to immediately report any crowd movement toward the property.",
+      "level": "HIGH"
     },
     {
-      "title": "FIFA WC \u2014 Iranian Diaspora Protest (Los Angeles)",
-      "location": "Los Angeles (national awareness); Austin monitor",
-      "detail": "200+ Iranian diaspora protesters gathered outside LA Stadium Sunday ahead of Iran's first WC match (June 15 vs. New Zealand). Protesters waved pre-revolutionary 'Lion and Sun' flags; FIFA reportedly considering banning the flag inside venues. Separate geopolitical context: Israel confirmed strikes on Iranian 'defense systems.' No Austin nexus but signals protest activity pattern will intensify as WC progresses. Elevates baseline threat posture for any Iran-related community events locally.",
-      "level": "LOW"
+      "title": "FIFA WC \u2014 Iranian Diaspora; Anti-Government Sentiment (National)",
+      "location": "Los Angeles (primary) / National awareness / Austin monitor",
+      "detail": "Iranian team staged in Tijuana; U.S. officials denied base camp access. Iran-Israel missile exchange Sunday-Monday further inflamed diaspora community sentiment. Pre-revolutionary 'Lion and Sun' flag protests expected to intensify as WC begins June 11. Los Angeles (June 15 Iran match) is primary flashpoint but Austin's tech community has a notable Iranian diaspora population. Monitor any local gathering activity.",
+      "level": "LOW-MODERATE"
     }
   ],
   "weather": {
-    "high": "91\u00b0F",
-    "low": "77\u00b0F",
-    "humidity": "High \u2014 dewpoint ~74\u00b0F",
-    "wind": "S 5\u201310 mph",
-    "precip": "20% \u2014 brief shower/thunderstorm possible midday",
+    "high": "92\u00b0F",
+    "low": "76\u00b0F",
+    "humidity": "High \u2014 dewpoint ~74\u201375\u00b0F",
+    "wind": "SSE 5\u201310 mph, gusts to 20 mph",
+    "precip": "20% \u2014 brief shower/thunderstorm possible afternoon",
     "notes": [
-      "Slight chance of showers and thunderstorms 1\u20134 PM \u2014 outdoor lunch/terrace and pool advisory",
-      "Heat index 91\u00b0F today; rising to 102\u2013105\u00b0F Tuesday \u2014 most dangerous heat day of stretch",
-      "Severe storms forecast returning Monday per NWS Instagram (meteorologist post) \u2014 monitor afternoon radar",
-      "Ground still saturated from Friday; any rainfall will move quickly through drainage",
-      "Metric concert at Moody Amphitheater (outdoor) weather-dependent \u2014 potential early dispersal"
+      "High 92\u00b0F \u2014 heat index manageable today (~95\u00b0F), down from Tuesday forecast of 102\u2013105\u00b0F",
+      "Slight chance of showers and thunderstorms 1\u20134 PM (20%) \u2014 monitor radar for Zilker Park event",
+      "Heat index climbs to 100\u2013102\u00b0F Wednesday as warm front moves through \u2014 brief outdoor staff now",
+      "Blues on the Green (outdoor) weather-contingent for optimal attendance \u2014 no cancellation expected",
+      "Ground remains saturated from weekend rains; drainage moves fast after any rainfall"
     ]
   },
   "events": [
     {
-      "name": "Madison Beer \u2014 The 1976 Tour (w/ Thuy & Lulu Simon)",
-      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
-      "distance": "2.3 mi N",
-      "time": "Doors 7:00 PM / Show 8:00 PM",
-      "crowd": "15,000+",
+      "name": "Blues on the Green 2026 (Night 1 of 2)",
+      "venue": "Zilker Metropolitan Park, 2100 Barton Springs Rd",
+      "distance": "1.8 mi S",
+      "time": "Gates ~5:00 PM / Music ~7:00 PM",
+      "crowd": "5,000\u201315,000",
       "risk": "LOW-MODERATE",
-      "detail": "15,000-cap arena show. UT/Guadalupe corridor congested 6\u201310:30 PM. Rideshare demand elevated 10:30 PM\u2013midnight post-show."
+      "detail": "Free outdoor concert \u2014 Alejandro Escovedo headlining. Barton Springs Rd and S Congress congested 5\u201310:30 PM. Rideshare surge post-show ~10 PM. Free admission + mixed age group; elevated intoxicated pedestrian traffic near property."
     },
     {
-      "name": "Metric w/ Broken Social Scene & Stars",
-      "venue": "Moody Amphitheater at Waterloo Park, 403 E 15th St",
-      "distance": "1.2 mi N",
-      "time": "6:30 PM",
-      "crowd": "5,000\u20138,000",
-      "risk": "LOW",
-      "detail": "Outdoor amphitheater show \u2014 weather-dependent. Near Capitol area; 1.2 mi from property. Adds to afternoon/evening 15th St and Congress Ave traffic."
-    },
-    {
-      "name": "Vacations \u2014 Live at Antone's",
+      "name": "Vacations \u2014 Live at Antone's Nightclub",
       "venue": "Antone's Nightclub, 305 E 5th St",
       "distance": "0.6 mi N",
       "time": "8:00 PM",
       "crowd": "300\u2013500",
       "risk": "LOW",
-      "detail": "Intimate live music venue. Minor foot traffic on E 5th St corridor."
+      "detail": "Intimate live music. Minor E 5th St foot traffic. Low risk."
     },
     {
-      "name": "Texas Longhorns CWS Celebration (Residual)",
-      "venue": "6th Street / UT Campus",
-      "distance": "0.5\u20131.5 mi N",
-      "time": "Through 1:00 PM",
-      "crowd": "Diffuse / elevated",
-      "risk": "LOW",
-      "detail": "Post-sweep celebration activity residual from Sunday night. Elevated brunch and bar traffic through midday. No dedicated event \u2014 ambient crowd elevation only."
+      "name": "Austin FC Soccer Celebration (T-2 Days)",
+      "venue": "Auditorium Shores / 800 W Riverside Dr (planning activity; event June 11)",
+      "distance": "1.0 mi S",
+      "time": "Scheduled for June 11",
+      "crowd": "TBD",
+      "risk": "LOW (today) / MODERATE (June 11)",
+      "detail": "City-permitted Austin FC Soccer Celebration event at Auditorium Shores scheduled for June 11 \u2014 coincides with FIFA WC kickoff day. Permitting active June 11. No foot traffic today but note for Thursday planning."
     }
   ],
   "property_actions": [
-    "TRIAL WATCH \u2014 Karmelo Anthony defense opens 9 AM. Monitor Capitol/Congress Ave corridor and social media throughout the day for protest mobilization. Brief all exterior staff on spontaneous demonstration indicators. No confirmed march today but posture is elevated.",
-    "HEAT PREP (TOMORROW) \u2014 Heat index forecast 102\u2013105\u00b0F Tuesday. Brief outdoor staff today. Ensure cold water stations are stocked at valet and main entrance for the next 48 hours. Pool and terrace crowd management protocols ready.",
-    "WEATHER \u2014 20% storm chance 1\u20134 PM today. Monitor radar. Umbrella availability at main entrance. Advise outdoor-event-bound guests (Moody Amphitheater) of weather status.",
-    "MOODY CENTER \u2014 Madison Beer (15,000 cap, 8 PM) drives UT corridor congestion 6\u201310:30 PM. Advise guests to avoid Guadalupe/Red River 6\u201311 PM. Rideshare surge post-show midnight.",
-    "LOBBY AWARENESS \u2014 NYC Penn Station stabbing (5 victims, Sunday) and Toledo festival shooting (Saturday) are back-to-back soft-target incidents. Brief door and security staff on lobby situational awareness and spontaneous violence indicators during high-pedestrian windows.",
-    "CYBER HYGIENE \u2014 FIFA WC T-3 days to June 11 kickoff. Highest-risk period begins now. Reiterate no-click policy and QR code caution to all guest-facing departments. Report any anomalous POS behavior immediately."
+    "TRIAL WATCH \u2014 CRITICAL: Closing arguments begin today in the Karmelo Anthony trial. This is the highest civil unrest risk day. Brief ALL exterior staff at shift change. Establish continuous monitoring of Capitol/Congress Ave corridor and social media. If verdict announced today, escalate to HIGH posture immediately.",
+    "PROTEST READINESS \u2014 Ensure lobby and exterior staff know the response protocol if a demonstration approaches the property perimeter. No engagement with demonstrators. Contact Austin PD liaison (non-emergency: 512-974-5000) if crowd exceeds 50 persons within one block of 98 San Jacinto Blvd.",
+    "BLUES ON THE GREEN \u2014 Free outdoor concert at Zilker Park tonight (5,000\u201315,000). Barton Springs Rd / S Congress congested 5\u201310:30 PM. Advise guests heading south. Elevated intoxicated pedestrian foot traffic near property 9\u201311 PM. Valet and door staff on heightened awareness.",
+    "WEATHER \u2014 20% afternoon storm chance 1\u20134 PM. Monitor radar. Umbrellas at main entrance. Advise Zilker-bound guests of conditions. Wednesday heat index 100\u2013102\u00b0F \u2014 brief outdoor staff today on protocols.",
+    "CYBER HYGIENE \u2014 FIFA WC T-2 days. ELEVATED cyber posture continues. Reiterate no-click and QR code caution to all guest-facing departments. Report any anomalous POS or network behavior immediately to IT and Security.",
+    "GEOPOLITICAL AWARENESS \u2014 Israel-Iran resumed then paused missile exchanges Monday. Ceasefire fragile. Brief concierge and front desk: if guests inquire about international travel safety, refer to property manager. Iranian WC team in Tijuana \u2014 diaspora community sentiment elevated; no Austin threat but maintain baseline awareness."
   ],
   "national_context": [
-    "FIFA World Cup 2026 \u2014 T-3 days to June 11 kickoff (LA/NY/Dallas). Threat window now at peak intensity. FBI/DHS soft-target and cyber advisories elevated for major hospitality properties. Iranian diaspora protests began Sunday at LA Stadium \u2014 pattern will intensify through tournament.",
-    "NYC Penn Station Stabbing (June 7) \u2014 5 victims, suspect arrested. Combined with Toledo festival shooting (June 6), represents back-to-back mass-casualty incidents at high-density public spaces. Reinforces soft-target threat pattern nationally entering FIFA WC period.",
-    "Karmelo Anthony Trial \u2014 Defense opens. All-white jury controversy; civil rights groups calling for mistrial. High social media polarization. Verdict-reactive protest mobilization planning active online for Austin. Monitor through verdict (~June 16\u201320).",
-    "Supreme Court Order List \u2014 Monday 9:30 AM. SCOTUS Building closed to public (Historical Society event). Any major controversial ruling today could trigger rapid protest activity. Monitor SCOTUS Twitter/social media at 9:30 AM alongside trial developments."
+    "Karmelo Anthony Murder Trial \u2014 Closing Arguments Tuesday. Defense rested Monday without a witness who substantiated self-defense. Prosecution holds advantage per legal analysts. Jury deliberations could begin today; verdict window June 10\u201320. Austin protest risk at cycle peak.",
+    "Israel-Iran Missile Exchange / Ceasefire Pause (June 8) \u2014 Both sides traded ~30 ballistic missiles; declared mutual pause by Monday evening. Fragile ceasefire resumes. Trump mediation active. Elevated diaspora tensions ahead of FIFA WC Iranian team matches (June 15).",
+    "FIFA World Cup 2026 \u2014 T-2 Days to June 11 Kickoff \u2014 FBI/DHS soft-target and cyber advisories at peak. Iranian team staged in Tijuana after U.S. denied base camp access. Unprecedented security posture at all host cities (LA, NYC, Dallas, Seattle). Austin FC Soccer Celebration at Auditorium Shores permitted for June 11.",
+    "NBA Finals Game 3 \u2014 Trump at MSG (June 8) \u2014 First sitting president at NBA Finals. Multi-block NYPD/Secret Service perimeter. Trump booed during National Anthem. National political temperature elevated. Knicks vs. Spurs Game 4 expected Wednesday."
   ],
   "contacts": [
-    [
-      "APD Non-Emergency",
-      "512-974-5000"
-    ],
-    [
-      "Travis Co. Emergency Mgmt",
-      "512-854-4615"
-    ],
-    [
-      "NWS Austin",
-      "512-899-4400"
-    ],
-    [
-      "Austin Energy Emergency",
-      "512-322-9100"
-    ],
-    [
-      "FS Security Office // 41",
-      "Internal"
-    ]
+    {
+      "role": "APD Non-Emergency",
+      "number": "512-974-5000"
+    },
+    {
+      "role": "APD Emergency",
+      "number": "911"
+    },
+    {
+      "role": "Austin Emergency Mgmt",
+      "number": "512-974-0400"
+    },
+    {
+      "role": "NWS Austin",
+      "number": "512-854-9301"
+    },
+    {
+      "role": "Property Security Direct",
+      "number": "Internal x2911"
+    }
   ],
   "lookaheads": [
-    "TUESDAY JUNE 9 \u2014 Heat index 102\u2013105\u00b0F \u2014 most dangerous heat day of the stretch. Full heat emergency protocols. Karmelo Anthony trial continues (defense Day 2). Madison Beer tour moves on; Moody Center dark.",
-    "WEDNESDAY\u2013THURSDAY \u2014 Karmelo Anthony trial Day 3/4 of defense. Verdict window approaching June 16\u201320. Maintain protest watch. Heat index gradually moderating mid-week.",
-    "JUNE 11 \u2014 FIFA World Cup kickoff (LA/NY/Dallas). Threat window at maximum. Austin not a host city but luxury hospitality posture elevated nationwide. Iran vs. New Zealand June 15 \u2014 diaspora protest activity expected to peak.",
-    "JUNE 12 \u2014 Men's College World Series begins in Omaha, NE. Texas Longhorns participating \u2014 watch for Austin fan travel surge and potential celebratory gatherings if Texas advances."
+    "WEDNESDAY JUNE 10 \u2014 Jury deliberations in Karmelo Anthony trial likely begin (Day 1 or 2 of deliberations). Heat index climbs to 100\u2013102\u00b0F \u2014 warm front moves through, bringing increased humidity. Isolated thunderstorms possible. Blues on the Green Night 2 at Zilker Park. Full heat protocols in effect. Maintain HIGH protest posture until verdict is announced.",
+    "THURSDAY JUNE 11 \u2014 FIFA WORLD CUP KICKOFF (Los Angeles). Austin FC Soccer Celebration at Auditorium Shores (1.0 mi S). Heat index 100\u2013102\u00b0F continues. If Karmelo Anthony verdict announced, Austin protest risk escalates immediately \u2014 maintain rapid response capability. Cyber threat window at maximum for WC kickoff day.",
+    "FRIDAY JUNE 12 \u2014 Possible severe weather day (NWS monitoring). Heat index 98\u2013102\u00b0F. Men's College World Series begins in Omaha (Texas Longhorns participating \u2014 watch Austin fan travel surge). Karmelo Anthony verdict watch continues.",
+    "JUNE 15 \u2014 Iran vs. New Zealand (LA). Highest Iranian diaspora protest day of WC. Austin not a host city but elevated diaspora community activity possible. Maintain civil unrest watch through WC tournament."
   ]
 }
