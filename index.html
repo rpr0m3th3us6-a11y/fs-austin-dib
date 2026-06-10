@@ -516,9 +516,17 @@ function renderDIB(d) {
   document.getElementById('national-body').innerHTML = d.national_context.map(n =>
     `<li>${n}</li>`).join('');
 
-  // Look-aheads
-  document.getElementById('lookahead-body').innerHTML = d.lookaheads.map(l =>
-    `<div class="lookahead-item">&#x1F538; ${l}</div>`).join('');
+  // Look-aheads — each entry is [timeframe, item, action_required]
+  document.getElementById('lookahead-body').innerHTML = d.lookaheads.map(l => {
+    const timeframe = Array.isArray(l) ? l[0] : l;
+    const item      = Array.isArray(l) ? l[1] : '';
+    const action    = Array.isArray(l) ? l[2] : '';
+    return `<div class="lookahead-item">
+      <span style="display:inline-block;background:#0D1B2A;color:#fff;font-size:10px;font-weight:700;padding:2px 7px;border-radius:3px;margin-right:6px;vertical-align:middle">${timeframe}</span>
+      <span style="font-weight:600;color:#1a1a1a">${item}</span>
+      ${action ? `<div style="font-size:11px;color:#555;margin-top:3px;padding-left:4px">&#x27A4; ${action}</div>` : ''}
+    </div>`;
+  }).join('');
 }
 </script>
 </body>
