@@ -1,10 +1,10 @@
 {
-  "date_str": "June 10, 2026",
-  "day_str": "Wednesday",
-  "date_file": "20260610",
-  "generated_utc": "2026-06-10T11:26:10Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260610.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260610.pdf",
+  "date_str": "June 11, 2026",
+  "day_str": "Thursday",
+  "date_file": "20260611",
+  "generated_utc": "2026-06-11T10:05:06Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260611.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260611.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -19,139 +19,152 @@
     [
       "Cyber / Fraud",
       "HIGH",
-      "Rising"
+      "Active"
     ],
     [
       "Weather",
-      "MODERATE",
-      "Watch"
+      "LOW",
+      "Stable"
     ],
     [
       "Travel / Mobility",
-      "LOW",
-      "Stable"
+      "LOW-MOD",
+      "Watch"
     ]
   ],
-  "bluf": "Wednesday brings the highest combined threat posture since this brief was established. Karmelo Anthony was found GUILTY of murder Tuesday evening and immediately sentenced to 35 years. Crowd outside the Collin County Courthouse broke into shoving, chanting 'Free Karmelo,' and traded insults between opposing groups. Austin civil unrest risk is now at its PEAK \u2014 protests expected throughout Wednesday on Capitol/Congress Ave corridor and UT campus. Simultaneously, U.S. forces launched retaliatory strikes against Iran after Iran downed a U.S. Army Apache helicopter near the Strait of Hormuz. Iran retaliated against the U.S. Fifth Fleet (Bahrain), a U.S. airbase in Jordan, and Kuwait \u2014 active armed conflict is underway. FIFA World Cup opens TOMORROW (June 11) \u2014 Iranian diaspora tensions at peak given military conflict; cyber posture is HIGH. Heat index 98\u2013102\u00b0F today. All senior staff brief before morning shift. Emergency escalation protocols on standby.",
+  "bluf": "Thursday is the highest sustained combined threat day this brief has recorded. FIFA World Cup 2026 opens today \u2014 Mexico vs. South Africa (2 PM CDT). FBI/DHS drone zero-tolerance and FAA no-fly zones now active. U.S. plays June 12 \u2014 today is maximum security footprint day. Simultaneously, U.S.-Iran Day 2 active war: CENTCOM struck near Tehran overnight with 49 Tomahawk missiles; Iran closed the Strait of Hormuz; Iran retaliated against Bahrain, Kuwait, and Jordan for a second straight night; Kuwait temporarily closed its airspace. Trump pledged more strikes if Iran doesn't negotiate. Iranian diaspora tensions are at an absolute ceiling \u2014 Iran plays June 15 in LA. Cyber posture is HIGH and active \u2014 WC-themed phishing campaigns confirmed active. Karmelo Anthony post-verdict Day 3: protesters clashed at courthouse Wednesday; social media mobilization continues; Austin Capitol/Congress corridor remains on watch. Austin FC Soccer Celebration at Auditorium Shores (1.0 mi S, 5,000\u201320,000) this evening. Charlie Puth at Moody Center (7:30 PM, sold out, 15,000+, 2.3 mi N). Weather: high 93\u00b0F, manageable. Brief all staff. Escalation protocols on standby.",
   "incidents": [
     {
-      "title": "Karmelo Anthony \u2014 GUILTY + 35-Year Sentence",
-      "location": "Collin County Courthouse / Austin-wide protest watch",
+      "title": "FIFA World Cup 2026 \u2014 Day 1 Opens (Maximum Threat Window)",
+      "location": "Mexico City (opening match) / Los Angeles / New York / Dallas \u2014 National",
       "relevance": "HIGH",
-      "detail": "Karmelo Anthony, 19, was found GUILTY of murder Tuesday evening after jury deliberated less than three hours. Immediately sentenced to 35 years in prison. The jury rejected his self-defense claim \u2014 Anthony never testified and defense rested without any witness substantiating self-defense. Crowd outside the courthouse broke into shoving, chanting 'Free Karmelo,' and emotional confrontations between opposing groups. Deputies monitored. Wednesday is historically the highest demonstration day post-verdict. Civil rights groups had pre-positioned protest activity. Guilty verdict with 35-year sentence + all-white jury controversy will drive sustained Austin street action. PRIORITY WATCH ZONES: Texas State Capitol grounds, Congress Ave, UT West Mall, 6th Street. Exterior staff must not engage demonstrators. Contact APD non-emergency (512-974-5000) if any crowd exceeds 50 persons within 2 blocks of 98 San Jacinto Blvd. Maintain HIGH posture all day.",
-      "source": "CNN / ABC News / Dallas Morning News / Fox News"
+      "detail": "FIFA World Cup 2026 officially opens today with Mexico vs. South Africa at Estadio Azteca in Mexico City (2 PM CDT). The U.S. does not play until tomorrow, June 12 (Inglewood, CA, 9 PM ET vs. Paraguay) \u2014 but today is the maximum security posture day for the entire tournament. FBI is enforcing a zero-tolerance drone policy: unauthorized UAVs within 3 miles of any WC venue face $100,000 federal fines and criminal charges; Congress has authorized state/local law enforcement to neutralize rogue drones for the first time. FAA temporary flight restrictions (TFRs) active at all 11 U.S. host venues. DHS Secretary Mullin confirmed federal agents have already intercepted multiple TFR violations at recent test events. Controversy: U.S. denied entry to Somali referee Omar Artan citing 'vetting concerns' \u2014 Trump administration claimed derogatory information; FIFA had vetted him for 3 years. Artan returned to Somalia; FIFA confirmed his removal from the tournament. This will drive additional outrage in Muslim and African diaspora communities. AUSTIN RELEVANCE: Not a host city, but luxury hospitality threat posture elevated. Austin FC Soccer Celebration at Auditorium Shores (1.0 mi S) this evening. Enforce cyber hygiene maximum posture \u2014 WC-themed phishing and credential harvesting campaigns are confirmed active. Monitor all POS and network anomalies. Staff: do not click ANY WC-related links from unverified sources.",
+      "source": "CBS News / AP / DHS / FBI / mykhel.com / USAO SDNY"
     },
     {
-      "title": "U.S.\u2013Iran Active Armed Conflict",
-      "location": "Middle East (Bahrain / Jordan / Kuwait) \u2014 Austin diaspora monitor",
+      "title": "U.S.\u2013Iran Active War \u2014 Day 2 Strikes; Strait of Hormuz Closed",
+      "location": "Iran / Bahrain / Kuwait / Jordan / Global shipping lanes",
       "relevance": "HIGH",
-      "detail": "ESCALATION CONFIRMED: Iran downed a U.S. Army Apache helicopter near the Strait of Hormuz on June 9. Both crew members rescued in a nighttime special operations mission. U.S. CENTCOM launched 'self-defense strikes' against Iranian targets in southern Iran. Iran's IRGC then struck: U.S. Fifth Fleet Headquarters in Bahrain; U.S. airbase in Jordan; Kuwait. Active armed conflict between U.S. and Iran \u2014 prior ceasefire has collapsed. AUSTIN RELEVANCE: Iranian diaspora in Austin's tech sector deeply alarmed \u2014 combination of WC team staged in Tijuana, military strikes, and WC opening tomorrow (June 11). Brief all staff on avoiding geopolitical commentary with guests. Log any suspicious inquiries about U.S. military operations. DHS/FBI emergency protocols now active at all WC host cities.",
-      "source": "Al Jazeera / CBS News / ABC News / NYT"
+      "detail": "ESCALATION: U.S. Central Command launched a second, larger round of airstrikes against Iran overnight (concluded ~4:30 AM Tehran time Thursday). CENTCOM confirmed 49 Tomahawk cruise missiles fired at Iranian military surveillance, communication, and air defense installations \u2014 some as close as 40 miles from Tehran. U.S. Air Force, Marines, and Navy all involved. Explosions heard in Tehran, Bandar Abbas, Qeshm, Minab, and Sirik. Iran retaliated against U.S. Fifth Fleet (Bahrain), U.S. airbase in Jordan, and Kuwait for a second consecutive night. Kuwait temporarily closed its airspace; Bahrain activated missile alert systems. Iran declared the Strait of Hormuz closed to all vessels including oil tankers \u2014 CENTCOM disputes this claim but oil prices are surging. Israel activated shelter alerts in northern Israel amid reports of potential incoming fire from Lebanon. UN Secretary-General Guterres called the ceasefire a 'lesser-fire.' Trump: 'We negotiate with bombs.' Defense Secretary Hegseth: CENTCOM would 'be busy tonight.' AUSTIN RELEVANCE (HIGH): Iranian diaspora community is at maximum tension. Iran's WC team is in Tijuana \u2014 Iran plays June 15 in LA. Brief all staff: avoid any geopolitical commentary with guests. Log any unusual inquiries about Middle East military operations. Oil price spike may affect travel and logistics planning. Cyber threat: Iranian state-sponsored groups have a history of retaliatory cyber operations against U.S. targets during armed conflict periods.",
+      "source": "NYT Live Updates / AP / Al Jazeera / CNN"
     },
     {
-      "title": "FIFA World Cup 2026 \u2014 Opens TOMORROW (June 11)",
-      "location": "Los Angeles / New York / Dallas (host cities) \u2014 National threat advisory",
-      "relevance": "HIGH",
-      "detail": "FIFA World Cup 2026 opens tomorrow, June 11, in Los Angeles. Maximum threat window for the entire WC tournament is NOW. FBI and DHS operating at emergency protocols given the active U.S.-Iran armed conflict. Iranian team staged in Tijuana after U.S. denied their base camp entry. Pre-revolutionary flag protests and anti-Islamic Republic demonstrations expected at the LA opening. Austin FC Soccer Celebration event at Auditorium Shores (1.0 mi S) tomorrow evening \u2014 brings 5,000\u201320,000 to the Riverside corridor. Cyber posture at maximum \u2014 phishing, credential harvesting, and guest network exploitation attempts should be treated as near-certain. Report all POS anomalies and network irregularities immediately. IT should conduct guest Wi-Fi infrastructure scan today.",
-      "source": "DHS / FBI public advisories / AP / Euronews"
+      "title": "Karmelo Anthony Post-Verdict \u2014 Protesters Clash; Social Media Day 3",
+      "location": "Collin County Courthouse (Wed) / Austin Capitol/Congress corridor (watch)",
+      "relevance": "MODERATE-HIGH",
+      "detail": "Protesters clashed outside the Collin County Courthouse on Wednesday following the 35-year guilty verdict. Fox News documented heated confrontations; NGAN (National Guard Advocacy Network) urged supporters to remain peaceful and avoid confrontations, citing security concerns and growing tensions. The organization condemned threats, intimidation, and extremist rhetoric. National social media mobilization remains very high \u2014 Cardi B's reaction post drew 10 million views and is amplifying community anger. Search interest remains at 'exceptionally high' levels per Google Trends. WEDNESDAY AUSTIN: Post-verdict Day 3. The initial peak demonstration risk has passed (Days 1\u20132 were highest), but sustained social media energy means spontaneous gatherings remain possible throughout the week. Monitor Capitol/Congress Ave and UT campus. Combined with today's FIFA WC opening and U.S.-Iran conflict, the overall emotional temperature of large crowds throughout Austin is elevated. Brief all staff on de-escalation.",
+      "source": "Fox News / CBS Texas / YouTube / Yahoo Entertainment"
     },
     {
-      "title": "Blues on the Green \u2014 Zilker Park (Night 2 \u2014 Final Night)",
-      "location": "Zilker Metropolitan Park, 2100 Barton Springs Rd (1.8 mi S of property)",
+      "title": "Charlie Puth \u2014 Moody Center ATX (Whatever's Clever! World Tour)",
+      "location": "Moody Center ATX, 2001 Robert Dedman Dr (2.3 mi N of property)",
       "relevance": "LOW-MODERATE",
-      "detail": "Final night of Blues on the Green. Nik Parr & the Selfless Lovers and additional local acts. Expected attendance 5,000\u201315,000. Barton Springs Rd and South Congress corridor congested 5\u201310:30 PM. Free admission, outdoor, alcohol-permissive environment. Weather-dependent \u2014 30% storm chance 1\u20135 PM may affect attendance or timing. Elevated intoxicated pedestrian foot traffic near property 9\u201311 PM. With post-verdict protest activity possible in downtown simultaneously, the combined picture requires coordinated valet and door management.",
-      "source": "Austin Texas.org / Songkick"
+      "detail": "Charlie Puth's Whatever's Clever! World Tour at Moody Center ATX. Sold-out show; openers: Daniel Seavey and Ally Salort. Doors open ~6 PM, show starts 7:30 PM. 15,000+ capacity. UT/Guadalupe corridor and Red River congested 6\u201311 PM. Predominantly 18\u201335 demographic; peak rideshare demand ~10:30 PM\u2013midnight. Combined with Austin FC Soccer Celebration at Auditorium Shores, both the north (Moody Center) and south (Auditorium Shores) corridors will be congested simultaneously this evening. Valet and rideshare advisory critical.",
+      "source": "SeatGeek / concerts50.com"
+    },
+    {
+      "title": "Austin FC Soccer Celebration \u2014 Auditorium Shores (FIFA WC Kickoff Event)",
+      "location": "Auditorium Shores, 800 W Riverside Dr (1.0 mi S of property)",
+      "relevance": "MODERATE",
+      "detail": "City-permitted Austin FC Soccer Celebration at Auditorium Shores on FIFA WC Day 1. Expected attendance 5,000\u201320,000 depending on final event programming. Riverside Dr and S Congress congested 5 PM through midnight. Free or low-cost admission; diverse demographics including families; large outdoor crowd in a high-emotional environment on a day with elevated geopolitical tension. Note: Combined with Karmelo Anthony social media mobilization, even large outdoor public gatherings carry slightly elevated crowd management awareness today. Valet: advise guests heading south to Riverside Dr of significant traffic delays. Property exterior: elevated foot traffic and rideshare pickup/drop-off near hotel from 5 PM through midnight.",
+      "source": "Austin-tx.events / Frisco Texas calendar"
     }
   ],
   "civil_unrest": [
     {
-      "title": "Karmelo Anthony Post-Verdict \u2014 Austin: ACTIVE HIGH",
+      "title": "Karmelo Anthony Post-Verdict \u2014 Day 3 (Sustained High)",
       "location": "Capitol/Congress Ave / UT Campus / Downtown Austin",
-      "detail": "Post-verdict Wednesday is maximum-risk day for Austin demonstrations in this cycle. The 35-year sentence with an all-white jury has social media on fire \u2014 'Free Karmelo' trending nationally. Civil rights groups had pre-positioned for either verdict; guilty with long sentence is more likely to drive sustained street action. Expect rallies at Capitol grounds, marching on Congress Ave, possible convergence toward 6th Street in the evening. No confirmed permitted march in Austin as of 5 AM \u2014 expect spontaneous gathering. Monitor X, Telegram, Instagram for Austin-specific organizing keywords. KEY PROTOCOL: If crowd approaches within 2 blocks of 98 San Jacinto Blvd, lock down secondary entrances, post additional staff at lobby doors, notify APD. Do NOT engage demonstrators. Protect guests' movement safely.",
+      "detail": "Protest Day 3 \u2014 initial peak risk has passed but social media mobilization remains exceptionally high. Cardi B's reaction drove 10M views; national conversation is ongoing. NGAN issued calls for peaceful protest while condemning extremist rhetoric. Spontaneous gathering risk remains elevated throughout the day, especially if any Austin-specific organizing activity is detected online. Monitor X, Telegram, Instagram. Exterior staff: non-engagement posture maintained. APD non-emergency: 512-974-5000.",
       "level": "HIGH"
     },
     {
-      "title": "U.S.\u2013Iran Conflict / FIFA WC \u2014 Iranian Diaspora (ELEVATED)",
-      "location": "National (Los Angeles primary) / Austin monitor",
-      "detail": "Active U.S.-Iran armed conflict + FIFA WC opening tomorrow + Iranian team denied U.S. base camp entry = highest diaspora community tension of the tournament cycle. Pre-revolutionary 'Lion and Sun' flag protests expected at WC venues (LA, NYC, Dallas). Austin has a notable Iranian tech community \u2014 monitor for any local gathering activity near downtown or UT campus. No Austin-specific threat confirmed as of 5 AM.",
+      "title": "FIFA WC Opening / Iranian Diaspora \u2014 Maximum Tension",
+      "location": "Los Angeles (primary) / National / Austin monitor",
+      "detail": "FIFA WC Day 1 opens with heightened Iranian diaspora community tensions: active U.S.-Iran military conflict + WC opening + Somali referee denied entry controversy + Iranian team staged in Tijuana. Pre-revolutionary flag protests confirmed at LA opening events. Anti-Islamic Republic demonstrations planned for duration of Iran's group stage games. Austin's tech community Iranian diaspora: no Austin-specific threat but maintain heightened awareness of any community gathering near UT campus or downtown.",
       "level": "MODERATE"
+    },
+    {
+      "title": "FIFA WC Somali Referee Controversy \u2014 Muslim/African Diaspora Outrage",
+      "location": "National / Austin monitor",
+      "detail": "U.S. denial of entry to Somali referee Omar Artan (citing security vetting) is driving significant outrage in Muslim and African diaspora communities on social media. Trump administration claims are contested and unsubstantiated publicly. Austin has a notable Somali and East African community in the NE corridors. No Austin-specific demonstration planned as of 5 AM \u2014 but monitor online activity.",
+      "level": "LOW-MODERATE"
     }
   ],
   "weather": {
     "high": "93\u00b0F",
     "low": "77\u00b0F",
-    "humidity": "High \u2014 dewpoint ~75\u201376\u00b0F",
-    "wind": "S 5\u201310 mph",
-    "precip": "30% \u2014 scattered storms possible 1\u20135 PM (most significant day this week)",
+    "humidity": "High \u2014 dewpoint ~74\u201375\u00b0F",
+    "wind": "SSE 5\u201310 mph",
+    "precip": "15% \u2014 minimal storm risk vs. yesterday",
     "notes": [
-      "Heat index 98\u2013102\u00b0F \u2014 most oppressive day of current stretch; warm front moving through",
-      "Scattered storm chance 30% (1\u20135 PM) \u2014 more significant than Tuesday; monitor radar closely",
-      "Blues on the Green Night 2 weather-contingent \u2014 possible cancellation or delay if storms develop",
-      "Outdoor staff (valet, door, terrace, pool): 45-minute A/C break rotation mandatory by midday",
-      "Thu\u2013Sat: Heavy rain/flood risk develops \u2014 notify F&B and pool management now",
-      "Patchy ground fog possible until ~0900; I-35 and 183 delays possible early AM"
+      "Heat index 96\u201399\u00b0F \u2014 oppressive afternoon; slightly better than Wednesday peak of 98\u2013102\u00b0F",
+      "Scattered storms possible but low probability (15%) \u2014 far less risk than Wednesday",
+      "Outdoor evening events (Auditorium Shores) should proceed without weather interference",
+      "Midwest: severe weather (tornadoes, destructive wind, large hail) from Iowa to Great Lakes",
+      "Fri\u2013Sat: Austin severe weather risk increases; NWS monitoring developing system",
+      "Outdoor staff: 45-minute A/C break rotation continues; cold water mandatory at all posts"
     ]
   },
   "events": [
     {
-      "name": "Blues on the Green (Night 2 \u2014 Final)",
-      "venue": "Zilker Metropolitan Park",
-      "distance": "1.8 mi S",
-      "time": "Gates 5 PM / Music 7 PM",
-      "crowd": "5,000\u201315,000",
+      "name": "Charlie Puth \u2014 Moody Center ATX (Sold Out)",
+      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
+      "distance": "2.3 mi N",
+      "time": "Doors 6:00 PM / Show 7:30 PM",
+      "crowd": "15,000+ (sold out)",
       "risk": "LOW-MODERATE",
-      "detail": "Final night of free outdoor series. Barton Springs Rd and S Congress congested 5\u201310:30 PM. Weather-dependent (30% storm chance 1\u20135 PM). Elevated intoxicated foot traffic near property 9\u201311 PM. Combined with post-verdict protest activity \u2014 coordinated valet/door required."
+      "detail": "Whatever's Clever! World Tour. Openers: Daniel Seavey and Ally Salort. Sold out. Guadalupe St and Red River congested 6\u201311 PM. Rideshare surge ~10:30 PM\u2013midnight. Advise guests heading to UT corridor of delays."
     },
     {
-      "name": "Girl Named Tom \u2014 Antone's Nightclub",
+      "name": "Austin FC Soccer Celebration (FIFA WC Day 1)",
+      "venue": "Auditorium Shores, 800 W Riverside Dr",
+      "distance": "1.0 mi S",
+      "time": "5:00 PM onward",
+      "crowd": "5,000\u201320,000",
+      "risk": "MODERATE",
+      "detail": "City-permitted FIFA WC kickoff celebration. Riverside Dr and S Congress congested 5 PM\u2013midnight. Large mixed-demographic outdoor crowd. Combined with elevated geopolitical emotional environment. Valet: advise heavy delays heading south."
+    },
+    {
+      "name": "Christian Death \u2014 Come and Take It Live",
+      "venue": "Come and Take It Live, 2003 E Riverside Dr",
+      "distance": "1.5 mi SE",
+      "time": "7:00 PM",
+      "crowd": "300\u2013500",
+      "risk": "LOW",
+      "detail": "Gothic rock band. E Riverside Dr already congested from Austin FC event nearby."
+    },
+    {
+      "name": "Sadie Jean \u2014 Antone's Nightclub",
       "venue": "Antone's Nightclub, 305 E 5th St",
       "distance": "0.6 mi N",
       "time": "8:00 PM",
       "crowd": "300\u2013500",
       "risk": "LOW",
-      "detail": "Intimate folk/pop trio live music. Minor E 5th St foot traffic."
+      "detail": "Indie-pop singer-songwriter. Minor E 5th St foot traffic."
     },
     {
-      "name": "Mike Sherm \u2014 Emo's East",
-      "venue": "Emo's East, 2015 E Riverside Dr",
-      "distance": "1.5 mi SE",
+      "name": "EMSKI \u2014 3TEN ACL Live",
+      "venue": "3TEN ACL Live at Moody Center, 310 W Willie Nelson Blvd",
+      "distance": "0.5 mi N",
       "time": "8:00 PM",
-      "crowd": "500\u20131,000",
+      "crowd": "200\u2013400",
       "risk": "LOW",
-      "detail": "Hip-hop artist. Riverside Dr congestion post-show. Light property spillover."
-    },
-    {
-      "name": "Austin FC Soccer Celebration (TOMORROW)",
-      "venue": "Auditorium Shores, 800 W Riverside Dr",
-      "distance": "1.0 mi S",
-      "time": "June 11, 5 PM onward",
-      "crowd": "5,000\u201320,000",
-      "risk": "MODERATE",
-      "detail": "City-permitted Austin FC Soccer Celebration at Auditorium Shores on June 11 (FIFA WC kickoff day). 5,000\u201320,000 expected; Riverside Dr congested 5 PM\u2013midnight tomorrow. Brief tonight's closing shift to alert tomorrow AM team."
-    },
-    {
-      "name": "Charlie Puth \u2014 Moody Center ATX (TOMORROW)",
-      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
-      "distance": "2.3 mi N",
-      "time": "June 11, 7:30 PM (Sold Out)",
-      "crowd": "15,000+",
-      "risk": "LOW-MODERATE",
-      "detail": "Sold-out show at Moody Center tomorrow. UT/Guadalupe corridor and Red River congested 6\u201311 PM Thursday. Rideshare surge post-show (~11 PM). Advise Thursday AM shift."
+      "detail": "Small venue show. Minor foot traffic near hotel post-show."
     }
   ],
   "property_actions": [
-    "VERDICT RESPONSE \u2014 CRITICAL: Karmelo Anthony GUILTY, sentenced 35 years. Post-verdict protest risk is at maximum. Brief ALL exterior staff at shift start. Lock secondary entrances if crowd exceeds 50 persons within 2 blocks. Contact APD non-emergency 512-974-5000 if demonstration approaches. Do NOT engage demonstrators under any circumstances.",
-    "US-IRAN CONFLICT: Brief concierge and front desk \u2014 active armed conflict between U.S. and Iran now underway. If Middle Eastern guests inquire about safety, do not speculate \u2014 refer to property manager. Log any unusual inquiries about U.S. military operations. Report suspicious behavior to supervisor immediately.",
-    "FIFA WC EVE \u2014 CYBER HIGH: WC opens tomorrow June 11. Cyber posture is HIGH. Enforce no-click and QR code caution across ALL guest-facing departments now. Report ANY anomalous POS behavior, network activity, or access anomaly immediately. IT: conduct guest Wi-Fi infrastructure scan today.",
-    "HEAT PROTOCOLS \u2014 MANDATORY: Heat index 98\u2013102\u00b0F. All outdoor staff (valet, door, terrace, pool) take breaks every 45 minutes in air-conditioned space. Cold water mandatory at all exterior posts. Any staff or guest showing heat illness signs \u2014 call 911 immediately.",
-    "WEATHER WATCH \u2014 30% STORMS 1\u20135 PM: Monitor NWS Austin radar. Umbrellas at all exterior doors. Blues on the Green-bound guests: advise to check event status. Outdoor terrace/pool: implement 10-minute lightning advisory if storm detected within 10 miles.",
-    "TOMORROW PREP \u2014 AUDITORIUM SHORES + MOODY CENTER: Austin FC Soccer Celebration (1.0 mi S) and Charlie Puth at Moody Center (2.3 mi N) both on June 11 (FIFA WC Day 1). Brief tomorrow's AM shift on elevated foot traffic, Riverside Dr and Guadalupe St congestion expected 5 PM\u2013midnight. Rideshare demand surge anticipated 10:30 PM\u2013midnight."
+    "FIFA WC DAY 1 \u2014 CYBER HIGH: WC is live today. Phishing and credential harvesting campaigns are CONFIRMED ACTIVE. Enforce no-click and QR code caution across ALL guest-facing departments. Report ANY anomalous POS, network, or access anomaly to IT and Security immediately. Brief all guest-facing staff: do not click any WC-related links from unverified sources. IT: monitor guest Wi-Fi and internal network traffic for anomalies throughout the day.",
+    "US-IRAN DAY 2 \u2014 STAFF BRIEF REQUIRED: Active U.S.-Iran armed conflict entering Day 2. CENTCOM struck near Tehran overnight; Strait of Hormuz declared closed by Iran. Brief ALL staff: no geopolitical commentary with guests. If Middle Eastern guests inquire about safety or travel, refer to property manager only. Log any unusual inquiries. Monitor oil price impact on travel logistics. Iranian cyber retaliation threat elevated.",
+    "EVENING TRAFFIC \u2014 DUAL CORRIDOR CONGESTION: Both north AND south corridors congested simultaneously. North: Charlie Puth at Moody Center (Guadalupe/Red River 6\u201311 PM). South: Austin FC Soccer Celebration at Auditorium Shores (Riverside Dr 5 PM\u2013midnight). Advise all guests of delays before departure. Coordinate with valet for elevated demand. Rideshare surge: 10:30 PM\u2013midnight from both directions.",
+    "KARMELO ANTHONY POST-VERDICT DAY 3: Social media mobilization remains very high. Sustained protest watch on Capitol/Congress corridor and UT campus. Exterior staff: maintain non-engagement posture. APD non-emergency: 512-974-5000. De-escalation briefing for all lobby and door staff.",
+    "HEAT PROTOCOLS: Heat index 96\u201399\u00b0F. Continue outdoor staff 45-minute A/C break rotation. Cold water mandatory at all exterior posts. Any heat illness signs \u2014 call 911 immediately. Advise Auditorium Shores-bound guests to carry water for outdoor evening event.",
+    "WEEKEND WEATHER PREP: NWS monitoring Austin for developing severe weather system Friday\u2013Saturday. Brief F&B and pool management today on weekend contingency. Ensure outdoor umbrellas and furniture can be secured rapidly."
   ],
   "national_context": [
-    "U.S.\u2013IRAN ACTIVE ARMED CONFLICT (June 9\u201310): Iran downed U.S. Army Apache near Strait of Hormuz. U.S. CENTCOM struck southern Iran in retaliation. Iran struck U.S. Fifth Fleet (Bahrain), U.S. airbase (Jordan), and Kuwait. Active conflict ongoing \u2014 monitoring required for diaspora tensions, cyber operations, and WC security implications.",
-    "KARMELO ANTHONY GUILTY \u2014 35 YEARS (June 9): Jury deliberated under 3 hours. Crowd at Collin County Courthouse broke into shoving and chanting. 'Free Karmelo' trending nationally. All-white jury controversy intensifies protest sentiment. Post-verdict Wednesday historically drives highest demonstration activity in Austin.",
-    "FIFA WORLD CUP 2026 OPENS JUNE 11 \u2014 MAXIMUM THREAT WINDOW: LA hosts opening match. FBI/DHS at emergency advisory posture given active U.S.-Iran conflict. Iranian team in Tijuana. Cyber threat at maximum \u2014 phishing, credential harvesting, ransomware advisories in effect. Austin FC Soccer Celebration at Auditorium Shores (1.0 mi S) tomorrow.",
-    "NBA FINALS \u2014 GAME 4 TONIGHT (Knicks vs. Spurs): Expected ESPN broadcast. Trump attended Game 3 at MSG Monday \u2014 booed during National Anthem. National political temperature elevated. Presidential security footprint heightened for remainder of series."
+    "U.S.\u2013IRAN ACTIVE WAR \u2014 DAY 2: CENTCOM fired 49 Tomahawk missiles at Iran overnight; strikes near Tehran; Iran closed Strait of Hormuz; Iran struck Bahrain, Kuwait, and Jordan for Day 2. Kuwait temporarily closed airspace. Israel alerts in northern Israel. Trump: 'We negotiate with bombs.' Oil prices surging. Cyber retaliation threat elevated.",
+    "FIFA WORLD CUP 2026 \u2014 DAY 1 OPENS: Mexico vs. South Africa (2 PM CDT, Mexico City). U.S. plays June 12 in Inglewood. FBI drone zero-tolerance (3-mi no-fly zones, $100K fines). Somali referee Omar Artan denied entry \u2014 Muslim/African diaspora outrage nationally. WC-themed phishing campaigns active. Global terror threat window at maximum.",
+    "KARMELO ANTHONY VERDICT (POST-DAY 3): Protesters clashed at Collin County Courthouse Wednesday. NGAN urged peaceful protest; condemned extremist rhetoric. Cardi B reaction drew 10M views. Search interest 'exceptionally high.' Defense team exploring appeals. Social media mobilization remains very elevated \u2014 Austin watch continues.",
+    "EXTREME HEAT WAVE ADVISORY: National Weather Service issuing extreme heat advisories for millions of Americans heading into the weekend. Austin heat index 96\u201399\u00b0F today, potentially worsening Fri\u2013Sat with a developing storm/heat system. Cooling center locations trending in search queries nationally. Check NWS Austin for weekend updates."
   ],
   "contacts": [
     [
@@ -189,34 +202,34 @@
   ],
   "lookaheads": [
     [
-      "Thu June 11",
-      "FIFA World Cup Opens (LA). Austin FC Soccer Celebration at Auditorium Shores (1.0 mi S, 5,000\u201320,000). Charlie Puth at Moody Center ATX (Sold Out, 15,000+).",
-      "HIGH cyber posture. Brief AM shift on Riverside Dr/Guadalupe St congestion 5 PM\u2013midnight. Rideshare surge ~11 PM."
-    ],
-    [
-      "Thu June 11",
-      "Karmelo Anthony Post-Verdict Day 2. Social media chatter and potential continued Austin protest activity.",
-      "Maintain HIGH civil unrest posture. Continue monitoring Capitol/Congress corridor. Secondary entrances on standby lockdown."
-    ],
-    [
       "Fri June 12",
-      "FIFA WC Day 2. Men's College World Series opens in Omaha (Texas Longhorns). NWS monitoring possible severe weather event for Central Texas.",
-      "Heavy rain/flood risk possible Fri\u2013Sat. Brief outdoor F&B and pool operations. Review flood/shelter contingency plans."
+      "FIFA WC Day 2 \u2014 USA vs. Paraguay (9 PM ET, Inglewood, CA). U.S. opening match = maximum security and diaspora protest footprint. Men's College World Series opens in Omaha (Texas Longhorns).",
+      "Maintain HIGH cyber posture for U.S. match day. Monitor Iranian/Latin American diaspora activity. Longhorns fan travel surge may affect hotel bookings."
     ],
     [
       "Fri\u2013Sat June 12\u201313",
-      "U.S.\u2013Iran conflict developments ongoing. Possible additional military action or diplomatic response. ACL R3 Plaza de Toros event (Sat June 13).",
-      "Monitor DHS/FBI advisories. Continue diaspora tension awareness. ACL event (~3,000) on Cesar Chavez \u2014 minor foot traffic."
+      "Austin severe weather risk increasing \u2014 NWS monitoring developing system. Potential heavy rain, thunderstorms, and possible flooding. ACL R3 Plaza de Toros event (Sat June 13, ~3,000, Cesar Chavez).",
+      "Review flood/shelter contingency plan. Secure outdoor furniture/umbrellas before Friday afternoon. Brief F&B and pool management on weekend weather risk."
+    ],
+    [
+      "Sat June 13",
+      "U.S.-Iran conflict developments ongoing \u2014 possible additional military strikes or diplomatic breakthrough. Day 5 of conflict. Cyber retaliation by Iranian state-sponsored groups remains elevated.",
+      "Continue monitoring DHS/FBI cybersecurity advisories. Report any network anomalies immediately. No-click policy for all staff through WC tournament."
     ],
     [
       "Sun June 15",
-      "Iran vs. New Zealand (FIFA WC Group Stage, Los Angeles) \u2014 highest Iranian diaspora protest day of the tournament.",
-      "Monitor Austin for community demonstration activity. U.S.-Iran active conflict makes this match a maximum-tension event."
+      "Iran vs. New Zealand (FIFA WC Group Stage, Los Angeles) \u2014 highest Iranian diaspora protest day of the tournament. Combined with active U.S.-Iran conflict, this match carries maximum tension.",
+      "Monitor Austin for community demonstration activity near UT campus and downtown. Brief security leadership Friday for Sunday preparedness."
     ],
     [
       "Ongoing",
-      "Heat index 98\u2013102\u00b0F through mid-week; Fri\u2013Sat severe weather threat; FIFA WC elevated cyber and soft-target posture through July 19.",
-      "Outdoor staff 45-min A/C rotation. Cold water at all exterior posts. IT: guest Wi-Fi scan ongoing. POS anomaly reporting active."
+      "Karmelo Anthony appeal process begins \u2014 defense team exploring grounds for appeal. Social media will remain elevated through any appeal hearings or new developments.",
+      "Monitor X and Telegram for Austin-specific organizing. Maintain protest watch posture at reduced (MODERATE) level after today, elevating if new developments emerge."
+    ],
+    [
+      "Ongoing",
+      "FIFA WC tournament runs through July 19 \u2014 elevated cyber and soft-target threat posture for entire duration. U.S. plays June 12, 16, 20 in group stage.",
+      "Maintain WC cyber posture (no-click, QR caution, POS monitoring) through July 19. Brief each shift through July on WC threat status."
     ]
   ]
 }
