@@ -1,19 +1,19 @@
 {
-  "date_str": "Friday, June 12, 2026",
-  "day_str": "Friday",
-  "date_file": "20260612",
-  "generated_utc": "2026-06-12T10:07:49Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260612.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260612.pdf",
+  "date_str": "Saturday, June 13, 2026",
+  "day_str": "Saturday",
+  "date_file": "20260613",
+  "generated_utc": "2026-06-13T10:05:41Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260613.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260613.pdf",
   "threat_matrix": [
     [
       "Physical Security",
       "ELEVATED",
-      "Rising"
+      "Stable"
     ],
     [
       "Civil Unrest",
-      "MODERATE",
+      "LOW-MOD",
       "Declining"
     ],
     [
@@ -23,7 +23,7 @@
     ],
     [
       "Weather",
-      "LOW-MOD",
+      "MODERATE",
       "Watch"
     ],
     [
@@ -32,152 +32,150 @@
       "Active"
     ]
   ],
-  "bluf": "Friday threat posture remains elevated but the primary tension driver from yesterday \u2014 active U.S.-Iran missile exchanges \u2014 has shifted to fragile de-escalation. Trump canceled overnight strikes citing progress at 'highest level' of Iranian leadership; oil fell 2%. Iran's state media disputes a finalized deal \u2014 situation remains volatile and cyber retaliation risk stays HIGH. Tonight is USA vs. Paraguay (FIFA WC Group D, 8 PM CDT, Los Angeles) \u2014 FBI/FAA enforcement posture is maximum and WC-themed cyber threats are confirmed active at scale: 10,000+ malicious domains, Chinese PRC MitM phishing kit with OTP bypass operational. Karmelo Anthony Day 4: appeal filed, transferred to TDCJ Wallace Pack Unit near Houston \u2014 protest intensity declining but social media mobilization remains elevated. Austin event landscape is lighter tonight vs. Thursday. APD tasing-death investigation active (7 officers on leave, Crestview). Weather: high 94\u00b0F, heat index up to 101\u00b0F, 20% morning shower chance, afternoon clearing. Weekend severe weather risk escalates Saturday\u2013Sunday with cold front Monday.",
+  "bluf": "Saturday brings a reduced but still elevated posture. The most significant development: U.S.-Iran ceasefire MOU declared 'essentially finalized' by Pakistan's PM mediator \u2014 Geneva signing ceremony expected within days. Strait of Hormuz reopening is contingent. Iranian cyber retaliation risk is declining but not resolved until deal is signed and verified. FIFA WC Day 3 has no U.S. match today (Qatar vs. Switzerland 2 PM CDT, Brazil vs. Morocco 5 PM CDT, Haiti vs. Scotland 8 PM CDT) \u2014 Austin watch party traffic will be distributed and lighter than yesterday. Texas Longhorns play Georgia at College World Series (Omaha, TBD time) \u2014 elevated Austin sports bar activity. Heat index up to 102\u00b0F; 20% storm chance after 1 PM. Austin local event landscape: ACL Plaza de Toros (Cesar Chavez area), Walker & Royce at Concourse Project (Burleson Rd). Karmelo Anthony Day 5: Charleston White publicly broke from family \u2014 social media declining but active. Midland TX mass shooting yesterday (at least 1 dead, 10+ injured) elevates Texas-wide law enforcement posture. Property: standard elevated weekend protocols apply.",
   "incidents": [
     {
-      "title": "FIFA World Cup 2026 \u2014 Day 2: USA vs. Paraguay (Maximum Threat Window)",
-      "location": "Los Angeles Stadium, Inglewood, CA (8 PM CDT) / National",
+      "title": "U.S.-Iran Ceasefire MOU \u2014 Signing Imminent (Deal Watch)",
+      "location": "Geneva, Switzerland (anticipated signing) / Gulf Region",
       "relevance": "HIGH",
-      "detail": "USA vs. Paraguay \u2014 FIFA WC Group D opener for the United States, 6 PM PT / 8 PM CDT, Los Angeles Stadium, Inglewood, CA. Secretary of State Rubio attending. FBI/DHS drone zero-tolerance (3-mi no-fly zone, $100K fines) continues. FAA TFRs active at all 11 U.S. host venues. Global terror threat window at maximum for the U.S. home opener. CYBER THREAT CONFIRMED ACTIVE \u2014 Arctic Wolf reports 10,000+ WC-themed malicious domains since January; CloudSEK confirms Chinese-origin MitM phishing kit with OTP bypass targeting fans and event staff (real-time card and 2FA credential capture, 15 active reseller tenants, pixel-perfect FIFA clones). FBI warned of FIFA website spoofing attacks. AUSTIN RELEVANCE: Austin is not a WC host city, but luxury hospitality staff are a credential-harvest target. Enforce zero-click, zero-QR posture for all guest-facing departments. Brief all staff: do not click ANY WC-related links from unverified sources.",
+      "detail": "MAJOR DEVELOPMENT: Pakistan's Prime Minister Shehbaz Sharif \u2014 the primary mediator \u2014 declared Friday that a 'final, agreed-upon text' of a Memorandum of Understanding (MOU) has been prepared. Iranian FM Araghchi stated the deal 'has never been closer.' A Geneva signing ceremony is anticipated within days. Key deal elements (per U.S. officials): (1) Ceasefire across all fronts including Lebanon; (2) Strait of Hormuz reopening; (3) Lifting of U.S. naval blockade on Iran; (4) Iran commits to nuclear program dismantlement and uranium disposal (60-day negotiation period); (5) Iran stops funding proxy groups; (6) Staged sanction relief and $24B frozen asset release contingent on performance verification. COMPLICATING FACTORS: Iran disputes deal details publicly while negotiating privately. Trump accused Iran of leaking 'fake' terms. Trump calling Tehran 'very dishonourable.' ISW-CTP assess Iran is conducting information operations to maximize leverage. No deal is signed until it is signed. AUSTIN RELEVANCE: If deal is signed, Iranian diaspora community will react \u2014 both celebratory and protest factions possible. Iranian cyber retaliation risk declines significantly upon signing but not before. Maintain elevated cyber posture until signed and Strait reopens. Oil prices: Brent ~$85/bbl on deal optimism \u2014 monitor for travel logistics impacts if oil spikes on deal collapse.",
       "source": ""
     },
     {
-      "title": "U.S.-Iran Conflict \u2014 Fragile De-escalation (Day 3/Ceasefire Watch)",
-      "location": "Washington DC / Iran / Regional (Gulf)",
-      "relevance": "HIGH",
-      "detail": "MAJOR DEVELOPMENT: Trump canceled planned overnight strikes against Iran, citing negotiations reaching 'highest level of Iranian leadership.' Trump posted on social media that 'discussions and final points have been, in both concept and great detail, approved by all parties' and announced naval blockade remains in effect until deal finalized. Iran's state-affiliated Fars News Agency denied any approved agreement text \u2014 called Trump's announcement a retreat from military threats. Oil fell 2% (Brent ~$88/bbl, WTI ~$86/bbl) on peace optimism, but analysts warn ceasefire could collapse if nuclear talks stall and oil could spike to $120\u2013130 by late July if Strait doesn't reopen. ISW-CTP assess Iran views the current phase as war, not negotiation \u2014 Iran is conducting information operations to magnify political/economic pressure on the U.S. AUSTIN RELEVANCE: Iranian cyber retaliation risk remains HIGH despite diplomatic overtures \u2014 Iranian state-sponsored groups historically conduct retaliatory cyber ops against U.S. targets during armed conflict periods. Continue no-click policy. Brief staff: deal is not confirmed \u2014 avoid premature assumption of normalized environment.",
-      "source": ""
-    },
-    {
-      "title": "Karmelo Anthony Post-Verdict \u2014 Day 4 (Appeal Filed / Declining Protest)",
-      "location": "Wallace Pack Unit, TX (transferred) / National social media",
+      "title": "FIFA World Cup 2026 \u2014 Day 3 (No U.S. Match; Watch Party Traffic)",
+      "location": "San Francisco, New York/NJ, Boston, Vancouver (match venues) / Austin (watch parties)",
       "relevance": "MODERATE",
-      "detail": "Karmelo Anthony filed notice of appeal Wednesday, claiming he is 'penniless, destitute, and indigent' and requesting court-appointed appellate attorney. The $615K+ GiveSendGo fundraiser has been taken down following conviction. Anthony has been transferred to TDCJ Wallace Pack Unit near College Station \u2014 no longer at Collin County courthouse. Appeal process estimated 18 months. Defense attorney focusing on jury selection (no Black jurors) and trial procedural issues. Rep. Jasmine Crockett and Cardi B continue to amplify racial framing nationally. TXDCJ mugshot released. AUSTIN ASSESSMENT: Initial peak demonstration risk has passed (Days 1\u20133). Transfer out of Collin County reduces focal point for courthouse protests. Social media mobilization remains elevated but organized gathering risk in Austin is declining. Capitol/Congress corridor: maintain MODERATE watch, lower from MODERATE-HIGH as of this brief. Continue monitoring X and Telegram for Austin-specific organizing.",
+      "detail": "Saturday WC schedule: Qatar vs. Switzerland (Levi's Stadium, SF, 2 PM CDT), Brazil vs. Morocco (MetLife Stadium, NJ, 5 PM CDT), Haiti vs. Scotland (Gillette Stadium, Boston, 8 PM CDT). No U.S. match today. Austin watch party activity: distributed across sports bars, 6th St, and Rainey St. Brazil vs. Morocco at 5 PM CDT will be the highest-profile watch in Austin given Brazilian community presence. Elevated foot traffic at hotel bar from 4 PM\u201310 PM. SECURITY NOTE: Pitch invasion attempt at USA-Paraguay last night (LA) was neutralized in seconds. Stadium security responding effectively. German/Bosnian fans arrested at Toronto last night for assaulting police during Canada-Bosnia match. WC CYBER POSTURE: 10,000+ malicious domains remain active. Chinese PRC MitM phishing kit still operational. Maintain zero-click, zero-QR posture for all guest-facing staff through July 19. Next U.S. match: June 16 vs. Australia (next maximum threat window).",
       "source": ""
     },
     {
-      "title": "APD Officer-Involved Tasing Death \u2014 Internal Investigation Active",
-      "location": "Crestview Neighborhood, N. Austin (Grover/Woodrow Ave)",
+      "title": "Texas Longhorns \u2014 College World Series (Georgia vs. Texas, Omaha)",
+      "location": "Charles Schwab Field, Omaha, NE (Austin watch parties)",
       "relevance": "LOW-MODERATE",
-      "detail": "7 APD officers placed on administrative leave following death of Josh Ryan Trumbull (32) after tasing during arrest Saturday evening near Grover and Woodrow Avenue in the Crestview neighborhood. APD Chief Lisa Davis released body cam footage showing Trumbull was complying when approached; became combative during handcuffing. Officer Justin Wright deployed taser. EMS attempted resuscitation for 38 minutes \u2014 Trumbull pronounced dead at scene. Criminal and administrative investigations are underway; no charges pending at this time; toxicology pending. AUSTIN RELEVANCE: This incident combined with the Karmelo Anthony racial-justice social media environment elevates the potential for use-of-force protest activity in Austin. Monitor local social media and news for community response. APD non-emergency: (512) 974-5000.",
+      "detail": "Texas Longhorns (No. 6 seed) vs. Georgia Bulldogs at the 2026 Men's College World Series, Charles Schwab Field, Omaha, Nebraska. Game time TBD \u2014 typically afternoon slot on ESPN. Austin sports bars elevated foot traffic and watch party activity throughout the day. UT-affiliated groups and Longhorn fans throughout downtown Austin and Sixth Street. No direct security concern but combined with FIFA WC watch parties: elevated bar and restaurant activity across downtown Austin. Monitor for intoxicated guest volumes at hotel bar post-game (~6\u201310 PM). Valet and rideshare congestion elevated this evening.",
+      "source": ""
+    },
+    {
+      "title": "Midland TX Mass Shooting \u2014 Texas-Wide LE Posture Elevated",
+      "location": "Midland, Texas (275 mi W of Austin)",
+      "relevance": "LOW-MODERATE",
+      "detail": "A gunman opened fire on Midland Police officers Friday, killing at least one person and injuring 10+ before being killed after a standoff. The shooter refused to surrender. The incident follows a pattern of officer-confrontation incidents in Texas this week (Midland shooting + APD tasing death investigation in Austin). Texas DPS and law enforcement agencies across the state are at an elevated awareness posture. No direct threat to Austin or property, but statewide LE community is processing these incidents simultaneously. Monitor for any local activism or protest response related to police use of force. APD non-emergency: (512) 974-5000.",
+      "source": ""
+    },
+    {
+      "title": "Karmelo Anthony Post-Verdict \u2014 Day 5 (Social Media Declining / Still Active)",
+      "location": "TDCJ Wallace Pack Unit (near Houston) / National social media",
+      "relevance": "LOW-MODERATE",
+      "detail": "Day 5 following the 35-year guilty verdict. Key developments: Charleston White \u2014 a prominent social media advocate for Anthony \u2014 publicly announced he is severing ties with the family, citing fundraiser funds being misallocated. This fractures the support coalition and is likely to reduce organized advocacy energy significantly. Anthony's parents continue seeking new counsel for appeal. Trial judge defended verdict and dismissed bias allegations. Anthony's attorney stated he believes Anthony shows remorse. Social media activity: still elevated nationally but declining markedly as the coalition fragments. No Austin-specific protest activity planned as of 0500. Capitol/Congress corridor: downgraded to LOW-MODERATE watch. Continue reduced monitoring of X and Telegram.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "Karmelo Anthony (Day 4) \u2014 Declining / Watch",
-      "location": "National / Austin Capitol corridor (monitor)",
-      "detail": "Appeal filed; defendant transferred to TDCJ near Houston. Organized protest focal point reduced. Social media sustained at elevated level \u2014 Cardi B and Rep. Crockett amplifying racial framing. Austin Capitol/Congress Ave corridor: downgraded to MODERATE watch. Monitor X, Telegram, Instagram for Austin-specific organizing. Exterior staff: non-engagement posture maintained. APD non-emergency: (512) 974-5000.",
-      "level": "MODERATE"
+      "title": "Karmelo Anthony (Day 5) \u2014 LOW-MOD / Declining",
+      "location": "National / Austin (monitor at reduced level)",
+      "detail": "Charleston White severed ties with family \u2014 primary social media amplifier exiting. Coalition fracturing. Protest intensity declining. No Austin-specific gathering planned. Capitol/Congress: LOW-MODERATE watch. Reduce active monitoring frequency. APD non-emergency: (512) 974-5000.",
+      "level": "LOW-MOD"
     },
     {
-      "title": "APD Tasing Death \u2014 Community Response Watch",
-      "location": "Crestview / Austin-wide (monitor)",
-      "detail": "Officer-involved death under investigation. No organized protest confirmed as of 0500. Community response possible, especially given elevated racial-justice social media environment from Karmelo Anthony case. Monitor local Austin social media and news. Combined with Karmelo Anthony amplification: maintain heightened awareness of any spontaneous gatherings downtown or near APD HQ.",
-      "level": "MODERATE"
+      "title": "APD Tasing Death / Midland Shooting \u2014 LE Use-of-Force Watch",
+      "location": "Austin (APD HQ area / Downtown monitor)",
+      "detail": "APD investigation ongoing (7 officers on admin leave). Midland shooting adds to Texas-wide LE use-of-force social media conversation. No organized Austin protest confirmed as of 0500. Combined environment warrants continued monitoring of downtown and APD HQ area for spontaneous gatherings.",
+      "level": "LOW-MOD"
     },
     {
-      "title": "FIFA WC / Iranian Diaspora \u2014 Monitor",
-      "location": "National (Los Angeles primary) / Austin monitor",
-      "detail": "Iranian diaspora tensions remain elevated despite de-escalation signals. Iran plays June 15 (vs. New Zealand, LA) \u2014 highest diaspora protest day of tournament. Pre-revolutionary flag protests at WC opening venues confirmed. No Austin-specific demonstration planned as of 0500 \u2014 monitor UT campus corridor.",
-      "level": "MODERATE"
+      "title": "Iranian Diaspora / Deal Watch",
+      "location": "National / Austin UT campus area (monitor)",
+      "detail": "If U.S.-Iran MOU is signed, expect both celebratory and protest responses from Iranian diaspora community. Pre-revolutionary flag demonstrations possible at any announced signing news. Austin's UT corridor: maintain monitoring. Iran vs. New Zealand (June 15, LA) remains highest anticipated diaspora protest day.",
+      "level": "LOW-MOD"
     }
   ],
   "weather": {
     "high": "94\u00b0F",
     "low": "76\u00b0F",
     "humidity": "High \u2014 dewpoint ~74\u201375\u00b0F",
-    "wind": "Calm becoming SE ~5 mph",
-    "precip": "20% \u2014 slight chance showers 7\u201310 AM, afternoon clearing",
+    "wind": "Light S becoming SE 5\u201310 mph",
+    "precip": "20% \u2014 slight chance showers/storms after 1 PM",
     "notes": [
-      "Heat index up to 101\u00b0F \u2014 oppressive afternoon; all heat protocols remain in effect",
-      "Slight shower chance 7\u201310 AM (20%) \u2014 brief and isolated, clearing by mid-morning",
-      "Afternoon and evening outdoor events should proceed without significant weather interference",
-      "Saturday: isolated storms possible after 4 PM; heat index up to 103\u00b0F",
-      "Sunday: 40% storm chance after 1 PM \u2014 outdoor pool and F&B exposure increasing",
-      "Monday: Cold front arrives \u2014 90% rain, possible heavy rainfall and flooding; brief F&B and pool management NOW on Monday contingency",
+      "Heat index up to 102\u00b0F \u2014 all heat protocols remain in effect; 45-min A/C rotation continues",
+      "20% storm chance after 1 PM \u2014 isolated cell possible; mainly afternoon/early evening",
+      "If a storm develops: brief gusty winds and heavy downpour possible; outdoor event disruption risk low but monitor",
+      "Sunday: 40% storm chance after 1 PM; heat index up to 105\u00b0F \u2014 increasing outdoor exposure for pool and F&B",
+      "Monday: Cold front arrives \u2014 90% rain chance, locally heavy rainfall (1+ inch possible), isolated flash flooding risk along and east of I-35 corridor",
+      "WPC Level 1\u20132 of 4 excessive rainfall risk Monday \u2014 brief all outdoor-facing staff on flood contingency plan NOW",
       "Outdoor staff: 45-minute A/C break rotation continues; cold water mandatory at all exterior posts"
     ]
   },
   "events": [
     {
-      "name": "USA vs. Paraguay \u2014 FIFA WC Group D (Watch Party / Fan Frenzy)",
-      "venue": "Bars and watch party venues citywide \u2014 primary: Rainey St, 6th St, Scholz Garten",
+      "name": "FIFA WC Watch Parties \u2014 Brazil vs. Morocco (5 PM CDT Primary)",
+      "venue": "Sports bars citywide \u2014 primary: Rainey St, 6th St, Scholz Garten, Cedar Park bars",
       "distance": "Citywide",
       "time": "",
-      "crowd": "High distributed foot traffic; watch party venues at capacity 7 PM onward",
-      "risk": "MODERATE",
-      "detail": "8 PM CDT kickoff. Expect elevated foot traffic at hotel bar and citywide. Patriotic/nationalistic atmosphere. Monitor for intoxicated guests post-match (~10 PM+). Rainey St and 6th St elevated rideshare demand."
+      "crowd": "Distributed; elevated 4\u201310 PM CDT; Brazil match biggest draw",
+      "risk": "LOW-MODERATE",
+      "detail": "Brazil vs. Morocco (5 PM CDT) expected to be the highest-watch game in Austin today. Brazilian community presence in Austin is significant. Sports bars and watch party venues elevated through evening. Hotel bar foot traffic moderate. Monitor for intoxicated guests post-match (~8 PM+)."
     },
     {
-      "name": "Lord of the Rings: Fellowship of the Ring \u2014 In Concert",
-      "venue": "Bass Concert Hall, 2350 Robert Dedman Dr (UT Campus, 2.1 mi N)",
-      "distance": "2.1 mi N",
+      "name": "Texas Longhorns vs. Georgia \u2014 CWS Watch Parties",
+      "venue": "UT area sports bars, 6th St, Dirty 6th \u2014 game in Omaha on ESPN",
+      "distance": "Citywide (UT corridor 1.0\u20132.5 mi N)",
       "time": "",
-      "crowd": "~3,000 | Doors 6:30 PM / Show 7:30 PM",
+      "crowd": "Elevated UT fan presence downtown all day",
       "risk": "LOW",
-      "detail": "Full live orchestra accompaniment to the film. Family-friendly, older demographic. UT/Guadalupe corridor minor congestion 6:30\u20138 PM and post-show (~10:30 PM)."
+      "detail": "No. 6 Texas playing Georgia in Omaha CWS bracket. Heavy Longhorn watch party activity in UT corridor bars and throughout downtown. Combined with FIFA WC: peak simultaneous multi-sport bar congestion this afternoon and evening."
     },
     {
-      "name": "Big K.R.I.T. with Kirby",
-      "venue": "Emo's Austin, 2015 E Riverside Dr (1.1 mi SE)",
+      "name": "ACL Live \u2014 Plaza de Toros (Cesar Chavez area)",
+      "venue": "ACL Plaza, 310 W Cesar Chavez (0.4 mi N of property)",
+      "distance": "0.4 mi N",
+      "time": "",
+      "crowd": "~1,500\u20133,000 | Afternoon/Evening",
+      "risk": "LOW",
+      "detail": "Outdoor venue event near hotel. Cesar Chavez pedestrian and vehicle traffic elevated. Valet advisory for afternoon/evening congestion on Cesar Chavez."
+    },
+    {
+      "name": "Walker & Royce \u2014 DJ/Electronic",
+      "venue": "The Concourse Project, 8509 Burleson Rd (3.5 mi SE)",
+      "distance": "3.5 mi SE",
+      "time": "",
+      "crowd": "~800\u20131,500 | 9:00 PM",
+      "risk": "LOW",
+      "detail": "Late-night electronic event at Concourse Project. Burleson Rd/SE area. Rideshare demand elevated 1\u20133 AM. No elevated risk indicators for hotel proximity."
+    },
+    {
+      "name": "Total Chaos \u2014 Come and Take It Live",
+      "venue": "Come and Take It Live, 2003 E Riverside Dr (1.1 mi SE)",
       "distance": "1.1 mi SE",
       "time": "",
-      "crowd": "~500\u2013800 | 7:00 PM",
+      "crowd": "~300\u2013600 | 7:00 PM",
       "risk": "LOW",
-      "detail": "Hip-hop show. E. Riverside Dr area \u2014 minor congestion. No elevated risk indicators."
+      "detail": "Rock/punk show. E. Riverside Dr corridor. Minor congestion near venue. No elevated risk indicators."
     },
     {
-      "name": "Ruthie Foster",
-      "venue": "Paramount Theatre, 713 Congress Ave (0.5 mi N)",
-      "distance": "0.5 mi N",
+      "name": "Gloria's Nightlife \u2014 Salsa Dancing",
+      "venue": "The Domain, 3110 Esperanza Crossing (8 mi N)",
+      "distance": "8 mi N",
       "time": "",
-      "crowd": "~1,200 | 8:00 PM",
+      "crowd": "~200\u2013400 | 11 PM\u20132 AM",
       "risk": "LOW",
-      "detail": "Blues/soul artist. Congress Ave corridor \u2014 standard foot traffic. Near hotel; valet advisory for post-show (~10:30 PM) pickup demand on Congress."
-    },
-    {
-      "name": "DeadEye",
-      "venue": "3TEN ACL Live, 310 W Willie Nelson Blvd (0.5 mi N)",
-      "distance": "0.5 mi N",
-      "time": "",
-      "crowd": "~200\u2013400 | 8:00 PM",
-      "risk": "LOW",
-      "detail": "Small venue show. Minor foot traffic near hotel post-show."
-    },
-    {
-      "name": "Noizu (18+) \u2014 DJ/Electronic",
-      "venue": "The Concourse Project, 1800 E 6th St (0.9 mi NE)",
-      "distance": "0.9 mi NE",
-      "time": "",
-      "crowd": "~800\u20131,200 | 9:00 PM",
-      "risk": "LOW",
-      "detail": "Late-night electronic event. E. 6th St corridor. Peak rideshare demand 2\u20133 AM. No elevated risk indicators."
-    },
-    {
-      "name": "Pre-Juneteenth Health & Wellness Fair",
-      "venue": "Blackland Neighborhood Center, 2005 Salina St (2.2 mi NE)",
-      "distance": "2.2 mi NE",
-      "time": "",
-      "crowd": "Community event | Daytime",
-      "risk": "LOW",
-      "detail": "City-sponsored community event. No security concerns. Note: combined with Karmelo Anthony social media environment \u2014 ensure staff aware of Juneteenth community sensitivity."
+      "detail": "Late-night event in the Domain. No hotel proximity impact."
     }
   ],
   "property_actions": [
-    "FIFA WC DAY 2 \u2014 CYBER HIGH CONTINUES: 10,000+ malicious WC domains active. Chinese PRC MitM phishing kit confirmed with OTP bypass \u2014 can defeat SMS 2FA. Zero-click, zero-QR posture for ALL guest-facing departments. Monitor POS, guest Wi-Fi, and internal network for anomalies. Staff: only access FIFA content from fifa.com directly \u2014 no third-party links.",
-    "US-IRAN DE-ESCALATION \u2014 CYBER RISK PERSISTS: Trump called off strikes but no confirmed deal. Iranian state-sponsored cyber retaliation risk remains HIGH \u2014 these groups historically strike during active conflict AND during perceived diplomatic 'victory' windows. Maintain elevated cyber posture regardless of news headlines. Brief staff: do not assume normalized environment.",
-    "APD TASING INVESTIGATION: 7 APD officers on leave following in-custody death. Combined with Karmelo Anthony social media environment, monitor for spontaneous protest activity near hotel or downtown. Exterior staff non-engagement posture. Any gathering activity: notify security supervisor immediately.",
-    "HEAT PROTOCOLS: Heat index up to 101\u00b0F again today. 45-minute A/C break rotation for all exterior posts. Cold water mandatory. Any heat illness signs \u2014 call 911 immediately. Brief valet and door staff.",
-    "USA MATCH WATCH PARTY TRAFFIC: 8 PM CDT USA vs. Paraguay. Expect hotel bar elevated demand and citywide watch party congestion. Monitor lobby and bar for intoxicated guests post-match (~10 PM+). Coordinate with F&B on staffing for match window.",
-    "WEEKEND WEATHER PREP \u2014 ACT NOW: Cold front Monday brings 90% rain and potential flooding. Brief F&B and pool management TODAY on Monday contingency. Secure outdoor furniture/umbrellas before Sunday afternoon. Saturday isolated storms possible after 4 PM \u2014 pool closure protocol review."
+    "IRAN DEAL WATCH \u2014 STAY ALERT: MOU text 'finalized' but not yet signed. Cyber retaliation risk remains elevated until deal is signed and Strait of Hormuz reopens. Maintain zero-click, zero-QR posture. Brief all guest-facing staff: do not assume normalized cyber environment. If deal is announced and signed today, expect Iranian diaspora celebratory/protest activity in downtown Austin.",
+    "FIFA WC DAY 3 \u2014 CYBER POSTURE MAINTAINED: No U.S. match today but 10,000+ malicious WC domains remain active. Chinese PRC MitM phishing kit still operational. Zero-click, zero-QR posture for all departments through July 19. Next maximum threat window: U.S. vs. Australia June 16.",
+    "WEEKEND BAR MANAGEMENT: Combined FIFA WC watch parties (Brazil vs. Morocco 5 PM CDT) and Texas Longhorns CWS game drive elevated bar and restaurant demand all afternoon and evening. Monitor hotel bar for intoxicated guest management. Coordinate with F&B on staffing for dual-sport peak 4\u20139 PM.",
+    "HEAT PROTOCOLS: Heat index up to 102\u00b0F. 45-minute A/C break rotation all exterior posts. Cold water mandatory. Any heat illness signs \u2014 call 911 immediately. Brief valet and door staff on extended afternoon exposure.",
+    "MONDAY FLOOD CONTINGENCY \u2014 ACT THIS WEEKEND: NWS WPC Level 1\u20132 excessive rainfall risk Monday. 90% rain, 1+ inch possible along I-35 corridor, isolated flash flooding. Brief F&B and pool management TODAY. Secure outdoor furniture and umbrellas before Sunday afternoon. Review drainage and guest vehicle routes. Ensure flood contingency plan is reviewed with all supervisors before Monday shift.",
+    "MIDLAND / APD INVESTIGATION CONTEXT: Texas-wide LE use-of-force social media conversation elevated following Midland shooting and APD tasing investigation. Monitor for any spontaneous protest activity near hotel or APD HQ. Exterior staff non-engagement posture. Notify security supervisor immediately of any gathering activity."
   ],
   "national_context": [
-    "U.S.-IRAN DE-ESCALATION WATCH: Trump canceled strikes \u2014 deal possibly 'next few days.' Iran disputes finalized text. Naval blockade remains. Oil fell to ~$88/bbl. ISW-CTP assess Iran is conducting info operations, not surrendering. Situation fragile.",
-    "FIFA WORLD CUP 2026 DAY 2: USA vs. Paraguay tonight (8 PM CDT). 10,000+ malicious WC domains; Chinese MitM phishing kit operational with real-time OTP bypass. CISA conducting vulnerability assessments at host stadiums/hotels. Global terror threat window maximum.",
-    "KARMELO ANTHONY APPEAL: Notice filed; defendant in TDCJ custody near Houston. Appeal process ~18 months. Racial justice social media amplification continues nationally (Crockett, Cardi B). Both families receiving death threats.",
-    "COLLEGE WORLD SERIES OPENS: Eight-team CWS opens today in Omaha. Texas Longhorns (No. 6) play Saturday vs. Georgia \u2014 elevated Austin sports interest. No local venue impact today; Saturday bar/watch party elevated.",
-    "EXTREME HEAT WAVE \u2014 NATIONAL: NWS issuing extreme heat advisories across South and East. Austin heat index up to 101\u00b0F today. Weekend heat index potentially 103\u00b0F before cold front Monday."
+    "U.S.-IRAN MOU SIGNING IMMINENT: Pakistan PM declared 'final agreed-upon text' reached; Iran FM says deal 'never been closer.' Geneva ceremony expected within days. Strait of Hormuz reopening and Iranian asset release contingent on performance verification. Cyber risk elevated until signed.",
+    "FIFA WC DAY 3: Qatar-Switzerland (2 PM CDT), Brazil-Morocco (5 PM CDT), Haiti-Scotland (8 PM CDT). No U.S. match. Pitch invasion attempt at USA-Paraguay last night neutralized instantly. German/Bosnian fans arrested at Canada-Bosnia (Toronto) for assaulting police. WC security incidents escalating globally.",
+    "MIDLAND TX MASS SHOOTING: Gunman opened fire on police Friday in Midland TX. At least 1 dead, 10+ injured. Shooter killed after standoff. Texas DPS and statewide LE at elevated awareness posture.",
+    "NBA FINALS GAME 5: San Antonio, Frost Bank Center \u2014 BCSO increasing security presence for tonight's game. Statewide major event security resources engaged.",
+    "EXTREME HEAT: NWS issuing heat advisories across South and East U.S. Austin heat index up to 102\u00b0F today, up to 105\u00b0F Sunday before cold front breaks the pattern Monday."
   ],
   "contacts": [
     [
@@ -215,34 +213,34 @@
   ],
   "lookaheads": [
     [
-      "Sat June 13",
-      "Austin isolated storms possible after 4 PM; heat index up to 103\u00b0F. College World Series: Georgia vs. Texas (No. 6 UT), 7 PM on ESPN (Omaha) \u2014 elevated Austin sports bar foot traffic.",
-      "Secure outdoor furniture/umbrellas before Friday afternoon. Brief F&B and pool on Saturday storm contingency. Monitor UT fan gathering locations."
-    ],
-    [
       "Sun June 14",
-      "40% storm chance after 1 PM. U.S.-Iran deal window \u2014 Trump said 'next few days'; if deal collapses, expect immediate cyber escalation and Iranian diaspora community reaction.",
-      "Continue monitoring DHS/FBI cyber advisories. Pool and outdoor F&B closure protocol on standby. Brief security leadership Sunday AM on Iran deal status."
+      "40% storm chance after 1 PM. Heat index up to 105\u00b0F. U.S.-Iran MOU signing expected in Geneva \u2014 if signed, expect Iranian diaspora response (both celebratory and protest). Cyber risk decreases significantly post-signing.",
+      "Monitor for signing announcement throughout the day \u2014 brief security leadership immediately if deal is confirmed. Outdoor pool and F&B contingency on standby for afternoon storms."
     ],
     [
       "Mon June 15",
-      "Iran vs. New Zealand (FIFA WC Group Stage, Los Angeles, 3 PM PT) \u2014 highest anticipated Iranian diaspora protest day of the tournament. Cold front arrives Monday afternoon/evening \u2014 90% rain, possible heavy rainfall and flooding.",
-      "Monitor Austin for Iranian community demonstration activity near UT campus and downtown. Flood/shelter contingency review. Heavy outdoor furniture and umbrella securing Sunday evening."
+      "Iran vs. New Zealand (FIFA WC, Los Angeles, 3 PM PT/5 PM CDT) \u2014 highest anticipated Iranian diaspora protest day of the tournament regardless of deal status. Cold front arrives Monday \u2014 90% rain, 1+ inch possible, isolated flash flooding risk along I-35 corridor.",
+      "Flood contingency plan activated. Brief all shifts on flooding response. Secure outdoor furniture Sunday evening. Monitor UT campus and downtown for Iranian community demonstration activity."
     ],
     [
       "Mon June 15",
-      "Cold front pushes into Central Texas late Monday afternoon/evening. Very moist airmass (precipitable water near/above 2 inches). Heavy rainfall and localized flooding possible Monday into Tuesday. Temperatures drop to upper 80s.",
-      "Review flood contingency plan for property perimeter and parking. Ensure drainage and guest vehicle routes are clear. Alert valet and exterior staff for rapid weather deterioration."
+      "WPC Level 1\u20132 excessive rainfall risk \u2014 heavy rain with cold front. Precipitable water near 99th percentile. Potential for localized flash flooding especially along and east of I-35.",
+      "Ensure all drainage and parking areas are cleared. Alert valet and exterior staff. Flood shelter contingency review. All outdoor furniture secured before Monday morning."
+    ],
+    [
+      "Tue June 16",
+      "USA vs. Australia \u2014 FIFA WC Group D (next U.S. match). Maximum threat window returns for next U.S. game. WC cyber posture at maximum. Exact kickoff time TBD \u2014 brief all shifts in advance.",
+      "Monitor for kickoff time announcement. Brief staff Tuesday morning on elevated cyber posture. Coordinate with F&B on watch party demand."
     ],
     [
       "Ongoing",
-      "FIFA WC tournament runs through July 19 \u2014 elevated cyber and soft-target threat posture for entire duration. U.S. plays June 12 (tonight), 16, and 20 in group stage. Each U.S. match = maximum threat window.",
-      "Maintain WC cyber posture (no-click, QR caution, POS monitoring) through July 19. Brief each shift on WC threat status. Next maximum threat window: U.S. vs. Australia, June 16."
+      "FIFA WC tournament runs through July 19 \u2014 elevated cyber and soft-target posture. U.S. plays June 12 (done), 16, 20 in group stage. Each U.S. match = maximum threat window.",
+      "Maintain WC zero-click, zero-QR posture for all guest-facing staff through July 19. Brief each shift."
     ],
     [
       "Ongoing",
-      "Karmelo Anthony appeal process \u2014 18-month timeline. Social media sustained elevation through any new developments (motion for new trial, hearing dates). Both families receiving death threats nationally.",
-      "Monitor X and Telegram for Austin-specific organizing at reduced frequency. Exterior staff MODERATE awareness posture."
+      "Karmelo Anthony appeal \u2014 18-month process. Social media declining as coalition fragments (Charleston White split). Reduced monitoring frequency appropriate.",
+      "Monitor X and Telegram for Austin-specific organizing at low frequency. Exterior staff LOW-MODERATE awareness."
     ]
   ]
 }
