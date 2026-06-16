@@ -1,10 +1,10 @@
 {
-  "date_str": "June 15, 2026",
-  "day_str": "Monday",
-  "date_file": "20260615",
-  "generated_utc": "2026-06-15T10:10:30Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260615.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260615.pdf",
+  "date_str": "June 16, 2026",
+  "day_str": "Tuesday",
+  "date_file": "20260616",
+  "generated_utc": "2026-06-16T10:06:18Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260616.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260616.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -23,148 +23,148 @@
     ],
     [
       "Weather",
-      "CRITICAL",
-      "Active"
+      "MODERATE",
+      "Improving"
     ],
     [
       "Travel / Mobility",
-      "HIGH",
-      "Active"
+      "MODERATE",
+      "Improving"
     ]
   ],
-  "bluf": "Monday presents WEATHER as the dominant operational threat. A Flash Flood Warning is ACTIVE for Travis County until approximately 0600 CDT \u2014 heavy thunderstorms are occurring NOW, producing 2\u20133+ inch/hour rainfall rates. A Flood Watch remains in effect through Tuesday 7 PM CDT with isolated totals of 8+ inches possible. Flooding of low-water crossings, streets, and underpasses is imminent or occurring. Restrict all guest and staff vehicle movement; activate flood contingency protocols immediately. The U.S.\u2013Iran MOU has been ANNOUNCED: ceasefire on all fronts effective Sunday night, Strait of Hormuz to reopen, formal signing June 19 in Switzerland. Iranian cyber retaliation risk is significantly reduced but NOT eliminated until Friday signing. FIFA WC Day 5 features Iran vs. New Zealand at SoFi Stadium, LA (midnight CDT) \u2014 highest anticipated Iranian diaspora protest day of the tournament (40\u201350K outside stadium). Austin watch parties possible evening onward. No Kings protest yesterday was generally peaceful; Austin Capitol corridor foot traffic elevated overnight but normalizing. Juneteenth Week begins \u2014 Rosewood Park and community events citywide through June 19.",
+  "bluf": "Tuesday presents a significant improvement over Monday's flood emergency. The Flood Watch for Travis County expires at 7 PM CDT tonight \u2014 flooding risk remains active through this evening but conditions are improving. Downtown Austin's active hit-and-run homicide investigation (I-35 service road, Friday night) keeps Physical Security ELEVATED; suspect vehicle remains at large. The U.S.\u2013Iran MOU was electronically signed overnight \u2014 formal ceremony Friday in Geneva. Iranian cyber risk continues declining but NOT cleared until after the June 19 signing. FIFA WC Day 6 features France vs. Senegal and Argentina vs. Algeria \u2014 no Austin-area venue matches but watch party activity expected citywide. Juneteenth Week continues through June 19.",
   "incidents": [
     {
-      "title": "FLASH FLOOD WARNING \u2014 Travis County (ACTIVE until ~0600 CDT)",
-      "location": "Travis County / Austin Metro \u2014 Including Downtown Corridor",
-      "relevance": "CRITICAL",
-      "detail": "NWS Austin/San Antonio has issued a Flash Flood Warning for Travis County active through approximately 0600 CDT Monday. Heavy thunderstorms are producing 2\u20133+ inch/hour rainfall rates. Between 1\u20132 inches have already fallen; additional 1\u20133 inches possible before warning expires. Flash flooding of creeks, streams, urban areas, highways, streets, and underpasses is occurring or imminent. The Flood Watch follows, extending through Tuesday 7 PM CDT. Life-threatening flooding is possible in low-lying areas. Shoal Creek (west of property) and Waller Creek (east) are at risk of rapid rise. San Jacinto Blvd and Cesar Chavez may see street flooding. Restrict valet and delivery vehicle access on flood-prone approaches. Do NOT send valet drivers to retrieve vehicles during active warning without confirming road conditions. Monitor NWS Austin at weather.gov/ewx for warning updates in real time.",
-      "source": ""
-    },
-    {
-      "title": "U.S.\u2013Iran MOU ANNOUNCED \u2014 Ceasefire Effective; Formal Signing June 19",
-      "location": "Tehran / Washington DC / Switzerland (signing)",
-      "relevance": "HIGH",
-      "detail": "President Trump announced Sunday evening: 'The Deal with the Islamic Republic of Iran is now complete.' Iran's Supreme National Security Council confirmed the MOU text was finalized after 15 hours of Qatar-mediated talks. Key terms: immediate and permanent cessation of military operations on all fronts including Lebanon; U.S. naval blockade lifted immediately; Strait of Hormuz to reopen toll-free (formal implementation Friday after signing). Formal signing: June 19, Switzerland. 60-day negotiation window on nuclear program, sanctions, and final agreement begins after signing. Oil prices fell 4.5%+ (Brent ~$83/bbl). AUSTIN RELEVANCE: Iranian cyber retaliation risk SIGNIFICANTLY REDUCED but not eliminated until Strait formally reopens Friday. Maintain elevated cyber posture through June 19. Iranian diaspora response in Austin/UT corridor may include celebratory or mixed gatherings \u2014 monitor for spontaneous demonstrations. Brief guest-facing staff: WC-themed phishing still active regardless of deal status \u2014 zero-click, zero-QR posture maintained.",
-      "source": ""
-    },
-    {
-      "title": "FIFA WC Day 5 \u2014 Iran vs. New Zealand (SoFi Stadium, LA; midnight CDT)",
-      "location": "SoFi Stadium, Inglewood CA / Austin watch parties citywide",
+      "title": "Flood Watch \u2014 Travis County (EXPIRES 7 PM CDT Today)",
+      "location": "Travis County / Austin Metro",
       "relevance": "MODERATE",
-      "detail": "Iran's Group G World Cup opener vs. New Zealand kicks off at 9 PM PT / midnight CDT at SoFi Stadium in Inglewood. Up to 40\u201350,000 Iranian diaspora protesters expected outside stadium \u2014 largest protest of the WC tournament. Pre-revolution lion-and-sun flags banned inside stadium; lawsuit filed by Iranian American Institute. Iranian Sports Minister threatened team would halt match if unofficial flags appear. LA area under heavy security. Iran national team arrived LA Sunday escorted by police; protesters at hotel. MOU announcement Sunday evening may reduce some protest intensity but diaspora grievances around Jan 2026 crackdown remain. Austin watch parties (sports bars, Iranian community venues) expected to be elevated late evening tonight. Monday afternoon also features: Spain vs. Cape Verde (Atlanta, noon CDT), Belgium vs. Egypt (Seattle, 6 PM CDT), Saudi Arabia vs. Uruguay (Miami, 8 PM CDT). WC cyber threat: 10,000+ malicious domains still active; Chinese PRC MitM phishing kit operational \u2014 zero-click, zero-QR posture for ALL guest-facing staff.",
+      "detail": "NWS Austin/San Antonio Flood Watch remains in effect for Travis County through 7 PM CDT Tuesday. Frontal boundary has stalled just west of I-35 with abundant tropical moisture persisting (PWAT 2.0\u20132.4 in). Rain chance 50% Tuesday with residual heavy cells possible (2\u20133 in/hr). Soils fully saturated \u2014 any additional rainfall will run off rapidly. Flood Watch expires tonight; conditions expected to dry out Wednesday. Shoal Creek (W) and Waller Creek (E) remain at elevated stage; monitor water levels before restoring outdoor operations. Do NOT restore valet on flood-prone approach roads until Flood Watch officially expires and roads are confirmed passable.",
       "source": ""
     },
     {
-      "title": "Paramount Theatre 'Last Call' Open House \u2014 713 Congress Ave (0.5 mi N)",
-      "location": "Paramount Theatre, 713 Congress Ave, Austin TX (0.5 mi N)",
-      "relevance": "LOW-MODERATE",
-      "detail": "The Paramount Theatre (713 Congress Ave, 0.5 mi N) hosts its final public event before closing for an 11-month major restoration. 'Last Call' open house runs 4\u20138 PM Monday \u2014 free with RSVP, tickets reported SOLD OUT. Event unveils the original 1915 hand-painted fire curtain. Expect elevated foot traffic on Congress Ave north of hotel 3\u20139 PM. Parking demand high \u2014 $6 garage at 600 Congress (155 W 7th St entrance). Event is emotionally significant to Austin arts community; generally peaceful, professional crowd. No elevated security concern beyond routine foot traffic and parking congestion. Notify valet and concierge of Congress Ave congestion window 3\u20139 PM.",
+      "title": "Hit-and-Run Homicide \u2014 I-35 Service Road (Active APD Investigation)",
+      "location": "600 blk N. I-35 Southbound Service Road (~0.4 mi E)",
+      "relevance": "HIGH",
+      "detail": "APD Vehicular Homicide Unit is investigating a fatal hit-and-run that occurred approximately 11:35 PM Friday, June 13. A male pedestrian was struck on the N. I-35 southbound service road at 600 block and died at the hospital. Suspect vehicle: 2011\u20132015 gray or silver Hyundai Sonata with front-end damage and missing right headlight \u2014 at large as of 0500 CDT June 16. No arrest made. This is approximately 0.4 mi east of the property. Advise valet and staff: report any sightings of matching vehicle to APD non-emergency (512) 974-5000. Brief guest-facing staff on the active investigation if guests ask about I-35 corridor activity.",
       "source": ""
     },
     {
-      "title": "APD Tasing Death \u2014 Josh Ryan Trumble \u2014 DA Investigation Ongoing",
-      "location": "Crestview Neighborhood (Grover Ave) / Austin-wide (monitor)",
+      "title": "U.S.\u2013Iran MOU Electronically Signed \u2014 Framework Framework Deal",
+      "location": "Washington DC / Tehran / Geneva (signing June 19)",
+      "relevance": "MODERATE",
+      "detail": "President Trump confirmed Monday evening the U.S.\u2013Iran MOU has been electronically signed by Trump, VP Vance, and Iranian Parliament Speaker Ghalibaf. The MOU (~1.5 pages) is a general framework: 60-day ceasefire extension, Strait of Hormuz toll-free reopening, IAEA nuclear inspectors to return, Iran to assist in destruction of highly enriched uranium stockpile. Formal signing ceremony: Friday, June 19, Geneva (Vance attending; Trump may also attend). Significant details disputed: Iran claims $12B frozen asset release required; Vance denies any sanctions relief without performance. Strait of Hormuz expected to be fully operational Friday. Austin relevance: Iranian cyber retaliation risk declining but NOT cleared until Hormuz formally reopens June 19. Maintain zero-click, zero-QR posture for guest-facing staff through Friday. WC-themed phishing remains active (10,000+ malicious domains).",
+      "source": ""
+    },
+    {
+      "title": "B-52 Bomber Crash \u2014 Edwards AFB, California (8 KIA)",
+      "location": "Edwards Air Force Base, Kern County CA (National context)",
       "relevance": "LOW",
-      "detail": "Travis County DA criminal investigation into the June 6 in-custody death of Josh Ryan Trumble, 32, continues. Body cam footage was released publicly Saturday June 14. Seven APD officers remain on administrative leave. APD Chief Lisa Davis has stated department will cooperate fully. Combined No Kings protest activity was generally peaceful Sunday \u2014 no reports of major confrontations at Austin Capitol. DA and APD next briefing TBD. Monitor local activist channels for renewed calls for protests or community hearings. LOW watch \u2014 no imminent action planned.",
+      "detail": "A B-52 Stratofortress crashed on takeoff during a routine test mission at Edwards Air Force Base, Kern County, CA, on Monday June 15. Eight personnel killed \u2014 mixed crew of military and government contractors. USAF investigation underway. No connection to Austin or Iranian conflict. National morale/security context: potential media coverage and discussion among guests and staff. No property action required beyond staff awareness.",
+      "source": ""
+    },
+    {
+      "title": "FIFA WC Day 6 \u2014 France vs. Senegal, Argentina vs. Algeria",
+      "location": "MetLife Stadium NJ / Arrowhead KC / Austin watch parties",
+      "relevance": "LOW",
+      "detail": "FIFA WC Day 6 schedule (CDT): France vs. Senegal at MetLife Stadium (East Rutherford NJ) \u2014 2 PM CDT; Iraq vs. Norway at Gillette Stadium (Foxborough MA) \u2014 5 PM CDT; Argentina vs. Algeria at Arrowhead (KC) \u2014 8 PM CDT; Austria vs. Jordan (Santa Clara) \u2014 11 PM CDT. No Iran match today. Argentina opener expected to draw large watch party crowds at 6th St bars and sports bars citywide through midnight. Elevated late-evening bar demand on Rainey St and 6th St. No elevated protest risk \u2014 no Iranian fixture today.",
       "source": ""
     },
     {
       "title": "Juneteenth Week \u2014 Austin Community Events (June 15\u201319)",
       "location": "Rosewood Park / East Austin / Citywide",
       "relevance": "LOW",
-      "detail": "Austin's Juneteenth observance week begins Monday June 15, building toward June 19 (Juneteenth federal holiday). Events include Rosewood Park festivities, community gatherings in East Austin, and cultural programming citywide. Nationally observed holiday brings elevated community visibility, family events, and possible street closures near East Austin venues June 17\u201319. Guest and staff awareness: hotel may see requests for Juneteenth event recommendations. Generally peaceful, celebratory. No security elevation required for Monday; monitor as week progresses toward June 19.",
+      "detail": "Austin Juneteenth observance week continues. Community events at Rosewood Park and East Austin neighborhoods. Austin Weekly News reporting on Juneteenth-reparations linkage coverage \u2014 monitor for any organized demonstration activity near Capitol. Generally peaceful, celebratory events. Juneteenth federal holiday Friday June 19 \u2014 federal offices closed. Guest inquiries about Juneteenth recommendations should be directed to concierge. No elevated security posture required Tuesday; monitor daily as June 19 approaches.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "'No Kings' Protest \u2014 Post-Event Aftermath (Austin)",
+      "title": "'No Kings' \u2014 Post-Event Normalization",
       "location": "Texas State Capitol / Congress Ave Corridor (1.1 mi N)",
-      "detail": "Sunday's 'No Kings' nationwide protest events (Trump's 80th birthday) were generally peaceful at the Austin chapter. Texas State Capitol and Congress Ave corridor saw elevated foot traffic during the hybrid cultural/watch party events. No major incidents reported at Austin location. Monitor X and Telegram for any follow-on organizer posts. Congress Ave foot traffic returning to baseline Monday AM. APD non-engagement posture standard \u2014 no elevated concern Monday.",
+      "detail": "Sunday's 'No Kings' nationwide events were generally peaceful at Austin chapter. Congress Ave corridor has returned to baseline traffic levels Monday/Tuesday. No follow-on organizer action announced for this week. Monitor local activist social channels for any calls to action tied to Juneteenth events or MOU announcement. LOW \u2014 no imminent action expected.",
       "level": "LOW"
     },
     {
-      "title": "Iranian Diaspora \u2014 US-Iran MOU Response (Watch)",
+      "title": "Iranian Diaspora \u2014 MOU Response (Watch)",
       "location": "UT Campus / Downtown Austin (0.5\u20131.5 mi N)",
-      "detail": "MOU announcement Sunday evening may generate both celebratory and protest response from Austin's Iranian-American and UT community. Monitor for spontaneous gatherings near UT campus and downtown. The Iran vs. New Zealand WC match tonight (midnight CDT) adds to the emotional landscape. Generally peaceful expression expected. Notify security supervisor if any gathering approaches hotel perimeter.",
+      "detail": "MOU electronic signing announced Monday evening. Austin Iranian-American community response is expected to be predominantly celebratory. No intelligence indicating organized protest activity in Austin for Tuesday. Monitor UT corridor and downtown for any spontaneous gatherings. No Iran WC match tonight reduces elevated emotional trigger. Posture can normalize after Friday Geneva signing if no incidents occur.",
       "level": "LOW"
     }
   ],
   "weather": {
-    "high": "82\u201386\u00b0F (highs suppressed by cloud cover and rainfall)",
+    "high": "88\u00b0F (partly sunny; storms possible)",
     "low": "74\u00b0F",
-    "humidity": "Extreme \u2014 dewpoint 74\u201376\u00b0F; PWAT 2.20\u20132.40 inches (99th percentile)",
-    "wind": "SE 10\u201315 mph; gusts to 25 mph with storms",
-    "precip": "90%+ \u2014 ongoing heavy rain AM; additional 2\u20135 inches through Tuesday; isolated 8+ inches",
+    "humidity": "Decreasing \u2014 PWAT still 2.0\u20132.4 in through midday",
+    "wind": "Calm to ENE 5 mph afternoon",
+    "precip": "50% chance showers/thunderstorms; <0.1 in typical but higher in cells",
     "notes": [
-      "FLASH FLOOD WARNING ACTIVE for Travis County until ~0600 CDT \u2014 thunderstorms producing 2\u20133+ inch/hour rainfall rates NOW. Valet/deliveries: confirm road conditions before dispatching any vehicles. Turn around, don't drown.",
-      "Flood Watch in effect through Tuesday 7 PM CDT. Stalling front keeps heavy rain bands over Austin through Tuesday. Isolated pockets of 8+ inches possible \u2014 life-threatening flooding in low-lying areas, creeks, streets, and underpasses.",
-      "NWS Key Messages: (1) Isolated 8+ inch totals possible. (2) Never drive on flooded roads. (3) Creeks and low-water crossings will be flooded. (4) Additional rain threat Fri\u2013Sat from energy approaching from Texas Panhandle.",
-      "PROPERTY ACTIONS: Restrict valet on flooded approaches; monitor Shoal Creek (W) and Waller Creek (E) via NWS Austin; brief AM shift on road conditions at turnover; activate guest flood shelter protocol if flooding approaches property."
+      "Flood Watch EXPIRES 7 PM CDT Tuesday \u2014 flooding risk active through this evening; soils saturated; any additional rainfall will produce rapid runoff.",
+      "Tropical disturbance over N. Mexico tracking E-NE; primary flood threat shifting south toward Gulf Coast (Houston, SE Texas). Austin sees decreasing rain risk.",
+      "PROPERTY ACTIONS: Confirm Flood Watch expiration with NWS Austin (weather.gov/ewx) before restoring outdoor furniture, pool operations, or outdoor F&B. Monitor Shoal Creek (W) and Waller Creek (E) through noon. Valet: confirm road passability on flood-prone approaches through mid-morning.",
+      "LOOK AHEAD: Wednesday forecast mostly sunny, high 93\u00b0F \u2014 dry conditions return. Heat indices begin rising Wed\u2013Thu (100\u2013108\u00b0F range possible). Prepare outdoor operations for restoration Wednesday pending NWS confirmation."
     ]
   },
   "events": [
     {
-      "name": "Paramount Theatre 'Last Call' Open House",
-      "venue": "Paramount Theatre, 713 Congress Ave (0.5 mi N)",
-      "distance": "0.5 mi N",
+      "name": "Vinyl Williams",
+      "venue": "Far Out Lounge, 8504 South Congress Ave",
+      "distance": "3.5 mi S",
       "time": "",
-      "crowd": "~500\u20131,000 (ticketed/RSVP; sold out) | 4:00\u20138:00 PM",
-      "risk": "LOW-MODERATE",
-      "detail": "Congress Ave foot traffic elevated 3\u20139 PM; parking demand high."
-    },
-    {
-      "name": "Rx Bandits",
-      "venue": "Mohawk, 912 Red River St (0.4 mi N)",
-      "distance": "0.4 mi N",
-      "time": "",
-      "crowd": "~600\u2013900 | 7:00 PM",
+      "crowd": "~300\u2013500 | 6:00 PM",
       "risk": "LOW",
-      "detail": "Post-rock/progressive band; Red River corridor standard congestion."
+      "detail": "Far Out Lounge indie concert. South Congress corridor; no impact on downtown property."
     },
     {
-      "name": "Soul Man Sam",
-      "venue": "Antone's Nightclub, 305 W 5th St (0.5 mi NW)",
-      "distance": "0.5 mi NW",
+      "name": "'68 (Band)",
+      "venue": "Come and Take It Live, 2003 E Riverside Dr",
+      "distance": "1.5 mi SE",
       "time": "",
-      "crowd": "~300\u2013500 | 8:00 PM",
+      "crowd": "~400\u2013600 | 7:00 PM",
       "risk": "LOW",
-      "detail": "Soul/blues artist; 5th St corridor standard evening congestion."
+      "detail": "Rock concert on E Riverside; SoCo/Riverside corridor. Minimal downtown impact."
     },
     {
-      "name": "FIFA WC Watch Parties \u2014 Iran vs. New Zealand (midnight CDT)",
-      "venue": "Sports bars citywide \u2014 primary: 6th St, Rainey St, Iranian community venues",
+      "name": "David Grissom \u2014 Saxon Pub (Free Show)",
+      "venue": "Saxon Pub, 1320 S Lamar Blvd",
+      "distance": "1.8 mi SW",
+      "time": "",
+      "crowd": "~200\u2013400 | 8:00 PM",
+      "risk": "LOW",
+      "detail": "Free live music; S Lamar corridor. No downtown congestion impact."
+    },
+    {
+      "name": "FIFA WC Watch Parties \u2014 Argentina vs. Algeria (8 PM CDT)",
+      "venue": "Sports bars citywide \u2014 6th St, Rainey St, UT-area venues",
       "distance": "Citywide",
       "time": "",
-      "crowd": "Elevated late evening; peak midnight\u20132 AM CDT",
-      "risk": "LOW-MODERATE",
-      "detail": "Iranian community watch parties citywide for midnight WC match. Elevated late-night F&B demand; mixed diaspora emotions around MOU announcement and ongoing diaspora political tensions. Monitor for any post-match incidents."
+      "crowd": "Elevated evening; peak 8 PM\u2013midnight",
+      "risk": "LOW",
+      "detail": "Argentina WC opener likely draws large watch party crowds. Elevated late-night F&B demand. No Iran match tonight \u2014 lower protest risk than Monday. Monitor post-match crowd dispersal on Rainey St and 6th St."
     },
     {
-      "name": "Juneteenth Week \u2014 Community Events",
-      "venue": "Rosewood Park / East Austin (2.0+ mi E)",
+      "name": "Juneteenth Week Community Events",
+      "venue": "Rosewood Park / East Austin",
       "distance": "2.0+ mi E",
       "time": "",
-      "crowd": "TBD | Various times through June 19",
+      "crowd": "TBD | Ongoing through June 19",
       "risk": "LOW",
-      "detail": "Celebratory community events; no direct property impact Monday."
+      "detail": "Celebratory community events through June 19. No direct property impact. Guest inquiries likely \u2014 brief concierge."
     }
   ],
   "property_actions": [
-    "FLOOD EMERGENCY \u2014 ACTIVATE NOW: Flash Flood Warning ACTIVE for Travis County until ~0600 CDT. Heavy rainfall ongoing. IMMEDIATELY: (1) Restrict valet vehicle movement \u2014 do NOT dispatch to retrieve vehicles without confirming road/garage conditions are passable; (2) Monitor Shoal Creek (W) and Waller Creek (E) water levels via NWS Austin; (3) Check San Jacinto Blvd and Cesar Chavez for street flooding before any deliveries or guest vehicle movement; (4) Brief arriving AM shift staff on flooded road conditions before they leave the building; (5) Guest shelter locations identified and communicated to all supervisors.",
-    "FLOOD WATCH THROUGH TUESDAY 7 PM CDT: Rain continues through the day and overnight. Do NOT restore outdoor furniture, pool operations, or F&B outdoor seating until NWS issues official all-clear for Flood Watch expiration. Maintain flood contingency posture for Monday and Tuesday shifts. Brief each incoming shift on Flood Watch status.",
-    "US-IRAN MOU \u2014 CYBER POSTURE: Deal announced; Iranian cyber retaliation risk reduced significantly but NOT cleared until formal signing June 19. Maintain zero-click, zero-QR posture for all guest-facing staff. Brief IT/security: watch for any retaliatory cyber activity through Friday. If signed June 19 without incident, posture can normalize.",
-    "FIFA WC \u2014 IRAN vs. NEW ZEALAND (midnight CDT): Late-night watch party activity citywide. F&B should anticipate elevated late-night demand at bar. Monitor for post-match incidents in Iranian community venues downtown. Iranian diaspora emotions are high \u2014 both celebratory (MOU) and protest-oriented (anti-regime). Zero-click, zero-QR posture maintained.",
-    "PARAMOUNT THEATRE 'LAST CALL' (4\u20138 PM, 713 Congress Ave): Notify valet and concierge of elevated Congress Ave foot traffic and parking congestion 3\u20139 PM. $6 garage at 155 W 7th St for overflow guest parking.",
-    "JUNETEENTH WEEK: Brief concierge and front desk on Austin Juneteenth events (Rosewood Park, East Austin, citywide June 15\u201319). Anticipate guest inquiries about event recommendations. Monitor for any street closures near East Austin venues June 17\u201319.",
-    "TRAVEL ADVISORIES \u2014 FLOOD ROADS: Advise any guest or staff departing property of current flood conditions. Key risk areas: low-water crossings on MoPac/Loop 1, underpasses along I-35 and SH-71, Shoal Creek and Waller Creek corridors. Turn around, don't drown \u2014 advise guests not to drive into flooded roadways."
+    "FLOOD WATCH EXPIRATION (7 PM CDT): Confirm Flood Watch expiration with NWS Austin before restoring outdoor furniture, pool operations, F&B outdoor seating. Do NOT restore until NWS issues official all-clear. Monitor Shoal Creek (W) and Waller Creek (E) water levels through noon.",
+    "VALET/ROADS: Continue verifying road conditions on flood-prone approaches (San Jacinto Blvd, Cesar Chavez, low-water crossings) through mid-morning. Conditions expected to clear by afternoon. Advise guests of remaining flood road risks.",
+    "HIT-AND-RUN VEHICLE ALERT: APD seeks 2011\u20132015 gray/silver Hyundai Sonata, front-end damage, missing right headlight \u2014 active homicide investigation on I-35 service road (0.4 mi E). Brief valet and security staff; report any sightings to APD non-emergency (512) 974-5000.",
+    "CYBER POSTURE (US-IRAN MOU): MOU electronically signed; cyber risk declining. Maintain zero-click, zero-QR posture for ALL guest-facing staff through Friday June 19 signing. If Geneva ceremony completes without incident, posture can normalize Friday PM.",
+    "FIFA WC WATCH PARTIES (Argentina match, 8 PM CDT): Anticipate elevated late-night F&B demand at bar through midnight. Monitor for post-match crowd activity on Rainey St and 6th St. Staff F&B appropriately for Argentina opener watch party demand.",
+    "JUNETEENTH WEEK: Brief concierge and front desk on Austin Juneteenth events (Rosewood Park, East Austin, citywide June 15\u201319). Anticipate guest inquiries for event recommendations. Monitor for any street closures near East Austin venues June 17\u201319.",
+    "HEAT OPERATIONS PREP: Wednesday forecast returns to 93\u00b0F+ with heat indices 100\u2013108\u00b0F. Pre-position hydration stations and review heat illness protocol for outdoor staff. Prep pool and outdoor F&B for Wednesday reopening pending Flood Watch expiration confirmation."
   ],
   "national_context": [
-    "US-IRAN MOU SIGNED (FRAMEWORK): Ceasefire on all fronts effective Sunday night. U.S. naval blockade lifted; Strait of Hormuz toll-free reopening authorized. Formal signing June 19, Switzerland. 60-day negotiation window on nuclear program, sanctions, reconstruction begins post-signing. Oil -4.5%; Brent ~$83/bbl. Remains preliminary \u2014 60-day window carries significant failure risk.",
-    "FIFA WC DAY 5: Spain vs. Cape Verde (Atlanta, noon CDT), Belgium vs. Egypt (Seattle, 6 PM CDT), Saudi Arabia vs. Uruguay (Miami, 8 PM CDT), Iran vs. New Zealand (LA, midnight CDT). 40\u201350K Iranian diaspora protesters expected outside SoFi Stadium. Largest protest of tournament. Lion-and-sun flag banned \u2014 lawsuit filed by Iranian American Institute.",
-    "NO KINGS PROTEST \u2014 DAY 2 AFTERMATH: Sunday events nationally were generally peaceful. Jane Fonda 'Rise Up, Sing Out' concert at NYC Town Hall drew large crowd. Fox News reporting on Soros-linked funding networks. No major arrests or violence reported nationally. Movement shifts from mobilization to ongoing organizing through midterm elections.",
-    "JUNETEENTH WEEK \u2014 NATIONAL: Federal holiday June 19. Community events and celebrations nationally. Generally peaceful; elevated community visibility and cultural programming. No elevated security threat nationally."
+    "US-IRAN MOU ELECTRONICALLY SIGNED: Framework deal signed by Trump, Vance, and Iranian Parliament Speaker Ghalibaf. Formal Geneva ceremony June 19. Strait of Hormuz toll-free reopening expected June 19. 60-day negotiation window on nuclear program, sanctions, reconstruction begins post-signing. Details disputed (sanctions relief, asset release). Iranian cyber threat declining \u2014 maintain zero-click posture.",
+    "FIFA WC DAY 6: No Iranian fixture. France vs. Senegal (2 PM CDT MetLife), Argentina vs. Algeria (8 PM CDT Arrowhead). Argentina opener high-profile; large watch party crowds expected nationally and in Austin. No elevated protest risk.",
+    "B-52 CRASH (NATIONAL): Eight killed in Edwards AFB routine test mission crash. USAF investigation active. No Texas/Austin nexus; national news coverage context only.",
+    "JUNETEENTH WEEK (NATIONAL): Federal holiday June 19. Community celebrations nationally. Generally peaceful \u2014 elevated cultural visibility through the week."
   ],
   "contacts": [
     [
@@ -202,24 +202,24 @@
   ],
   "lookaheads": [
     [
-      "Mon June 15 \u2014 PM",
-      "FLOOD WATCH CONTINUES through Tuesday 7 PM CDT. Rain bands will continue to develop and move through Austin area throughout Monday afternoon and overnight. Additional 2\u20135 inches possible; isolated 8+ inch pockets remain a threat. Street flooding and low-water crossing closures ongoing.",
-      "Maintain flood contingency posture all day. Do NOT restore outdoor operations. Brief each incoming shift. Monitor NWS Austin hourly."
+      "Tue June 16 PM",
+      "Flood Watch expires 7 PM CDT. Conditions improving through afternoon. 50% storm chance \u2014 isolated heavy cells remain possible through evening. Tropical disturbance primary impact shifting to Gulf Coast (Houston/SE TX).",
+      "Verify Flood Watch expiration before restoring outdoor operations. Brief PM shift on restoration criteria. Monitor NWS through mid-evening."
     ],
     [
-      "Tue June 15\u201316",
-      "FLOOD WATCH expires Tuesday 7 PM CDT (current forecast). NWS also monitoring additional rain threat from tropical disturbance lifting along Texas coast Wednesday\u2013Thursday. Elevated heat returns by midweek with indices 100\u2013108\u00b0F as front lifts.",
-      "Confirm Flood Watch expiration with NWS before restoring outdoor operations Tuesday evening. Prepare for heat index return Wed\u2013Thu \u2014 outdoor F&B and pool protocols resume."
+      "Wed June 17",
+      "Dry weather returns \u2014 mostly sunny, high 93\u00b0F. Heat indices begin rising toward 100\u2013105\u00b0F. Rain chances return Friday with a new system.",
+      "Restore outdoor furniture, pool operations, F&B once Flood Watch confirmed expired and roads are passable. Activate heat protocol for outdoor staff. Pre-position hydration stations."
     ],
     [
-      "Fri June 19",
-      "US-Iran MOU formal signing ceremony in Switzerland. Upon signing: Strait of Hormuz begins official reopening process; Iranian cyber retaliation risk normalizes; Iranian diaspora response (celebratory and protest) possible in Austin/UT corridor and nationwide. Also: Juneteenth federal holiday \u2014 Federal offices closed; community celebrations citywide.",
-      "Brief security leadership before June 19 shift. Prepare for Iranian diaspora response near UT/downtown. Juneteenth: anticipate elevated East Austin events and potential parking/traffic impact."
+      "Fri June 19 \u2014 Juneteenth / MOU Signing",
+      "US-Iran MOU formal signing ceremony in Geneva (VP Vance; Trump may attend). Strait of Hormuz officially reopens toll-free. Juneteenth federal holiday \u2014 federal offices closed; community celebrations citywide Austin. Potential Iranian diaspora gatherings (celebratory) near UT/downtown.",
+      "Brief security leadership before June 19 shift. Prepare for spontaneous Iranian diaspora response near UT/downtown. After signing: cyber posture can normalize if no retaliatory incidents. Anticipate elevated East Austin event parking/traffic."
     ],
     [
-      "Ongoing",
-      "FIFA WC tournament through July 19 \u2014 elevated cyber and soft-target posture. Next U.S. match: TBD (June 20 window). Iran's next WC matches: vs. Belgium in LA (June 21) and vs. Egypt in Seattle (June 26). Each match = elevated Iranian diaspora protest window nationally.",
-      "Maintain WC zero-click, zero-QR posture for all guest-facing staff. Brief each shift on current WC schedule and associated watch parties."
+      "Ongoing \u2014 FIFA WC",
+      "Next Iran WC match: vs. Belgium in LA, June 21. Iran vs. Egypt in Seattle June 26. Each match = elevated Iranian diaspora protest window nationally and potential Austin watch party activity. WC tournament continues through July 19.",
+      "Maintain WC zero-click, zero-QR posture through June 19. After signing, reassess cyber posture per leadership guidance. Brief each shift on upcoming WC schedule and associated watch parties."
     ]
   ]
 }
