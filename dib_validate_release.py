@@ -212,7 +212,12 @@ def check_live_site(date_str):
     Retries to account for CDN propagation lag.
     """
     failures = []
-    url = f"{PAGES_BASE}/data.json?v={int(time.time())}"
+    # Use raw.githubusercontent to bypass GitHub Pages CDN propagation lag
+    raw_base = PAGES_BASE.replace(
+        "https://rpr0m3th3us6-a11y.github.io/fs-austin-dib",
+        "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main"
+    )
+    url = f"{raw_base}/data.json?v={int(time.time())}"
     print(f"\n[C] Live GitHub Pages checks  ({PAGES_BASE})")
 
     try:
@@ -267,7 +272,7 @@ def check_live_site(date_str):
         _ok(f"Live contacts: {len(contacts)} ✓")
 
     # Archive entry
-    archive_url = f"{PAGES_BASE}/archive.json?v={int(time.time())}"
+    archive_url = f"{raw_base}/archive.json?v={int(time.time())}"
     try:
         archive = _fetch_json(archive_url, retries=2, delay=5)
         dates_in_archive = [e.get("date_file") for e in archive]
