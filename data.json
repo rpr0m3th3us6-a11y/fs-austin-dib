@@ -1,185 +1,160 @@
 {
-  "date_str": "June 17, 2026",
-  "day_str": "Wednesday",
-  "date_file": "20260617",
-  "generated_utc": "2026-06-17T10:05:02Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260617.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260617.pdf",
+  "date_str": "June 18, 2026",
+  "day_str": "Thursday",
+  "date_file": "20260618",
+  "generated_utc": "2026-06-18T10:06:10Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260618.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260618.pdf",
   "threat_matrix": [
     [
       "Physical Security",
-      "ELEVATED",
-      "Increasing"
+      "AMBER",
+      "ELEVATED"
     ],
     [
       "Civil Unrest",
-      "LOW",
-      "Stable"
+      "GREEN",
+      "LOW"
     ],
     [
-      "Cyber / Fraud",
-      "MODERATE",
-      "Declining"
+      "Cyber",
+      "GREEN",
+      "LOW"
     ],
     [
       "Weather",
-      "HIGH",
-      "Active"
+      "RED",
+      "HIGH"
     ],
     [
-      "Travel / Mobility",
-      "MODERATE",
-      "Stable"
+      "Travel",
+      "GREEN",
+      "LOW"
     ]
   ],
-  "bluf": "Wednesday shifts from flood recovery to extreme heat operations. Flood Watch has been cancelled \u2014 dry, sunny conditions return with a high near 92\u00b0F and heat index reaching 103\u00b0F today. An Extreme Heat Warning is issued for Thursday with heat indices up to 112\u00b0F in the region; Heat Advisory expected for Austin. Physical Security is elevated due to two active APD homicide investigations: an AutoZone robbery-murder on E. Riverside (suspect at large, Hispanic male 15-20 yrs, gray hoodie, light sedan) and a double homicide on Oltorf St. I-35 hit-and-run suspect vehicle still at large. US-Iran MOU formal signing is confirmed Friday at Burgenstock, Switzerland \u2014 oil sanctions waived on signing, Strait of Hormuz naval blockade lifts. Downtown is active tonight: Audrey Hobert at ACL Live (HIGH demand, ~2,750 seats), Thievery Corporation at Emo's East, The Church at Long Center. FIFA WC Day 7: England vs. Croatia (3 PM CDT, Dallas).",
+  "bluf": "Threat posture ELEVATED \u2014 driven by EXTREME HEAT (heat index up to 111\u00b0F, warning noon\u20138 PM) and a significant crime surge in SE Austin (3 homicides in 3 days, robbery-homicide suspect still at large). Summer Walker at Moody Center (~7,000) and Gary Clark Jr. at Antone's (~500) create heavy evening foot traffic. Brief all staff on heat protocols and at-large suspect.",
   "incidents": [
     {
-      "title": "AutoZone Robbery-Homicide \u2014 E. Riverside Dr (Suspect At Large)",
-      "location": "2300 blk E. Riverside Dr / AutoZone parking lot (~1.5 mi SE)",
+      "title": "Robbery-Homicide \u2014 E. Riverside AutoZone (SUSPECT AT LARGE)",
+      "location": "2237 E. Riverside Drive",
       "relevance": "HIGH",
-      "detail": "APD is investigating the robbery-homicide of Jose Salgado-Amador, 28, who was working as a mechanic in the AutoZone parking lot at 2300 E. Riverside Dr when a suspect confronted him, demanded property, shot him, and fled. Incident: Monday June 16, approximately 10:47 PM. Victim transported to hospital and later died \u2014 Austin's 27th homicide of 2026. SUSPECT: Hispanic male, approximately 15-20 years old, wearing a gray hoodie, fled in a light-colored sedan \u2014 at large as of 0500 CDT June 17. This location is approximately 1.5 mi SE of the property on E. Riverside corridor (also Rainey St access corridor). Brief security staff and valet; report suspect sightings to APD: 512-477-3588 or Crime Stoppers: (512) 472-8477.",
+      "detail": "APD released new video June 18 of suspect wanted in the fatal shooting of mechanic Jose Salgado-Amador, 28, during a robbery at the E. Riverside AutoZone parking lot. Suspect: Hispanic male, 15\u201320, gray hoodie, fled in a light-colored sedan. Case is Austin's 27th homicide of 2026. Suspect remains unidentified and at large. APD renewed request for public tips. Reward: up to $1,000. Suspect at large with demonstrated willingness to use lethal force during robbery. All valet, bellstand, and exterior staff should be briefed on suspect description. Report any suspicious loitering near loading dock or guest vehicle areas.",
       "source": ""
     },
     {
-      "title": "Double Homicide \u2014 Oltorf St SE Austin (Husband/Wife; Active Investigation)",
-      "location": "4700 blk Oltorf St, SE Austin (~2.5 mi SE)",
-      "relevance": "HIGH",
-      "detail": "APD is investigating Austin's 28th homicide of 2026 \u2014 a husband and wife found dead at 4700 block Oltorf St following a welfare check on June 16. Officers responded at 6:20 PM, found both deceased inside the residence. An aggressive dog delayed entry; no weapon information released; investigation active. No nexus to property identified. Location is 2.5 mi SE in a residential area. Staff awareness \u2014 no property action required; monitor for any updates that change proximity assessment.",
-      "source": ""
-    },
-    {
-      "title": "I-35 Hit-and-Run Homicide \u2014 APD Vehicular Homicide (Active)",
-      "location": "600 blk N. I-35 Southbound Service Road (~0.4 mi E)",
+      "title": "Double Homicide \u2014 Old Manor Road (Husband & Wife)",
+      "location": "Old Manor Road, Austin TX",
       "relevance": "MODERATE",
-      "detail": "APD Vehicular Homicide Unit continues investigation of fatal hit-and-run from Friday June 13 (~11:35 PM) at 600 block N. I-35 southbound service road. Suspect vehicle: 2011-2015 gray or silver Hyundai Sonata, front-end damage, missing right headlight \u2014 at large as of 0500 CDT. No arrest made. Brief valet and security staff to report sightings to APD non-emergency: (512) 974-5000.",
+      "detail": "APD found a husband and wife dead inside a home on Old Manor Road. Case is Austin's 28th homicide investigation of 2026. Investigation ongoing; no suspect identified. No direct threat to property. Domestic in nature; monitor for spillover in guest population (DV-related incidents can sometimes involve hotels as refuge locations).",
       "source": ""
     },
     {
-      "title": "Extreme Heat Warning \u2014 Thursday June 18 (Heat Index Up to 112\u00b0F)",
-      "location": "Travis County / Austin Metro",
-      "relevance": "HIGH",
-      "detail": "NWS Austin/San Antonio has issued an Extreme Heat Warning for portions of Central Texas from noon to 8 PM CDT Thursday June 18. Dangerously hot conditions with heat index values up to 112\u00b0F expected. This is the first significant heat event of summer 2026 \u2014 risk is higher as populations have had little time to acclimatize. Today (Wednesday): High 92\u00b0F, heat index up to 103\u00b0F \u2014 already hazardous for prolonged outdoor activity. PROPERTY ACTIONS: Activate heat protocol for all outdoor staff today; pre-position hydration stations poolside and at valet; review heat illness SOP and escalation; brief AM shift on heat index criteria for outdoor operations. Do NOT restore full outdoor F&B/pool service without confirming cooling stations available. High bacteria levels in area waterways \u2014 no swimming in open water.",
-      "source": ""
-    },
-    {
-      "title": "US-Iran MOU \u2014 Formal Signing Friday at Burgenstock, Switzerland",
-      "location": "Burgenstock Resort, Switzerland (signing June 19)",
+      "title": "SE Austin Homicide Cluster \u2014 3rd Killing in 3 Days",
+      "location": "Waters at Bluff Springs, 7707 S I-35 Service Road NB",
       "relevance": "MODERATE",
-      "detail": "The US-Iran MOU formal signing ceremony is confirmed for Friday June 19 at Burgenstock resort, Switzerland (venue changed from Geneva for security reasons; G7 summit was in nearby Evian, France). VP Vance and Iranian Parliament Speaker Ghalibaf will sign. Key MOU terms per Bloomberg draft: oil sanctions waived immediately on signing; $300B reconstruction fund; US lifts naval blockade immediately; Iran resumes commercial shipping within 30 days; 60-day negotiation window on nuclear program begins. Text disputed \u2014 both sides claiming victory. Trump says Strait of Hormuz 'completely open' once signed; 'ships already loading.' Austin relevance: Iranian cyber threat continues declining; maintain zero-click, zero-QR posture through Friday signing. After signing: posture can begin normalizing if no retaliatory incidents. Juneteenth Week Friday + MOU signing = potential Iranian diaspora gatherings near UT/downtown Friday.",
+      "detail": "A woman was found dead with trauma to her body in a public area of the Waters at Bluff Springs apartment complex at approx. 1:38 PM Wednesday. Austin's 29th homicide of 2026. No suspect information. Third homicide in SE Austin in three days. Pattern of violence in the SE Austin corridor warrants heightened awareness for any staff traveling or commuting on the S. I-35 service road. No direct threat to downtown property at this time.",
       "source": ""
     },
     {
-      "title": "Business Jet Crash \u2014 Laredo, TX (Austin-Bound Flight)",
-      "location": "Loop 20, Laredo TX (~150 mi SW) \u2014 National/state context",
+      "title": "US\u2013Iran MOU Formally Signed \u2014 Peace Deal in Effect",
+      "location": "Washington DC / Tehran (electronic signing confirmed)",
       "relevance": "LOW",
-      "detail": "A NetJets Cessna Citation Latitude business jet en route to Austin from San Jose del Cabo, Mexico, declared a mechanical emergency and crash-landed on Loop 20 in Laredo Tuesday evening (~10 PM). The aircraft lost communication with ATC and struck a moving vehicle on the highway. 1 fatality; multiple injured including 5 responding officers transported to hospital. FBI, NTSB, and FAA on scene. Passengers from an Austin-bound aircraft \u2014 potential disruption to incoming guests if passengers were Four Seasons-bound. NTSB investigation underway. Monitor for any guest inquiries about the incident or disrupted itineraries.",
-      "source": ""
-    },
-    {
-      "title": "FIFA WC Day 7 \u2014 England vs. Croatia, Portugal vs. DR Congo",
-      "location": "AT&T Stadium Dallas / Houston Stadium / Austin watch parties",
-      "relevance": "LOW",
-      "detail": "FIFA WC Day 7 (CDT): England vs. Croatia at AT&T Stadium Dallas \u2014 3 PM CDT (high-profile Group B match; England regarded as tournament favorite); Ghana vs. Panama at BMO Field Toronto \u2014 6 PM CDT; Portugal vs. DR Congo at Houston Stadium \u2014 9 PM CDT. No Iran match today. Argentina 3-0 Algeria and Austria 3-1 Jordan in Day 6 confirmed results \u2014 no major unrest from Argentina-Algeria match (some reported fan tensions at Times Square NYC dispersed by police). Austin watch parties expected at 6th St and Rainey St bars for England match (3 PM) and Portugal (9 PM). Moderate evening foot traffic downtown.",
-      "source": ""
-    },
-    {
-      "title": "Juneteenth Week \u2014 Austin Community Events (June 15-19)",
-      "location": "Rosewood Park / East Austin / Citywide",
-      "relevance": "LOW",
-      "detail": "Juneteenth observance week continues. Annual Juneteenth Parade scheduled Friday June 19, 9:30 AM - 12:00 PM, East Austin \u2014 parade route expected to generate street closures near Rosewood Park area. Austin Resource Recovery seeking volunteers along parade route. Generally peaceful, celebratory events through the week. Juneteenth federal holiday Friday \u2014 federal offices closed. Guest inquiries about Juneteenth events should be directed to concierge. Monitor East Austin for any street closure advisories ahead of Friday parade.",
+      "detail": "Trump and Iranian President Pezeshkian digitally signed the 14-point MOU in English and Farsi. Key provisions: 60-day ceasefire extension (incl. Lebanon); Strait of Hormuz reopens immediately without tolls; US lifts oil/petrochemical sanctions; $300B reconstruction fund; nuclear weapons pledge reiterated. Iran stated Hormuz will not revert to pre-war conditions and fees may apply after 60 days. Positive geopolitical development. Monitor for any opportunistic domestic protest activity tied to the signing \u2014 pro- or anti-Iran factions. No credible threat to Austin property. Juneteenth week and MOU signing may draw activist presence near UT Austin campus Friday.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "'No Kings' \u2014 Post-Event Normalization",
-      "location": "Texas State Capitol / Congress Ave Corridor (1.1 mi N)",
-      "detail": "Congress Ave fully normalized. No organizer follow-on action announced. Monitor Juneteenth-linked social channels for any calls to action. LOW \u2014 no imminent action expected.",
+      "title": "Juneteenth Week \u2014 City Offices Closed Friday",
+      "location": "Austin Citywide / East Austin",
+      "detail": "City of Austin municipal offices, courts, libraries, and recreation centers will be CLOSED Friday, June 19 in observance of Juneteenth. Juneteenth Parade is Friday at 9:30 AM in East Austin. Road closures expected east of I-35 beginning ~8 AM Friday. Mayor Kirk Watson participated in a Pride flag-raising and proclamation June 17.",
       "level": "LOW"
     },
     {
-      "title": "Iranian Diaspora \u2014 MOU Pre-Signing Watch",
-      "location": "UT Campus / Downtown Austin (0.5-1.5 mi N)",
-      "detail": "No Iranian WC match Wednesday reduces emotional triggers. MOU signing Friday may generate celebratory gatherings near UT/downtown. Generally peaceful \u2014 monitor leading into Friday. No organized protest intelligence for Wednesday. Posture can begin normalizing after Friday Burgenstock ceremony if no retaliatory incidents.",
+      "title": "US\u2013Iran MOU \u2014 Protest Watch",
+      "location": "Downtown Austin / UT Austin Campus",
+      "detail": "Formal signing of US-Iran MOU today may generate opportunistic demonstrations. No organized protest events confirmed in Austin. Monitor social media for pop-up activity near the Capitol or UT campus. Level may increase to MODERATE Friday if signing generates significant domestic reaction.",
       "level": "LOW"
     }
   ],
   "weather": {
-    "high": "92\u00b0F (mostly sunny; heat index up to 103\u00b0F)",
-    "low": "78\u00b0F (increasing clouds overnight)",
-    "humidity": "Decreasing \u2014 still elevated; dewpoint ~72-74\u00b0F",
-    "wind": "Calm to SSE 5 mph afternoon",
-    "precip": "~10% chance isolated afternoon shower; drying out rapidly",
+    "high": "96\u00b0F",
+    "low": "78\u00b0F",
+    "humidity": "85%",
+    "wind": "SE 5\u201310 mph, gusts to 20 mph",
+    "precip": "0%",
     "notes": [
-      "FLOOD WATCH CANCELLED \u2014 NWS Austin cancelled Flood Watch as of late Tuesday PM. Tropical disturbance has shifted E toward TX/LA border (Potential TC One). Austin is now drying out rapidly. Road conditions expected clear by mid-morning.",
-      "HEAT OPERATIONS \u2014 CRITICAL: Today high 92F with heat index up to 103F is hazardous for prolonged outdoor exposure. Activate heat protocol for outdoor staff NOW. Pre-position hydration stations at pool deck, valet, and outdoor event areas. Heat illness risk is elevated as body has not adapted after weeks of cool/wet conditions.",
-      "EXTREME HEAT WARNING THURSDAY: Heat index values up to 112F issued by NWS for portions of South/Central TX noon-8 PM CDT Thursday. Heat Advisory expected for Austin proper. Thursday is the most dangerous heat day of the forecast period \u2014 brief ALL outdoor staff Thursday AM; enforce mandatory hydration and shade breaks.",
-      "LOOK AHEAD: Friday heat index remains 105-115F in some areas; possible additional Heat Advisory. Rain chances return Friday-weekend from new system. Tropical moisture residuals keep humidity elevated through the week."
+      "EXTREME HEAT WARNING in effect noon\u20138 PM CDT Thursday. Heat index up to 111\u00b0F.",
+      "NWS EWX: 'Hazardous heat expected Thursday across South-Central Texas. Apparent temperatures top 100\u00b0F by noon for most areas, peak values 110\u2013115\u00b0F south/east of Balcones Escarpment.'",
+      "Tonight: Increasing clouds, low 78\u00b0F. South wind ~5 mph.",
+      "Friday (Juneteenth): High 92\u00b0F, heat index up to 106\u00b0F. Partly cloudy. 30% chance of showers/thunderstorms Friday night.",
+      "Saturday: 50% chance showers/thunderstorms. High 93\u00b0F.",
+      "Tropical: Potential TC One \u2014 primarily a Houston/Gulf Coast threat. No impact to Austin.",
+      "Heat safety: Limit outdoor exposure noon\u20138 PM. Ensure hydration stations active. Check on vulnerable guests."
     ]
   },
   "events": [
     {
-      "name": "Audrey Hobert \u2014 ACL Live at the Moody Theater (HIGH DEMAND)",
-      "venue": "ACL Live at the Moody Theater, 310 W. Willie Nelson Blvd",
-      "distance": "0.3 mi NW",
-      "time": "",
-      "crowd": "~2,500-2,750 | 8:00 PM",
-      "risk": "LOW-MODERATE",
-      "detail": "HIGH DEMAND pop/rock show at ACL Live \u2014 2,750 capacity venue 0.3 mi NW of property. Expect elevated foot traffic on W. 2nd St and Willie Nelson Blvd 7-11 PM. Notify valet of parking demand near venue. Concert-goers may seek hotel bar before/after show."
+      "name": "Summer Walker \u2014 Moody Center ATX",
+      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
+      "distance": "1.1 mi NE",
+      "time": "7:30 PM",
+      "crowd": "",
+      "risk": "HIGH",
+      "detail": "HIGH DEMAND R&B concert at the largest arena in Austin. ~7,000 attendees expected. Heavy rideshare/taxi pressure on Guadalupe, Red River, and surrounding arteries from 6 PM onward. Parking gridlock likely near UT campus. Staff should anticipate elevated walk-in guest inquiries about transportation alternatives."
     },
     {
-      "name": "Thievery Corporation \u2014 Emo's East",
-      "venue": "Emo's East, 2015 E. Riverside Dr",
-      "distance": "1.6 mi SE",
-      "time": "",
-      "crowd": "~1,500-1,700 | 7:00 PM",
+      "name": "Gary Clark Jr. \u2014 Antone's Nightclub",
+      "venue": "Antone's Nightclub, 213 W 5th Street",
+      "distance": "0.2 mi W",
+      "time": "8:00 PM",
+      "crowd": "",
+      "risk": "MODERATE",
+      "detail": "High-profile Austin blues artist at a venue 0.2 mi from property. Sold-out show with limited remaining tickets. Foot traffic on 5th Street and Lavaca elevated 7\u201311 PM. Valet and front entrance staff should expect elevated pedestrian volume."
+    },
+    {
+      "name": "Candlelight: Tribute to Taylor Swift \u2014 St. David's Episcopal Church",
+      "venue": "St. David's Episcopal Church, 301 E 8th St",
+      "distance": "0.3 mi NE",
+      "time": "6:30 PM",
+      "crowd": "",
       "risk": "LOW",
-      "detail": "Electronic/downtempo show at Emo's East (1,700 capacity). E. Riverside corridor; minimal downtown impact. Standard concert crowd."
+      "detail": "String ensemble Candlelight tribute show at St. David's. Two performances (6:30 PM and one earlier). Moderate foot traffic on E 8th Street. Primarily low-risk family and date-night crowd."
     },
     {
-      "name": "The Church \u2014 Dell Hall at Long Center",
-      "venue": "Dell Hall, Long Center for the Performing Arts, 701 W. Riverside Dr",
-      "distance": "0.6 mi SW",
-      "time": "",
-      "crowd": "~2,000-2,442 | 8:00 PM",
+      "name": "Candlelight: 90s Hip-Hop on Strings \u2014 St. David's Episcopal Church",
+      "venue": "St. David's Episcopal Church, 301 E 8th St",
+      "distance": "0.3 mi NE",
+      "time": "8:45 PM",
+      "crowd": "",
       "risk": "LOW",
-      "detail": "Alternative rock show at Long Center (2,442 capacity). 0.6 mi SW. Riverside Dr elevated foot traffic 7-11 PM. Parking demand at Long Center garage. Generally professional concertgoer crowd."
+      "detail": "Second Candlelight performance of the evening. Same venue and risk profile. Overlap with Taylor Swift audience transitioning out means a brief pedestrian surge on E 8th between 8:00\u20139:00 PM."
     },
     {
-      "name": "FIFA WC Watch Parties \u2014 England vs. Croatia (3 PM CDT)",
-      "venue": "Sports bars citywide \u2014 6th St, Rainey St, UT-area venues",
+      "name": "FIFA World Cup Day 8 \u2014 Watch Parties Citywide",
+      "venue": "Bars/Venues Downtown & 6th Street",
       "distance": "Citywide",
-      "time": "",
-      "crowd": "Elevated afternoon/evening; English supporter communities active",
+      "time": "Multiple",
+      "crowd": "",
       "risk": "LOW",
-      "detail": "England vs. Croatia (3 PM CDT) \u2014 high-profile Group B match. English expat and supporter community expected at 6th St and Rainey St bars. Afternoon/early evening bar demand elevated. Portugal vs. DR Congo (9 PM CDT) extends bar activity late."
-    },
-    {
-      "name": "Juneteenth Week Community Events",
-      "venue": "Rosewood Park / East Austin",
-      "distance": "2.0+ mi E",
-      "time": "",
-      "crowd": "TBD | Ongoing through June 19",
-      "risk": "LOW",
-      "detail": "Celebratory events through June 19. Juneteenth Parade Friday June 19, 9:30 AM, East Austin \u2014 expect street closures near Rosewood Park parade route Friday AM."
+      "detail": "June 18 FIFA WC Day 8 schedule: Czechia vs. South Africa (12 PM CDT, Atlanta); Switzerland vs. Bosnia (3 PM CDT); Canada vs. Qatar (6 PM CDT); Mexico vs. South Korea (9 PM CDT, Guadalajara). Mexico match at 9 PM likely to draw the largest watch party crowds on 6th Street. Czechia and Mexico games have the highest watch party potential."
     }
   ],
   "property_actions": [
-    "ACTIVATE HEAT PROTOCOL NOW: Today heat index up to 103F; Thursday up to 112F (Extreme Heat Warning). Pre-position hydration stations at pool deck, valet, and outdoor event areas. Enforce mandatory shade/hydration breaks for ALL outdoor staff. Review heat illness escalation SOP. Do not schedule extended outdoor assignments during peak heat hours (11 AM - 4 PM). Guests using pool: ensure adequate shade, hydration reminders, and cool towels available.",
-    "ROADS CLEAR \u2014 RESUME OUTDOOR OPS: Flood Watch cancelled. Road conditions expected passable. Valet may resume normal operations; confirm San Jacinto Blvd and approach roads clear before any restricted-approach guests. Outdoor furniture, pool, and F&B may be restored pending heat safety review.",
-    "ROBBERY-HOMICIDE SUSPECT AT LARGE (E. RIVERSIDE): Hispanic male, ~15-20 yrs, gray hoodie, light-colored sedan \u2014 fled after AutoZone robbery-murder at 2300 E. Riverside (1.5 mi SE). Brief valet staff on suspect description. Report sightings to APD: 512-477-3588 or Crime Stoppers: (512) 472-8477.",
-    "I-35 HIT-AND-RUN VEHICLE ALERT: 2011-2015 gray/silver Hyundai Sonata, front-end damage, missing right headlight \u2014 active vehicular homicide investigation. Report sightings: (512) 974-5000.",
-    "ACL LIVE EVENT TONIGHT (Audrey Hobert, ~2,750 seats, 8 PM): Notify valet and concierge of elevated foot traffic on W. 2nd St and Willie Nelson Blvd 7-11 PM. Expect concert parking demand; overflow to hotel valet possible. Brief F&B for elevated post-show bar and restaurant demand.",
-    "LONG CENTER TONIGHT (The Church, ~2,442 seats, 8 PM): Riverside Dr elevated foot traffic 7-11 PM. Parking demand at Long Center and surrounding lots. Notify valet of Riverside Dr congestion window.",
-    "MOU SIGNING PREP (FRIDAY): Confirm zero-click, zero-QR posture maintained through Friday Burgenstock signing. After signing with no incidents: cyber posture can begin normalizing. Prepare for potential Iranian diaspora celebratory gatherings near UT/downtown Friday. Brief Friday shift security leadership Thursday PM.",
-    "JUNETEENTH PARADE (FRIDAY JUNE 19): Juneteenth Parade at 9:30 AM, East Austin \u2014 street closures near Rosewood Park parade route. Brief concierge/front desk for guest inquiries about Friday Juneteenth events."
+    "EXTREME HEAT WARNING \u2014 NOON TO 8 PM CDT: Heat index up to 111\u00b0F. Mandatory protocol: activate hydration stations at valet, pool deck, and outdoor event areas. Enforce mandatory shade/hydration breaks for ALL outdoor staff every 30 min. Do NOT schedule extended outdoor assignments noon\u20134 PM. Pool deck: ensure shade structures deployed, cool towels and water available. Any guest or staff showing heat illness symptoms \u2014 move to air-conditioned space, call EMS immediately.",
+    "ROBBERY-HOMICIDE SUSPECT AT LARGE (E. RIVERSIDE): APD released new video today of suspect wanted in AutoZone parking lot murder (case #27/2026). Suspect: Hispanic male 15\u201320, gray hoodie, light-colored sedan. Brief ALL valet, bellstand, and door staff. Report suspicious loitering near loading dock or valet approach to APD: (512) 974-5000 or Crime Stoppers: (512) 472-8477. $1,000 reward active.",
+    "SE AUSTIN HOMICIDE CLUSTER \u2014 3 KILLINGS IN 3 DAYS: Pattern of violence on SE I-35 corridor. No direct threat to property; however, staff commuting via S. I-35 service road should be aware. If any guests report disturbances or request shelter, follow standard DV/emergency protocol.",
+    "SUMMER WALKER \u2014 MOODY CENTER (~7,000 CAPACITY, 7:30 PM): Largest event of the day. Rideshare gridlock on Guadalupe, Red River, and MLK from 6 PM. Notify concierge and front desk to brief guests on transportation alternatives (CapMetro, on-foot to Red River). Valet expect elevated walk-in demand from Moody attendees seeking alternative pickup zones.",
+    "GARY CLARK JR. \u2014 ANTONE'S (0.2 mi W, ~500, 8 PM): High foot traffic on 5th Street and Lavaca 7\u201311 PM. Brief exterior and door staff. Expect concert spillover guests at bar and restaurant post-show.",
+    "FIFA WC WATCH PARTIES \u2014 MEXICO vs. SOUTH KOREA (9 PM CDT): Largest anticipated draw of the WC matches today. Monitor 6th Street bars for crowd management issues. Ensure exterior post is covered through 11 PM.",
+    "JUNETEENTH PREP (FRIDAY): City offices, courts, libraries CLOSED. Juneteenth Parade 9:30 AM East Austin. Brief Friday AM shift on road closures east of I-35 (~8 AM). If any protest activity develops near Capitol/UT tied to US-Iran MOU signing, notify Director of Security immediately.",
+    "US\u2013IRAN MOU SIGNED TODAY: Positive geopolitical development. Strait of Hormuz reopening, 60-day ceasefire extended. No credible threat to property. Maintain standard cyber posture. Monitor for domestic protest reactions Friday."
   ],
   "national_context": [
-    "US-IRAN MOU SIGNING FRIDAY: Confirmed Burgenstock, Switzerland. VP Vance and Ghalibaf to sign. Bloomberg draft: oil sanctions waived immediately; $300B reconstruction fund; naval blockade lifts; Strait of Hormuz fully operational. 60-day nuclear/sanctions negotiation window begins. Text disputed but deal intact. Iranian cyber threat continuing to decline; maintain zero-click posture through Friday.",
-    "FIFA WC DAY 7: England vs. Croatia (3 PM CDT, AT&T Stadium Dallas) \u2014 high-profile match. Portugal vs. DR Congo (9 PM CDT, Houston). No Iranian fixture Wednesday. Day 6 results: Argentina 3-0 Algeria, Austria 3-1 Jordan. Minor fan tensions Times Square NYC after Argentina-Algeria match; dispersed by NYPD.",
-    "EXTREME HEAT \u2014 REGIONAL: Extreme Heat Warning issued for portions of South/Central TX Thursday, heat index up to 112\u00b0F. Heat Advisory expected for Austin. First major heat event of summer 2026. All outdoor operations require heat safety protocols effective immediately.",
-    "POTENTIAL TC ONE \u2014 GULF COAST: Potential Tropical Cyclone One making landfall near TX/LA border (Sabine Pass area) Wednesday/Thursday. Primary impact SE Texas (Houston) and Louisiana \u2014 life-threatening flash flooding possible. No Austin impact; tropical moisture and humidity residuals may affect Austin through weekend."
+    "US-IRAN MOU FORMALLY SIGNED TODAY: Trump and Iranian President Pezeshkian digitally signed the 14-point MOU in English and Farsi. Provisions: 60-day ceasefire extension incl. Lebanon; Strait of Hormuz reopens immediately without tolls; US lifts oil and petrochemical sanctions; $300B reconstruction fund; Iran reiterates nuclear weapons pledge. Iran noted Hormuz fees may apply after 60-day free period. BBC: 'does not constitute a peace treaty.' Cyber threat posture normalizing; maintain standard zero-click posture.",
+    "FIFA WC DAY 8 SCHEDULE: Czechia vs. South Africa (12 PM CDT, Atlanta); Switzerland vs. Bosnia (3 PM CDT); Canada vs. Qatar (6 PM CDT); Mexico vs. South Korea (9 PM CDT, Guadalajara). Mexico match at 9 PM expected to drive the largest watch party crowds in Austin, particularly on 6th Street. England 4-2 Croatia in Day 7.",
+    "EXTREME HEAT WARNING \u2014 SOUTH-CENTRAL TX: NWS Austin/San Antonio issued Extreme Heat Warning noon\u20138 PM CDT Thursday for the I-35 corridor and Coastal Plains. Heat indices expected 110\u2013115\u00b0F south/east of Balcones Escarpment; 105\u2013112\u00b0F Hill Country. 'The heat during the day Thursday will likely be hazardous if precautions are not taken.' Hot and humid pattern continues into next week.",
+    "AUSTIN CRIME SURGE \u2014 SE CORRIDOR: Three homicides in SE Austin in three days (June 15-17). APD released new video June 18 of robbery-homicide suspect from E. Riverside AutoZone. 29 homicides in Austin year-to-date. Pattern warrants heightened situational awareness for staff commuting on I-35 southbound service road."
   ],
   "contacts": [
     [
@@ -217,24 +192,24 @@
   ],
   "lookaheads": [
     [
-      "Wed June 17 PM",
-      "ACL Live (Audrey Hobert ~2,750) and Long Center (The Church ~2,442) both 8 PM. England vs. Croatia watch parties citywide 3-6 PM. Heat index 103F through afternoon.",
-      "Staff F&B for elevated post-show and watch-party demand 8 PM-midnight. Enforce heat protocol through afternoon. Monitor Riverside Dr and W. 2nd St congestion windows."
+      "FRI Jun 19 \u2014 Juneteenth (City Holiday)",
+      "City offices, courts, libraries CLOSED. Juneteenth Parade, 9:30 AM, East Austin \u2014 expect road closures east of I-35. Elevated foot traffic on MLK Blvd and Rosewood Ave. Potential protest activity if US-Iran signing generates domestic reaction.",
+      "MODERATE"
     ],
     [
-      "Thu June 18",
-      "EXTREME HEAT WARNING noon-8 PM CDT \u2014 heat index up to 112F. Hottest day of forecast period. Prolonged outdoor exposure life-threatening. No major Austin events identified; outdoor operations suspended or significantly limited.",
-      "Brief ALL outdoor staff Thursday AM on Extreme Heat Warning. Enforce mandatory shade/hydration rotation. Suspend non-essential outdoor assignments noon-8 PM. Ensure pool deck cooling stations fully operational. Heat illness escalation protocol active."
+      "FRI Jun 19 \u2014 US\u2013Iran MOU Formal Hard-Copy Signing",
+      "Diplomatic ceremony expected. Monitor for pro/anti-Iran demonstration activity near Capitol or UT campus. APD likely to have downtown presence. No credible threat to property.",
+      "LOW"
     ],
     [
-      "Fri June 19 \u2014 Juneteenth / MOU Signing",
-      "US-Iran MOU formal signing, Burgenstock Switzerland \u2014 VP Vance and Ghalibaf. Strait of Hormuz naval blockade lifts; oil sanctions waived immediately on signing. Juneteenth federal holiday \u2014 federal offices closed. Juneteenth Parade East Austin 9:30 AM. Potential Iranian diaspora gatherings (celebratory) near UT/downtown. Heat index 105-115F possible; additional Heat Advisory possible.",
-      "Brief security leadership Thursday PM for Friday shift. After signing: cyber posture can normalize if no retaliatory incidents. Prepare for Juneteenth parade street closures (East Austin). Maintain heat protocol Friday."
+      "FRI\u2013SAT Jun 19\u201320 \u2014 Rain/Storm Chances Return",
+      "30% storm chance Friday night; 50% Saturday. After days of heat, these could be brief intense cells. Monitor NWS EWX for any flood watch issuance. Review valet/exterior protocols for wet conditions.",
+      "LOW"
     ],
     [
-      "Ongoing \u2014 FIFA WC",
-      "Next Iran WC match: vs. Belgium in LA, Sunday June 21. Iran vs. Egypt in Seattle June 26. WC through July 19.",
-      "Maintain WC zero-click/zero-QR posture through Friday. After MOU signing, reassess per leadership guidance. Brief shifts on Iran match schedule \u2014 each Iran match = elevated diaspora watch party activity."
+      "SAT Jun 21 \u2014 Extended Heat Pattern",
+      "Hot and humid weather continues into next week per NWS. Highs 93\u201398\u00b0F through Wednesday. Sustained heat protocol advisable for outdoor F&B and event operations all weekend.",
+      "MODERATE"
     ]
   ]
 }
