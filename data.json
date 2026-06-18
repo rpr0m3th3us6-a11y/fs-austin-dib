@@ -2,7 +2,7 @@
   "date_str": "June 18, 2026",
   "day_str": "Thursday",
   "date_file": "20260618",
-  "generated_utc": "2026-06-18T10:06:10Z",
+  "generated_utc": "2026-06-18T10:06:25Z",
   "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260618.pdf",
   "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260618.pdf",
   "threat_matrix": [
@@ -99,7 +99,7 @@
       "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
       "distance": "1.1 mi NE",
       "time": "7:30 PM",
-      "crowd": "",
+      "crowd": "~7,000 | 7:30 PM",
       "risk": "HIGH",
       "detail": "HIGH DEMAND R&B concert at the largest arena in Austin. ~7,000 attendees expected. Heavy rideshare/taxi pressure on Guadalupe, Red River, and surrounding arteries from 6 PM onward. Parking gridlock likely near UT campus. Staff should anticipate elevated walk-in guest inquiries about transportation alternatives."
     },
@@ -108,7 +108,7 @@
       "venue": "Antone's Nightclub, 213 W 5th Street",
       "distance": "0.2 mi W",
       "time": "8:00 PM",
-      "crowd": "",
+      "crowd": "~500 | 8:00 PM",
       "risk": "MODERATE",
       "detail": "High-profile Austin blues artist at a venue 0.2 mi from property. Sold-out show with limited remaining tickets. Foot traffic on 5th Street and Lavaca elevated 7\u201311 PM. Valet and front entrance staff should expect elevated pedestrian volume."
     },
@@ -117,7 +117,7 @@
       "venue": "St. David's Episcopal Church, 301 E 8th St",
       "distance": "0.3 mi NE",
       "time": "6:30 PM",
-      "crowd": "",
+      "crowd": "~300 | 6:30 PM",
       "risk": "LOW",
       "detail": "String ensemble Candlelight tribute show at St. David's. Two performances (6:30 PM and one earlier). Moderate foot traffic on E 8th Street. Primarily low-risk family and date-night crowd."
     },
@@ -126,7 +126,7 @@
       "venue": "St. David's Episcopal Church, 301 E 8th St",
       "distance": "0.3 mi NE",
       "time": "8:45 PM",
-      "crowd": "",
+      "crowd": "~300 | 8:45 PM",
       "risk": "LOW",
       "detail": "Second Candlelight performance of the evening. Same venue and risk profile. Overlap with Taylor Swift audience transitioning out means a brief pedestrian surge on E 8th between 8:00\u20139:00 PM."
     },
@@ -135,7 +135,7 @@
       "venue": "Bars/Venues Downtown & 6th Street",
       "distance": "Citywide",
       "time": "Multiple",
-      "crowd": "",
+      "crowd": "Moderate | Multiple",
       "risk": "LOW",
       "detail": "June 18 FIFA WC Day 8 schedule: Czechia vs. South Africa (12 PM CDT, Atlanta); Switzerland vs. Bosnia (3 PM CDT); Canada vs. Qatar (6 PM CDT); Mexico vs. South Korea (9 PM CDT, Guadalajara). Mexico match at 9 PM likely to draw the largest watch party crowds on 6th Street. Czechia and Mexico games have the highest watch party potential."
     }
