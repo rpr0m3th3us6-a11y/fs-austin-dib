@@ -1,10 +1,10 @@
 {
-  "date_str": "June 19, 2026",
-  "day_str": "Friday",
-  "date_file": "20260619",
-  "generated_utc": "2026-06-19T10:04:06Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260619.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260619.pdf",
+  "date_str": "June 20, 2026",
+  "day_str": "Saturday",
+  "date_file": "20260620",
+  "generated_utc": "2026-06-20T10:04:19Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260620.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260620.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -13,8 +13,8 @@
     ],
     [
       "Civil Unrest",
-      "AMBER",
-      "ELEVATED"
+      "GREEN",
+      "LOW"
     ],
     [
       "Cyber",
@@ -28,150 +28,160 @@
     ],
     [
       "Travel",
-      "AMBER",
-      "ELEVATED"
+      "GREEN",
+      "LOW"
     ]
   ],
-  "bluf": "JUNETEENTH \u2014 City holiday with major events citywide. Threat posture ELEVATED on four domains: Juneteenth Parade (E. 12th/MLK, 10 AM\u2013noon) + Kali Uchis at Germania Amphitheater (~14,000, 7 PM, outdoor) + Music Under the Stars at Capitol Mall (7\u20139 PM). Road closures east of I-35 from ~8 AM. Flash flood risk (Level 2/4, storms possible tonight) and heat index up to 106\u00b0F. US-Iran Burgenstock talks POSTPONED \u2014 Iran hardliners pulled out, Israel resumed Lebanon airstrikes. Monitor for domestic protest reactions. Robbery-homicide suspect from E. Riverside still at large.",
+  "bluf": "Juneteenth weekend Saturday \u2014 strong event slate with Nate Bargatze at Moody Center (~12,000, 3 PM), Kevin Morby at Stubb's Outdoor (~2,000, 7 PM), and late-night shows near property. Overnight storms moved through (isolated flash flood risk south of I-10/US-90 corridor). 20\u201340% residual storm chance this afternoon/evening \u2014 brief intense cells possible. Heat index up to 100\u00b0F along I-35. US-Iran talks ON: Witkoff and Araghchi both headed to Switzerland \u2014 talks resuming Saturday. Lebanon-Hezbollah ceasefire in effect. E. Riverside robbery-homicide suspect remains at large.",
   "incidents": [
     {
       "title": "Robbery-Homicide \u2014 E. Riverside AutoZone (SUSPECT AT LARGE)",
       "location": "2237 E. Riverside Drive",
       "relevance": "HIGH",
-      "detail": "APD released new video June 18 of suspect wanted in the fatal shooting of Jose Salgado-Amador, 28, during a robbery at the E. Riverside AutoZone parking lot. Suspect: Hispanic male, 15\u201320, gray hoodie, fled in a light-colored sedan. Case is Austin's 27th homicide of 2026. Suspect remains unidentified and at large. $1,000 reward active. Suspect at large with lethal-force robbery history. Brief ALL valet, bellstand, and exterior staff. Report suspicious loitering to APD Crime Stoppers (512) 472-8477.",
+      "detail": "Suspect wanted in fatal shooting of Jose Salgado-Amador, 28, during a robbery at the E. Riverside AutoZone parking lot. APD released new video June 18. Suspect: Hispanic male, 15\u201320, gray hoodie, light-colored sedan. Austin's 27th homicide of 2026. Unidentified, at large. $1,000 reward active. Case remains open. Brief ALL exterior, valet, and bellstand staff. Suspect demonstrated lethal-force willingness in a robbery context. Report suspicious loitering to APD (512) 974-5000 or Crime Stoppers (512) 472-8477.",
       "source": ""
     },
     {
-      "title": "SE Austin Homicide Victim Identified \u2014 Francesca Ortiz, 40",
-      "location": "Waters at Bluff Springs, 7707 S I-35 Service Rd NB",
+      "title": "Overnight Flash Flooding \u2014 South of Austin (I-10/US-90 Corridor)",
+      "location": "I-10 / US-90 corridor south of Austin (San Antonio area)",
       "relevance": "LOW",
-      "detail": "APD identified the woman found dead at Waters at Bluff Springs on June 17 as Francesca Ortiz, age 40. Case is Austin's 29th homicide of 2026. APD investigation ongoing; no suspect identified. Third in a SE Austin homicide cluster this week. No direct threat to property. Situational awareness for staff commuting on S. I-35 service road. No suspect or connection to downtown.",
+      "detail": "NWS Austin/San Antonio issued flash flood statements overnight for areas along and south of the I-10/US-90 corridor. Heavy rainfall rates of 2\u20133 inches/hour possible. Backbuilding convection pushed through Austin's area pre-dawn with lightning. Some isolated flooding possible. Austin proper received storms early morning but greatest flood risk remained to the south toward San Antonio. Residual moisture and 20\u201340% afternoon storm chance remains. Ensure loading dock drains are clear from overnight rain. Brief valet on wet-weather protocols. Staff commuting from south of Austin (I-35 S or US-183 S) should check roads.",
       "source": ""
     },
     {
-      "title": "I-35 Hit-and-Run Arrest \u2014 Suspect Identified",
-      "location": "Downtown Austin I-35 Service Road",
+      "title": "US\u2013Iran Burgenstock Talks RESUMING Saturday",
+      "location": "Burgenstock Resort, Switzerland",
       "relevance": "LOW",
-      "detail": "APD arrested a woman in connection with the hit-and-run crash that killed a pedestrian on the downtown I-35 service road on June 13. Suspect is in custody. Case closed for active threat purposes. Positive development \u2014 active threat from at-large vehicle suspect resolved. No direct impact to property.",
+      "detail": "US Special Envoy Steve Witkoff and Iranian FM Abbas Araghchi are both travelling to Switzerland Saturday for resumption of implementation talks. Israel-Hezbollah ceasefire took effect 4 PM Lebanon time Friday (brokered by US, Qatar, and Iran). Talks had been postponed Thursday amid fighting; ceasefire stabilized them. Next formal round scheduled June 23\u201325 in Washington, DC. Strait of Hormuz remains open, Iranian oil waivers active. Iran: 'No urgency but meeting planned in coming days.' Situation stabilizing. Positive development \u2014 reduced domestic protest risk compared to Friday. Civil unrest threat returns to LOW. Maintain standard posture. No credible threat to property.",
       "source": ""
     },
     {
-      "title": "West Campus Serial Burglar/Assault Arrested \u2014 Octavius Brown",
-      "location": "West Campus / UT Austin area",
+      "title": "SE Austin Homicide Cluster \u2014 Cases Ongoing",
+      "location": "SE Austin (multiple locations)",
       "relevance": "LOW",
-      "detail": "APD arrested Octavius Brown, a repeat offender, for three apartment break-ins on West Campus (June 10) including a sexual assault of a sleeping victim. Brown was recently released from jail in April and admitted to the crimes. Charged with burglary of habitation with intent to commit sex offense. Currently in Travis County Jail. Primarily a UT-area threat. Brown is in custody \u2014 no direct ongoing threat to property. Awareness flag: Juneteenth crowds near campus create opportunity for similar predatory activity. Brief front desk staff on suspicious behavior protocols.",
-      "source": ""
-    },
-    {
-      "title": "US\u2013Iran Burgenstock Talks POSTPONED \u2014 MOU Under Pressure",
-      "location": "Burgenstock, Switzerland",
-      "relevance": "MODERATE",
-      "detail": "The US-Iran implementation talks at Burgenstock have been POSTPONED. Iran's IRGC hardliners objected to a public ceremony with US officials; JD Vance cancelled his Switzerland trip. Iran has reportedly suspended the 60-day negotiation window. Separately, Israel resumed airstrikes on Lebanon (16+ killed Friday), accusing Hezbollah of ceasefire violations. The MOU remains electronically signed (June 18) but implementation is now in jeopardy. Strait of Hormuz remains open per MOU terms. ELEVATED watch for domestic protest activity today. Both pro-Iran groups (angered by Israeli attacks) and anti-Iran groups (concerned about deal collapse) may demonstrate. Juneteenth crowds provide cover for larger gatherings. Monitor Capitol area and UT. Notify Director of Security of any organized demonstrations approaching downtown.",
+      "detail": "Three homicides in SE Austin June 15\u201317 remain under APD investigation. Francesca Ortiz (Waters at Bluff Springs), husband-wife double homicide (Old Manor Rd), and AutoZone robbery-homicide (E. Riverside). No new SE Austin homicide incidents overnight. APD investigations ongoing \u2014 no suspects identified in two of three cases. No direct threat to property. SE I-35 corridor awareness for commuting staff.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "Juneteenth Parade & Events \u2014 East Austin (ROAD CLOSURES IN EFFECT)",
-      "location": "E. 12th Street / MLK Blvd, East Austin",
-      "detail": "Juneteenth Parade runs 10 AM\u2013noon along E. 12th Street and MLK Blvd. Road closures east of I-35 in effect beginning ~8 AM. AACHF Fun Run at 1300 E. MLK & Leona St (morning). All-day festival at Rosewood Neighborhood Park, 2300 Rosewood Ave. Music Under the Stars at Capitol Mall Amphitheater (Bullock Museum) 7\u20139 PM \u2014 Rochelle & the Sidewinders (7 PM), Tameca Jones (8 PM). City of Austin, City courts, UT Austin, Travis County offices ALL CLOSED. Large crowds expected throughout day in East Austin; some dispersal to downtown after parade.",
-      "level": "MODERATE"
+      "title": "Juneteenth Weekend \u2014 Continued Activity East Austin",
+      "location": "East Austin / Citywide",
+      "detail": "Juneteenth weekend continues. Saturday events include The Carver Kickback: Juneteenth Edition at the George Washington Carver Museum (1165 Angelina St, East Austin). Beyond the Petal exhibit at Old Bakery and Emporium (1006 Congress Ave \u2014 0.4 mi from property). City services, courts, libraries remain closed Saturday in many areas as weekend holiday observance continues. Foot traffic in East Austin and along Congress Ave elevated compared to a normal Saturday.",
+      "level": "LOW"
     },
     {
-      "title": "US\u2013Iran MOU Collapse Watch \u2014 Protest Potential ELEVATED",
-      "location": "Downtown Austin / Capitol / UT Austin Campus",
-      "detail": "Burgenstock talks postponed, Israel resumed Lebanon airstrikes (16+ killed Friday). This combination creates elevated risk of spontaneous protest activity \u2014 pro-Palestinian and anti-Iran factions both have motivation to demonstrate. No confirmed organized protest events in Austin, but Juneteenth crowds citywide provide assembly opportunity. Monitor social media for pop-up activity near Capitol, UT campus, or Congress Ave. APD likely has augmented Juneteenth presence downtown.",
-      "level": "ELEVATED"
+      "title": "US\u2013Iran Protest Watch \u2014 REDUCED",
+      "location": "Downtown Austin / Capitol",
+      "detail": "Israel-Hezbollah ceasefire took effect Friday. US-Iran implementation talks resuming in Switzerland Saturday. Domestic protest risk significantly reduced from Friday's ELEVATED status. Monitor social media for any residual demonstration activity near Capitol \u2014 unlikely given diplomatic progress. Standard posture.",
+      "level": "LOW"
     }
   ],
   "weather": {
-    "high": "92\u00b0F",
-    "low": "79\u00b0F",
-    "humidity": "75% (afternoon) / 85% (morning)",
-    "wind": "SSE 5\u201310 mph",
-    "precip": "30% tonight (before 1 AM)",
+    "high": "91\u00b0F",
+    "low": "75\u00b0F",
+    "humidity": "70\u201380%",
+    "wind": "S 5\u201310 mph",
+    "precip": "20\u201340% (afternoon/evening storms)",
     "notes": [
-      "Heat index values up to 106\u00b0F this afternoon. Heat Advisory remains in effect through Saturday evening for parts of the Austin area.",
-      "FLASH FLOOD RISK: Severe Weather Outlook Level 2/4 for central Texas. Cold front pushing through Friday. Storms could produce locally damaging winds, heavy rain, frequent lightning. 30% chance storms tonight before 1 AM. FOX 7 Austin: 'As much as 2 inches possible in northern Texas; central TX in marginal severe risk.'",
-      "Saturday: 50% chance showers/thunderstorms. High near 93\u00b0F. Heat index 100-107\u00b0F.",
-      "Sunday: 20% storms after 1 PM. High near 96\u00b0F. South wind 10-15 mph, gusts to 25 mph.",
-      "Extended: Hot and humid pattern continues \u2014 highs 96\u201398\u00b0F Monday through Wednesday. Mostly sunny after storms clear Saturday.",
-      "POOL CLOSURES: Deep Eddy Pool closing Monday. Ramsey, Murchison, and Barton Springs pools CURRENTLY CLOSED. Brief pool guests on alternatives (hotel pool only operational option for many visitors today).",
-      "Outdoor event risk: Kali Uchis at Germania Amphitheater (outdoor) and Music Under the Stars at Capitol Mall (outdoor) \u2014 monitor NWS EWX for any pre-storm cell development 1\u20134 PM. Storms expected late tonight, not during peak show hours."
+      "Overnight/early-morning storms moved through Austin with lightning and locally heavy rain. Greatest flood risk was along and south of I-10/US-90 corridor (San Antonio area). Austin received pre-dawn convection \u2014 isolated flooding possible in low-lying areas.",
+      "Today: lingering 20\u201340% chance of isolated-to-scattered afternoon/evening storms. NWS EWX: 'Enough instability could establish with daytime heating where isolated to scattered shower and storm activity will be possible from the afternoon into the night.' Storms capable of heavy rain, localized flooding, frequent lightning.",
+      "Heat index values could reach 100\u00b0F along the I-35 corridor this afternoon. No heat advisory in effect \u2014 below heat advisory threshold.",
+      "Outdoor events at risk: Kevin Morby at Stubb's Outdoor (7 PM) \u2014 outdoor venue. Monitor NWS EWX for any pre-show cell development 4\u20136 PM.",
+      "Sunday (Father's Day): Drying trend begins. 10\u201320% storm chance morning only. High near 91\u00b0F. Mostly sunny afternoon.",
+      "Monday onward: Dry, hot pattern returning. Highs climbing to mid-90s then potentially 103\u00b0F by mid-week. Monitor for Heat Advisory issuance Monday or Tuesday.",
+      "Deep Eddy Pool CLOSED (permanent closure). Ramsey, Murchison, Barton Springs pools currently closed. Hotel pool remains at elevated demand from guests."
     ]
   },
   "events": [
     {
-      "name": "Kali Uchis \u2014 Germania Insurance Amphitheater",
-      "venue": "Germania Insurance Amphitheater, 9201 Circuit of the Americas Blvd",
-      "distance": "8.5 mi SE",
-      "time": "7:00 PM",
-      "crowd": "~14,000 | 7:00 PM",
-      "risk": "MODERATE",
-      "detail": "Large outdoor amphitheater show with high demand. ~14,000 capacity. Located at COTA, 8.5 mi SE of property \u2014 primary traffic impact on I-35 S, Hwy 71, and US-183 beginning 5 PM. Rideshare surge expected 9:30\u201311 PM post-show. Outdoor venue with storm risk tonight (storms possible after midnight). Monitor NWS EWX for any weather advisory that could affect outdoor event operations."
+      "name": "Nate Bargatze \u2014 Moody Center ATX",
+      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
+      "distance": "1.1 mi NE",
+      "time": "3:00 PM",
+      "crowd": "~12,000 | 3:00 PM",
+      "risk": "HIGH",
+      "detail": "Major comedy/entertainment show at Moody Center \u2014 sold-out or near-sold-out. ~12,000 attendees. Matinee start at 3 PM \u2014 traffic impact on Guadalupe, Red River, and MLK from 1:30 PM. Rideshare surge expected. Show likely ends 5\u20135:30 PM, driving heavy post-show foot traffic into downtown and 6th Street corridor for dinner and evening entertainment. Some Bargatze attendees will seek Four Seasons bar/restaurant for pre- or post-show experience."
     },
     {
-      "name": "Music Under the Stars \u2014 Capitol Mall Amphitheater (Juneteenth)",
-      "venue": "Capitol Mall Amphitheater, Bullock Texas State History Museum, 1800 Congress Ave",
-      "distance": "0.5 mi N",
-      "time": "7:00 PM",
-      "crowd": "~2,000\u20133,000 | 7:00 PM",
-      "risk": "MODERATE",
-      "detail": "Free Juneteenth concert on the Capitol Mall \u2014 Rochelle & the Sidewinders at 7 PM, Tameca Jones at 8 PM. 0.5 mi north of property. Free public event drives large, informal foot traffic on Congress Ave and 11th Street from 6 PM. Expect pedestrian spillover on Cesar Chavez and 2nd Street post-show (9 PM). Property will see elevated walk-in guests seeking dining and bar service after the show."
-    },
-    {
-      "name": "A Very Juneteenth Comedy Jam \u2014 The Velveeta Room",
-      "venue": "The Velveeta Room, 521 E 6th Street",
+      "name": "Kevin Morby \u2014 Stubb's Outdoor Amphitheatre",
+      "venue": "Stubb's Bar-B-Q, 801 Red River Street",
       "distance": "0.5 mi NE",
-      "time": "8:00 PM",
-      "crowd": "~150 | 8:00 PM",
-      "risk": "LOW",
-      "detail": "Small comedy venue on 6th Street. Standard 6th Street crowd profile. Low direct impact to property."
-    },
-    {
-      "name": "DeRay Davis \u2014 Cap City Comedy Club",
-      "venue": "Cap City Comedy Club, 8120 Research Blvd",
-      "distance": "9 mi N",
-      "time": "Multiple shows",
-      "crowd": "~200 | Multiple shows",
-      "risk": "LOW",
-      "detail": "National touring comedian at Cap City. Located north of downtown; no direct impact to property footprint."
-    },
-    {
-      "name": "Juneteenth Parade & All-Day Festival \u2014 East Austin",
-      "venue": "E. 12th St / MLK Blvd / Rosewood Neighborhood Park",
-      "distance": "2.5 mi E",
-      "time": "10:00 AM (Parade) / All Day (Festival)",
-      "crowd": "~5,000\u20138,000 | 10:00 AM (Parade) / All Day (Festival)",
+      "time": "7:00 PM",
+      "crowd": "~2,000 | 7:00 PM",
       "risk": "MODERATE",
-      "detail": "Juneteenth Parade 10 AM\u2013noon along E. 12th Street. All-day festival at Rosewood Park. Heavy foot traffic in East Austin all day. Road closures east of I-35 limit eastbound vehicle access. After parade (noon+), crowd disperses toward downtown, Rainey Street, and 6th Street. Expect elevated walk-ins at property early afternoon."
+      "detail": "Indie rock show at Stubb's outdoor amphitheater, 0.5 mi NE of property. ~2,000 capacity outdoor venue. Outdoor show \u2014 monitor afternoon storm potential. If storms develop 3\u20136 PM, show may face delay or early crowd dispersal. Foot traffic on Red River St and 6th elevated 6\u201311 PM. High foot traffic overlap with post-Bargatze crowd heading into the evening district."
     },
     {
-      "name": "FIFA World Cup Day 9 \u2014 Watch Parties",
+      "name": "Parker Millsap \u2014 Antone's Nightclub",
+      "venue": "Antone's Nightclub, 213 W 5th Street",
+      "distance": "0.2 mi W",
+      "time": "8:00 PM",
+      "crowd": "~500 | 8:00 PM",
+      "risk": "MODERATE",
+      "detail": "High-profile Americana show at Antone's, 0.2 mi west of property on 5th Street. Foot traffic on 5th and Lavaca elevated 7\u201311 PM. Post-show crowd (10:30\u2013midnight) likely to spill toward property entrance on Cesar Chavez. Pre-position exterior staff."
+    },
+    {
+      "name": "Franky Wah \u2014 Kingdom",
+      "venue": "Kingdom, 505 E. 7th Street",
+      "distance": "0.5 mi NE",
+      "time": "10:00 PM (Doors 10 PM)",
+      "crowd": "~800 | 10:00 PM (Doors 10 PM)",
+      "risk": "LOW",
+      "detail": "Electronic music show at Kingdom nightclub on E. 7th St. Late-night crowd \u2014 arrivals 10 PM\u2013midnight. E. 7th Street / Red River corridor elevated late night through 2 AM. Standard late-night awareness."
+    },
+    {
+      "name": "AYYBO \u2014 The Concourse Project",
+      "venue": "The Concourse Project, 10110 N. Lamar Blvd",
+      "distance": "5 mi N",
+      "time": "9:00 PM",
+      "crowd": "~1,500 | 9:00 PM",
+      "risk": "LOW",
+      "detail": "Electronic music show at the Concourse Project, north of downtown. No direct impact to property area. I-35 N northbound traffic elevated post-show (midnight+)."
+    },
+    {
+      "name": "ACL Live at 3TEN \u2014 Saturday Show",
+      "venue": "ACL Live at 3TEN, 310 W. Willie Nelson Blvd",
+      "distance": "0.3 mi NW",
+      "time": "TBD",
+      "crowd": "~200 | TBD",
+      "risk": "LOW",
+      "detail": "ACL Live's intimate 3TEN stage has a Saturday show. Small venue (200 cap) immediately northwest of property. Minimal direct impact; foot traffic on Willie Nelson Blvd slightly elevated in the evening."
+    },
+    {
+      "name": "FIFA World Cup Day 10 \u2014 Watch Parties",
       "venue": "Bars/Venues Downtown & 6th Street",
       "distance": "Citywide",
-      "time": "Multiple",
-      "crowd": "Moderate | Multiple",
+      "time": "Multiple (1 PM / 4 PM / 8 PM CDT)",
+      "crowd": "Moderate | Multiple (1 PM / 4 PM / 8 PM CDT)",
       "risk": "LOW",
-      "detail": "June 19 WC Day 9: USA vs. Australia (3 PM ET, Seattle \u2014 FOX); Scotland vs. Morocco (6 PM ET, Foxborough); Brazil vs. Haiti (9 PM ET, Philadelphia); Turkey vs. Paraguay. USA match at 3 PM ET (2 PM CDT) is the most significant watch party draw in Austin. Expect elevated bar/restaurant traffic mid-afternoon. Brazil 9 PM match also draws well at Brazilian-focused venues."
+      "detail": "June 20 WC Day 10: Netherlands vs. Sweden (1 PM CDT, Houston NRG); Germany vs. Ivory Coast (4 PM CDT, Toronto); Ecuador vs. Cura\u00e7ao (8 PM CDT). Netherlands and Germany matches draw the largest Austin watch party crowds. Dutch and German expat communities active on 6th Street. Evening crowd overlaps with concert traffic."
+    },
+    {
+      "name": "The Carver Kickback: Juneteenth Edition",
+      "venue": "George Washington Carver Museum, 1165 Angelina St",
+      "distance": "2.0 mi E",
+      "time": "All Day",
+      "crowd": "~500\u20131,000 | All Day",
+      "risk": "LOW",
+      "detail": "Juneteenth weekend event at the Carver Museum in East Austin. Community cultural event \u2014 low risk profile. Foot traffic in East Austin continues from Friday's parade."
     }
   ],
   "property_actions": [
-    "JUNETEENTH \u2014 ROAD CLOSURES ACTIVE: E. 12th Street / MLK Blvd east of I-35 CLOSED from ~8 AM. Brief valet and concierge: eastbound I-35 access limited. Use alternate routes \u2014 Cesar Chavez/MLK from west. All City of Austin, Travis County, and UT offices CLOSED. Anticipate elevated walk-in guest traffic throughout the day.",
-    "HEAT ADVISORY IN EFFECT THROUGH SATURDAY EVENING: Heat index up to 106\u00b0F today. Maintain hydration stations at valet, pool, and outdoor event areas. Mandatory 30-min outdoor staff breaks continue. Deep Eddy, Ramsey, Murchison, and Barton Springs pools CLOSED \u2014 hotel pool is at premium demand. Manage capacity proactively.",
-    "ROBBERY-HOMICIDE SUSPECT STILL AT LARGE (E. RIVERSIDE): Brief ALL exterior staff \u2014 Hispanic male, 15\u201320, gray hoodie, light-colored sedan. $1,000 reward active. Report suspicious loitering: APD (512) 974-5000 / Crime Stoppers (512) 472-8477.",
-    "MUSIC UNDER THE STARS \u2014 CAPITOL MALL AMPHITHEATER (0.5 mi N, 7\u20139 PM): Free Juneteenth concert, est. 2,000\u20133,000 attendees. Rochelle & the Sidewinders (7 PM), Tameca Jones (8 PM). Expect significant foot traffic on Congress Ave and 2nd Street/Cesar Chavez from 6 PM. Post-show crowd (9\u201310 PM) will walk toward Rainey Street and property area. Pre-position exterior staff, ensure entrance is clear.",
-    "KALI UCHIS \u2014 GERMANIA AMPHITHEATER (~14,000, 7 PM, OUTDOOR): Large outdoor show at COTA. I-35 southbound gridlock expected 5\u20138 PM (concert start) and 10 PM\u2013midnight (egress). Storm watch: venue is outdoor \u2014 if severe cell develops before 10 PM, expect early crowd dispersal toward downtown. Monitor NWS EWX.",
-    "US-IRAN MOU PROTEST WATCH \u2014 ELEVATED: Burgenstock talks collapsed, Israel resumed Lebanon airstrikes. Elevated risk of spontaneous demonstrations near Capitol or UT campus today. If protest forms and moves toward Congress Ave/Cesar Chavez, notify Director of Security immediately. APD has augmented Juneteenth presence downtown.",
-    "FLASH FLOOD WATCH \u2014 TONIGHT: Storms possible after midnight (30% chance). Brief overnight valet staff on flood protocol. Ensure drains clear at loading dock and underground parking entrance. Review emergency weather procedures with afternoon/evening shift supervisors.",
-    "FIFA WC USA vs. AUSTRALIA (2 PM CDT): Monitor bar district foot traffic 1\u20134 PM. USA match draws significant crowds to 6th Street sports bars. Elevated guest requests for game viewing recommendations."
+    "NATE BARGATZE \u2014 MOODY CENTER (~12,000, 3 PM): Largest crowd of the day arrives at Moody Center at 3 PM. Traffic on Guadalupe, MLK, and Red River will be heavy 1:30\u20134 PM and again 5\u20136 PM post-show. Many attendees will transition to downtown for dinner and entertainment. Notify concierge and restaurant management to expect elevated walk-in demand 5\u20137 PM. Valet should be staffed for elevated afternoon volume.",
+    "PARKER MILLSAP \u2014 ANTONE'S (0.2 mi W, ~500, 8 PM): High foot traffic on 5th Street and Lavaca from 7\u201311 PM. Brief exterior and door staff. Expect concert pedestrian spillover. Post-show crowd (10:30 PM\u2013midnight) may approach front entrance area.",
+    "AFTERNOON STORM WATCH (20\u201340% CHANCE): Outdoor venues (Stubb's, Stubb's Jr.) are at risk if a storm cell develops 3\u20137 PM. Monitor NWS EWX. If severe warning issued, activate weather protocol: shelter guests on outdoor terrace/pool deck, notify F&B to prepare for potential early restaurant surge. Ensure loading dock drains are clear from overnight rainfall.",
+    "ROBBERY-HOMICIDE SUSPECT STILL AT LARGE: Brief ALL exterior staff \u2014 Hispanic male, 15\u201320, gray hoodie, light-colored sedan. $1,000 reward. Report suspicious loitering: APD (512) 974-5000 / Crime Stoppers (512) 472-8477.",
+    "HEAT INDEX UP TO 100\u00b0F: No formal advisory in effect, but heat index will approach 100\u00b0F this afternoon. Maintain hydration stations at valet and pool deck. Continue 30-min outdoor staff break rotation. Pool closures citywide mean hotel pool will be at maximum capacity \u2014 manage access proactively.",
+    "JUNETEENTH WEEKEND \u2014 ELEVATED OCCUPANCY: Saturday night is expected to be one of the highest-occupancy nights of the weekend. Brief front desk on anticipated check-in volume. Concierge: brief on tonight's event landscape (Bargatze post-show, Antone's, Stubb's, 6th Street) for guest recommendations.",
+    "FIFA WC WATCH PARTIES (1 PM / 4 PM): Netherlands vs. Sweden at 1 PM CDT and Germany vs. Ivory Coast at 4 PM CDT drive mid-afternoon bar activity. Monitor 6th Street crowd levels. Staff bar if viewing coverage is offered."
   ],
   "national_context": [
-    "US-IRAN MOU BURGENSTOCK TALKS POSTPONED: Iran's IRGC hardliners objected to a public ceremony with US officials; Iran reportedly suspended 60-day negotiation window. JD Vance cancelled Switzerland trip late Thursday. Swiss Federal Dept of Foreign Affairs confirmed: 'Talks postponed \u2014 preparatory work continues.' Cause: Israel resumed Lebanon airstrikes Friday (16+ killed), accusing Hezbollah of ceasefire violations. MOU remains signed (June 18) but fragile. Strait of Hormuz still open per existing MOU terms. Elevated domestic protest watch \u2014 both pro-Palestinian and pro-deal factions may react.",
-    "JUNETEENTH \u2014 FEDERAL & STATE HOLIDAY: June 19 marks 161 years since Maj. Gen. Gordon Granger announced freedom for enslaved people in Texas (1865). Federal holiday observed nationwide. Austin's Juneteenth Parade on E. 12th Street; festival at Rosewood Park; free concert at Capitol Mall Amphitheater 7\u20139 PM. City of Austin, Travis County, UT Austin all closed.",
-    "FIFA WC DAY 9: USA vs. Australia (3 PM ET, Lumen Field Seattle \u2014 FOX). Scotland vs. Morocco (6 PM ET). Brazil vs. Haiti (9 PM ET). USA match is highest watch party draw in Austin. No Austin Q2 Stadium matches today.",
-    "TROPICAL STORM ARTHUR AFTERMATH: Remnants pushed inland through SE Texas / western Louisiana. Flash flood risk from Arthur's moisture plume: Level 2/4 for central TX Friday. 5\u201310 inches of rain possible from upper TX coast through Louisiana/Mississippi. Austin impact: elevated storm risk late Friday, residual moisture through weekend.",
-    "ISRAEL-LEBANON: Israel resumed airstrikes on Lebanon Friday (16+ killed), accusing Hezbollah of violating ceasefire terms. Iran threatened to collapse the MOU unless Israel halts attacks. Situation fluid \u2014 monitor for rapid escalation or de-escalation over weekend."
+    "US-IRAN TALKS RESUMING SATURDAY: Witkoff (US) and Araghchi (Iran FM) both heading to Burgenstock, Switzerland Saturday per Axios/Japan Times. Israel-Hezbollah ceasefire took effect 4 PM Friday Lebanon time, brokered by US, Qatar, and Iran. Next formal round scheduled June 23\u201325 in Washington, DC. Strait of Hormuz remains open; Iranian oil waivers active. Iran suspended planned Hormuz transit fees during 60-day window. Situation stabilizing \u2014 protest risk significantly reduced from Friday's elevated posture.",
+    "FIFA WC DAY 10: Netherlands vs. Sweden (1 PM CDT, Houston NRG); Germany vs. Ivory Coast (4 PM CDT, Toronto); Ecuador vs. Cura\u00e7ao (8 PM CDT). No Austin Q2 Stadium matches today. Netherlands and Germany are the two most significant watch party draws in Austin today.",
+    "TROPICAL STORM ARTHUR REMNANTS: Pushed through SE Texas and western Louisiana Friday. Flood warnings were issued along the upper Texas coast. Arthur's moisture plume is the primary driver of weekend rain chances in central Texas. Drying trend expected Sunday as ridging rebuilds from the west.",
+    "HEAT WAVE BUILDING NEXT WEEK: NWS Austin/San Antonio: 'A building trend of intense, humid heat is expected across South-Central Texas.' Highs climbing from low 90s up to 103\u00b0F by mid-week. Heat Advisory watch for Monday\u2013Wednesday. Pool closures citywide mean hotel pool demand will increase significantly Monday onward.",
+    "KARMELO ANTHONY TRIAL EVIDENCE RELEASED: Collin County court released trial evidence Friday (videos, photos, body cam) from the murder trial of Karmelo Anthony, sentenced to 35 years in prison for stabbing 17-year-old Austin Metcalf at a Frisco track meet in 2025. National media coverage renewed. No direct Austin threat; racially charged national narrative may generate protest activity at some Texas venues \u2014 low probability for Austin at this time."
   ],
   "contacts": [
     [
@@ -209,29 +219,24 @@
   ],
   "lookaheads": [
     [
-      "SAT Jun 20 \u2014 Storms Return (50% Chance)",
-      "50% chance showers/thunderstorms Saturday. High 93\u00b0F, heat index 100\u2013107\u00b0F. After today's residual moisture, brief intense cells possible. Monitor NWS EWX for flash flood watch. Review valet and outdoor event protocols for wet conditions.",
-      "MODERATE"
-    ],
-    [
-      "SAT Jun 20 \u2014 Summer Saturday Events",
-      "Germania Amphitheater likely has additional weekend events; Moody Center and ACL Live calendar should be checked for Saturday shows. High foot traffic on 6th Street and Rainey Street as Juneteenth weekend continues. Expect elevated hotel occupancy.",
-      "LOW"
-    ],
-    [
       "SUN Jun 21 \u2014 Father's Day + Summer Solstice",
-      "Father's Day \u2014 expect elevated F&B covers for Sunday brunch and dinner. High near 96\u00b0F, gusts to 25 mph. Summer Solstice. 20% storm chance after 1 PM.",
+      "High near 91\u00b0F. 10\u201320% storm chance morning only; clears by afternoon. Father's Day \u2014 elevated F&B covers for Sunday brunch and dinner. Expect peak reservation demand. 5 Seconds of Summer at Moody Center (8 PM, ~12,000) \u2014 major evening crowd on Guadalupe/Red River. Brief staff on event impact.",
+      "MODERATE"
+    ],
+    [
+      "MON Jun 22 \u2014 Heat Wave Ramps Up",
+      "High near 95\u00b0F. Deep Eddy Pool closed \u2014 hotel pool sees sharply elevated demand. Mostly dry. Heat Advisory possible if indices reach 108\u00b0F+. Activate heat mitigation protocols for outdoor staff and pool deck.",
+      "MODERATE"
+    ],
+    [
+      "TUE\u2013WED Jun 23\u201324 \u2014 Peak Heat / US-Iran Washington Talks",
+      "Highs approaching 103\u00b0F mid-week. NWS monitoring for Heat Advisory. US-Iran formal negotiations scheduled June 23\u201325 in Washington DC \u2014 monitor for protest activity nationally; Austin risk LOW.",
+      "MODERATE"
+    ],
+    [
+      "JUN 23\u201325 \u2014 US-Iran Washington Round",
+      "First formal implementation round, Washington DC. Topics: nuclear enrichment disposition, final deal framework. Any breakdown could reignite protest activity. Strait of Hormuz remains open through 60-day window regardless.",
       "LOW"
-    ],
-    [
-      "MON\u2013WED Jun 22\u201324 \u2014 Sustained Heat Wave Returns",
-      "Highs 97\u201398\u00b0F Monday through Wednesday, mostly sunny. Heat protocols should remain active all week. Deep Eddy Pool closes Monday \u2014 hotel pool will see significantly elevated demand from guests seeking relief.",
-      "MODERATE"
-    ],
-    [
-      "ONGOING \u2014 US-Iran MOU Fragility",
-      "Iran IRGC hardliners actively threatening to collapse the MOU. Israel attacks in Lebanon are the stated trigger. 60-day negotiation window at risk. Elevated protest watch ongoing through the weekend near Capitol and UT campus. Cyber threat posture: maintain elevated vigilance during geopolitical instability.",
-      "MODERATE"
     ]
   ]
 }
