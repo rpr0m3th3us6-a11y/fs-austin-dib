@@ -1,10 +1,10 @@
 {
-  "date_str": "June 21, 2026",
-  "day_str": "Sunday",
-  "date_file": "20260621",
-  "generated_utc": "2026-06-21T10:07:24Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260621.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260621.pdf",
+  "date_str": "June 22, 2026",
+  "day_str": "Monday",
+  "date_file": "20260622",
+  "generated_utc": "2026-06-22T10:08:49Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260622.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260622.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -14,145 +14,138 @@
     [
       "Civil Unrest",
       "GREEN",
-      "LOW"
+      "STABLE"
     ],
     [
       "Cyber",
       "GREEN",
-      "LOW"
+      "STABLE"
     ],
     [
       "Weather",
-      "AMBER",
+      "RED",
       "ELEVATED"
     ],
     [
       "Travel",
-      "GREEN",
-      "LOW"
+      "AMBER",
+      "WATCH"
     ]
   ],
-  "bluf": "Father's Day Sunday \u2014 heavy hotel occupancy and the largest event of the Juneteenth weekend: 5 Seconds of Summer at Moody Center (~15,000 capacity, 8 PM, 1.1 mi NE). Louis Tomlinson is confirmed at Dickies Arena in Fort Worth \u2014 NOT Austin tonight. Heat index reaching 106\u2013109\u00b0F along the I-35 corridor \u2014 no Heat Advisory issued yet but NWS monitoring closely for Monday. Drying weather pattern today after overnight storms. E. Riverside robbery-homicide suspect remains at large (no new arrest). US-Iran technical implementation talks actively underway in Switzerland today \u2014 Strait of Hormuz dispute ongoing but ceasefire holding.",
+  "bluf": "CRITICAL HEAT EVENT \u2014 NWS forecasting heat index 100\u2013110\u00b0F for the I-35 corridor June 22; an Extreme Heat Warning or Special Weather Statement likely by midday. Louis Tomlinson at Moody Center (7 PM, ~15,000 capacity, 1.1 mi NE) is today's dominant event load. Austin Energy planned a 2-hour power outage at 3 AM affecting parts of downtown and south of Lady Bird Lake \u2014 property should confirm all systems came back online. Shane James, 34, charged with capital murder in a multi-city Austin/San Antonio killing spree (6 dead, 3 wounded) \u2014 arrested June 18; no outstanding threat, but elevated regional awareness warranted. E. Riverside AutoZone murder suspect (Jose Salgado-Amador, 28) still at large \u2014 suspect is a Hispanic male, 15\u201320, gray hoodie. US-Iran Switzerland talks concluded Round 1 with a 60-day roadmap to final deal.",
   "incidents": [
     {
-      "title": "E. Riverside AutoZone Robbery-Homicide (SUSPECT AT LARGE)",
-      "location": "2237 East Riverside Dr, SE Austin (~2.5 mi SE)",
-      "relevance": "HIGH",
-      "detail": "Jose Salgado-Amador, 28, shot and killed June 15 during apparent robbery while working as mechanic in AutoZone parking lot. Suspect: Hispanic male, 15\u201320 yrs, gray hoodie, fled in light-colored sedan. APD released surveillance video June 18. No arrest as of this brief. Austin's 27th homicide of 2026. $1,000 reward. Suspect description and MO (opportunistic robbery, parking lot) warrants continued exterior staff awareness. Brief valet and loading dock teams. No confirmed link to downtown but elevated posture maintained.",
+      "title": "AUSTIN ENERGY PLANNED POWER OUTAGE \u2014 DOWNTOWN / S. LADY BIRD LAKE",
+      "location": "Parts of downtown Austin and areas south of Lady Bird Lake",
+      "relevance": "Four Seasons at 98 San Jacinto Blvd is within the potential outage footprint. Security and engineering should verify all systems \u2014 elevators, HVAC, fire/life safety, POS, door locks \u2014 came back online cleanly post-restoration. Any unresolved issues: contact Austin Energy at 512-494-9400.",
+      "detail": "Austin Energy executed a planned 2-hour outage beginning at 3:00 AM June 22 as part of the Waller Beach Duct Bank Upgrade \u2014 installation of 1,000 ft of underground power lines connecting the new Rainey Street substation to the downtown grid. Outage was scheduled to restore by ~5:00 AM. Brazos Street excavation continues on weekdays 7 AM\u20137 PM.",
       "source": ""
     },
     {
-      "title": "SE Austin Homicide Cluster \u2014 Ongoing Investigations",
-      "location": "SE Austin (various, ~2\u20134 mi SE)",
-      "relevance": "LOW",
-      "detail": "APD confirmed June 18 no connection found between 3 homicides in 3 consecutive days (June 15\u201317). Actively searching for suspects in 2 of 3 cases. Francesca Ortiz ID'd as June 17 victim. Cases isolated \u2014 no pattern or broader threat to downtown. Monitoring only. No direct threat vector to property.",
+      "title": "CAPITAL MURDER RAMPAGE \u2014 AUSTIN/SAN ANTONIO \u2014 SUSPECT IN CUSTODY",
+      "location": "Multiple sites, Austin and San Antonio metro area",
+      "relevance": "Suspect is in custody \u2014 no active threat to property or downtown. AMBER level reflects elevated regional awareness and APD operational tempo from the incident. Staff should remain alert to behavioral anomalies; no specific threat to Four Seasons.",
+      "detail": "Shane James, 34, charged with capital murder following a daylong killing spree on approximately June 17\u201318 spanning Austin and San Antonio. Six people killed, three wounded including two law enforcement officers. An APD officer was shot outside Northeast Early College High School; a cyclist was shot near a trail; four killed at two Austin residences; two killed at a San Antonio-area home. Suspect crashed vehicle during pursuit and was taken into custody. Held in Travis County on capital murder charges.",
       "source": ""
     },
     {
-      "title": "US-Iran Technical Talks \u2014 Switzerland (Active Today)",
-      "location": "Switzerland (Bern/Geneva)",
-      "relevance": "LOW",
-      "detail": "US and Iranian delegations are in Switzerland today for technical implementation talks on the June 15 MoU \u2014 covering ceasefire terms, Strait of Hormuz reopening timeline, sanctions relief, and nuclear enrichment parameters. Tehran claims Hormuz remains closed; US disputes this. Al Jazeera: 'make-or-break' characterization. 60-day ceasefire window intact as of this brief. Low domestic protest risk today \u2014 no organized Austin events tied to Iran talks found. Monitor if talks collapse or IRGC hardliner faction acts publicly.",
+      "title": "E. RIVERSIDE AUTZONE HOMICIDE \u2014 SUSPECT AT LARGE",
+      "location": "2237 East Riverside Drive, Austin (2.1 mi from property)",
+      "relevance": "Incident is 2.1 mi SE of property; no direct threat to downtown or Four Seasons. Valet and door staff should remain aware of suspect description. Elevated concern given suspect remains at large \u2014 increased vigilance in surface lot and valet lane.",
+      "detail": "Jose Salgado-Amador, 28, shot and killed in the AutoZone parking lot at 2237 E. Riverside Drive on June 15. Suspect: Hispanic male, 15\u201320 years old, gray hoodie, fled in a light-colored sedan. APD released new surveillance images June 17; no arrest as of June 22 morning. Reward: up to $1,000. Tip line: 512-974-TIPS / Crime Stoppers 512-472-8477.",
+      "source": ""
+    },
+    {
+      "title": "US\u2013IRAN SWITZERLAND TALKS \u2014 ROUND 1 CONCLUDED, 60-DAY ROADMAP AGREED",
+      "location": "B\u00fcrgenstock, Switzerland (remote \u2014 national context)",
+      "relevance": "No direct operational threat to Austin or property. Monitor for protest activity near federal buildings (Capitol complex, 0.5 mi NW) if talks become contentious. Guest mix may include diplomatically-connected business travelers given geopolitical activity.",
+      "detail": "Round 1 of high-level US\u2013Iran negotiations concluded early June 22 CDT. Mediators Qatar and Pakistan announced both sides agreed to 'a roadmap to achieve a final agreement within 60 days' and will establish a communication line for the Strait of Hormuz. Talks were briefly complicated by Trump social media posts; Iranian delegation remained engaged. VP Vance led US side; Witkoff and Kushner also present. Technical talks now commence. Next round: Washington DC, approximately June 23\u201325.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "Father's Day \u2014 Low Unrest Profile",
-      "location": "Austin metro",
-      "detail": "No organized protests or demonstrations identified in Austin for June 21. Father's Day typically generates family-oriented crowds \u2014 restaurants, parks, waterfront venues. Carver Kickback (Juneteenth edition) concluded yesterday. No civil unrest indicators downtown.",
-      "level": "GREEN"
-    },
-    {
-      "title": "US-Iran Protest Watch \u2014 Reduced",
-      "location": "National / Downtown Austin",
-      "detail": "Lebanon-Hezbollah ceasefire holding. US-Iran 60-day MoU framework intact. Switzerland talks underway. Domestic protest risk LOW unless talks publicly collapse or new military action by either party. Austin ICE/anti-administration protest network quiet this weekend.",
+      "title": "No Active Civil Unrest \u2014 Downtown Austin",
+      "location": "Downtown Austin",
+      "detail": "No protest or demonstration activity reported or anticipated for June 22 in downtown Austin. Juneteenth weekend events concluded. PRIDE festival (June 20) has wrapped. Monitor federal building perimeter (US Courthouse, Capitol) if US\u2013Iran talks generate domestic reaction.",
       "level": "GREEN"
     }
   ],
   "weather": {
-    "high": "92\u201395\u00b0F",
+    "high": "94\u201397\u00b0F (heat index 100\u2013110\u00b0F)",
     "low": "78\u00b0F",
-    "humidity": "75\u201385%",
-    "wind": "S/SE 5\u201312 mph, gusts to 18 mph",
-    "precip": "10\u201320% chance (AM only) \u2014 residual moisture; afternoon dry",
+    "humidity": "74\u201380%",
+    "wind": "S 10 mph",
+    "precip": "0% (dry)",
     "notes": [
-      "Heat index 106\u2013109\u00b0F along I-35 corridor per NWS AFD (UT Weather WBGT = 87\u00b0F).",
-      "No Heat Advisory issued as of 0500 CDT \u2014 NWS will reassess Monday morning.",
-      "Monday: Heat Advisory very likely \u2014 high 95\u00b0F+, heat index 108\u2013112\u00b0F.",
-      "Drying pattern Sunday through next weekend. No rain after late AM.",
-      "Overnight low 78\u00b0F \u2014 warm and humid. Guests should be advised for outdoor activities."
+      "NWS Area Forecast Discussion (0106 CDT Jun 22) explicitly flags 100\u2013107\u00b0F heat index for I-35 corridor noon\u20139 PM, with isolated 108\u2013110 spots possible.",
+      "Dry, mostly sunny conditions \u2014 no storm relief today.",
+      "Peak heating window: 12 PM\u20137 PM; concert egress (10 PM\u2013midnight) will still be 90\u00b0F+ ambient.",
+      "Outdoor guest/staff exposure at door, valet, and F&B terrace: enforce hydration protocols.",
+      "Heat risk continues through at least Sunday June 28 per NWS long-term discussion."
     ]
   },
   "events": [
     {
-      "name": "5 Seconds of Summer \u2014 Everyone's a Star! World Tour",
-      "venue": "Moody Center ATX, 2001 Robert Dedman Dr",
+      "name": "Louis Tomlinson \u2014 Moody Center ATX",
+      "venue": "Moody Center ATX",
       "distance": "1.1 mi NE",
-      "time": "8:00 PM (doors 7 PM)",
-      "crowd": "~15,000 (near capacity) | 8:00 PM (doors 7 PM)",
+      "time": "7:00 PM",
+      "crowd": "~15,000",
       "risk": "HIGH",
-      "detail": "Largest event of the day. Pop/rock fan base \u2014 mixed age, largely 18\u201335. Venue near capacity. Post-show surge (10 PM\u2013midnight) expected on 2nd St corridor, Red River, and I-35 feeder. Rideshare congestion high. Special guest: The Band Camino."
+      "detail": "How Did We Get Here? North America Tour | 7:00 PM | 2001 Robert Dedman Dr (1.1 mi NE) | ~15,000 capacity | Support: The Aces"
     },
     {
-      "name": "Father's Day Hotel Occupancy \u2014 Peak",
-      "venue": "Four Seasons Hotel Austin (on-property)",
-      "distance": "0 mi",
-      "time": "All day",
-      "crowd": "High \u2014 near capacity expected | All day",
+      "name": "Austin Energy / Brazos St. Excavation \u2014 Downtown",
+      "venue": "Downtown",
+      "distance": "~0.2 mi NW",
+      "time": "7:00 AM\u20137:00 PM",
+      "crowd": "N/A",
       "risk": "MODERATE",
-      "detail": "Father's Day Sunday drives elevated hotel occupancy. Expect high volume at pool, restaurant, bar, and valet. Coordinate F&B staffing and pool capacity monitoring. Increased guest services demand \u2014 concierge briefed."
+      "detail": "Waller Beach Duct Bank Upgrade; weekday construction 7 AM\u20137 PM; Brazos Street lane impacts"
     },
     {
-      "name": "Father's Day at Dead Rabbit \u2014 Sunday Roast",
-      "venue": "Dead Rabbit (downtown), 300 W 6th St",
-      "distance": "0.3 mi N",
-      "time": "Lunch & dinner service",
-      "crowd": "~200 | Lunch & dinner service",
+      "name": "Summer AI Intensive 2026 \u2014 ACC Rio Grande",
+      "venue": "ACC Rio Grande",
+      "distance": "0.8 mi NW",
+      "time": "9:00 AM\u20133:00 PM",
+      "crowd": "~200",
       "risk": "LOW",
-      "detail": "Standard restaurant crowd. Prime rib Sunday roast special. Normal foot traffic."
+      "detail": "June 22\u201324, 9 AM\u20133 PM; ~200 tech attendees daily at ACC Rio Grande Building 3000"
     },
     {
-      "name": "Yoga at the Capitol \u2014 International Yoga Day",
-      "venue": "Texas Capitol Grounds, 1100 Congress Ave",
-      "distance": "0.5 mi N",
-      "time": "Morning (TBD, outdoor)",
-      "crowd": "~500\u20131,000 | Morning (TBD, outdoor)",
-      "risk": "LOW",
-      "detail": "Free public outdoor yoga. Family-friendly, peaceful crowd. Minimal security relevance."
-    },
-    {
-      "name": "It Could Be Worse / Farseek / Party Bug \u2014 Chess Club",
-      "venue": "Chess Club, 617 Red River St",
-      "distance": "0.4 mi NE",
+      "name": "Blue Monday & Soul Man Sam \u2014 Antone's Nightclub",
+      "venue": "Antone's Nightclub",
+      "distance": "0.4 mi N",
       "time": "8:00 PM",
-      "crowd": "~200 | 8:00 PM",
+      "crowd": "~200",
       "risk": "LOW",
-      "detail": "Indie music show. Small venue. Standard Red River District foot traffic."
+      "detail": "8:00 PM, 213 W. 5th St (0.4 mi N); blues/jazz double bill"
     },
     {
-      "name": "FIFA World Cup Day 11 \u2014 Watch Parties",
-      "venue": "Downtown bars and sports venues",
-      "distance": "Various",
-      "time": "Match times TBD (check schedule)",
-      "crowd": "Dispersed \u2014 hundreds across multiple venues | Match times TBD (check schedule)",
+      "name": "FIFA World Cup Watch \u2014 Texas Union Cactus Cafe / Downtown Bars",
+      "venue": "Texas Union Cactus Cafe / Downtown Bars",
+      "distance": "0.1\u20130.9 mi",
+      "time": "All day",
+      "crowd": "Variable",
       "risk": "LOW",
-      "detail": "FIFA WC Day 11. Multiple downtown sports bars hosting watch parties. Continued elevated bar crowd on 4th/6th St corridors through evening."
+      "detail": "Day 12 World Cup matches; USA watch parties at Texas Union (0.9 mi N) and various Dirty 6th/Rainey St venues"
     }
   ],
   "property_actions": [
-    "5 SECONDS OF SUMMER \u2014 MOODY CENTER (~15,000, 8 PM): Coordinate valet and parking approach by 6 PM. Expect post-show surge 10 PM\u2013midnight on 2nd St/Lavaca. Rideshare queue management needed \u2014 brief door and valet staff.",
-    "FATHER'S DAY PEAK OCCUPANCY: Brief F&B, concierge, and front desk on elevated guest volume. Pool, restaurant, and bar staffing reviewed. Guest services at full capacity protocols.",
-    "HEAT INDEX 106\u2013109\u00b0F: No formal advisory but dangerous heat. Ensure pool hydration stations stocked. Brief outdoor staff on 15-minute rotation and shade/water breaks. Concierge to advise guests on heat exposure.",
-    "E. RIVERSIDE SUSPECT AT LARGE: Continued elevated awareness for exterior staff \u2014 valet, loading dock, main entrance. Suspect MO: opportunistic robbery, young male, gray hoodie, sedan. Report any suspicious loitering immediately.",
-    "US-IRAN TALKS ONGOING: Monitor for developments throughout the day. Low protest risk today but brief security leadership if talks publicly collapse.",
-    "FATHER'S DAY DINING DEMAND: Coordinate with F&B leadership on reservation flow. Expect elevated walk-in inquiries \u2014 maintain guest confidentiality protocols."
+    "VERIFY all building systems post-power outage: confirm elevators, HVAC, fire/life safety panels, door locks, and POS terminals came back online cleanly after the Austin Energy 3 AM outage. Contact 512-494-9400 if issues persist.",
+    "BRIEF valet, door, and overnight security on Louis Tomlinson concert egress surge expected 9:30\u201311:30 PM \u2014 heavy pedestrian and rideshare congestion on Red River Corridor and E. 5th Street.",
+    "ENFORCE heat protocols: ensure all outdoor-facing staff (door, valet, F&B terrace) have cold water access; brief on heat stroke recognition and response. Heat index may exceed 108\u00b0F at peak hours.",
+    "CIRCULATE E. Riverside suspect description to valet and door staff: Hispanic male, 15\u201320, gray hoodie, light-colored sedan. No direct threat \u2014 general awareness only.",
+    "MONITOR Brazos Street construction corridor (0.2 mi NW) \u2014 potential guest ingress/egress impact on valet routing; flag for bellman and valet lead.",
+    "CONFIRM garage and surface lot CCTV coverage is operational post-power restoration before morning rush.",
+    "ALERT F&B on lunch and dinner service load \u2014 post-concert crowd expected to hit bars and late-night dining from 10 PM onward.",
+    "CHECK next 24-hour forecast at weather.gov/ewx for any Heat Advisory issuance \u2014 if advisory is issued, elevate Weather threat to RED and notify GM/security supervisor."
   ],
   "national_context": [
-    "US-IRAN SWITZERLAND TALKS \u2014 DAY 1: Technical implementation round begins today. Witkoff (US) and Araghchi (Iran) delegations in Bern. Strait of Hormuz status disputed \u2014 Iran claims closure, US disputes. Al Jazeera: 'make-or-break' talks. 60-day MoU ceasefire window remains intact.",
-    "LEBANON-HEZBOLLAH CEASEFIRE: Framework holding as of this brief. Israel resumed limited airstrikes last week but ceasefire broadly intact. Monitor for escalation.",
-    "FIFA WORLD CUP 2026: Day 11 of group stage. Tournament driving elevated hotel occupancy and sports bar activity across Austin all month. Austin hosting matches at Q2 Stadium later in tournament.",
-    "HEAT WAVE BUILDING \u2014 CENTRAL TEXAS: NWS Austin forecasting mid-to-upper 90s Mon\u2013Fri with heat indices 108\u2013112\u00b0F. Heat Advisory expected Monday. Week-long elevated heat risk for outdoor staff and guests."
+    "US\u2013Iran 60-day diplomatic sprint underway \u2014 Round 1 concluded in Switzerland June 22; technical talks ongoing. Next round in Washington DC approximately June 23\u201325. Key issues: nuclear enrichment limits, sanctions relief, Strait of Hormuz. Global oil markets and energy sector remain sensitive to negotiation progress or breakdown.",
+    "Shane James capital murder case (Austin/San Antonio, 6 dead) underscores lone-actor rapid-escalation threat pattern \u2014 suspect covered multiple sites across two cities in a single day before apprehension. Relevant for SOC awareness on behavioral detection and rapid-response coordination.",
+    "Texas summer heat pattern 2026: multiple Extreme Heat Warnings already issued in June (Jun 17\u201318: heat index 113\u2013118\u00b0F). This week's event (100\u2013110\u00b0F heat index) is moderate by 2026 season standards but still operationally significant."
   ],
   "contacts": [
     [
@@ -190,24 +183,34 @@
   ],
   "lookaheads": [
     [
-      "MON Jun 22 \u2014 Heat Advisory Likely",
-      "High 95\u00b0F+, heat index 108\u2013112\u00b0F along I-35. NWS very likely to issue Heat Advisory Monday afternoon. Louis Tomlinson @ Moody Center (7 PM, ~15,000). Full heat protocol activation. Deep Eddy Pool closed \u2014 hotel pool demand sharply elevated.",
-      "HIGH"
+      "TUE Jun 23",
+      "Heat continues \u2014 forecast high 97\u00b0F, heat index potentially 110\u00b0F+. Watch for NWS Heat Advisory upgrade to Extreme Heat Warning.",
+      "Pre-position water stations; review outdoor event policies."
     ],
     [
-      "TUE\u2013WED Jun 23\u201324 \u2014 Peak Heat Week",
-      "Highs approaching 103\u00b0F mid-week. NWS AFD flagging peak heat wave. Possible Excessive Heat Warning Wednesday. Staff outdoor rotation protocols at maximum.",
-      "MODERATE"
+      "TUE Jun 23",
+      "Les Claypool / Primus at ACL Live Moody Theater (0.6 mi NW, 8 PM, ~3,000); elevated Warehouse District / W 5th foot traffic.",
+      "Brief valet and door staff; confirm traffic routing."
     ],
     [
-      "Jun 23\u201325 \u2014 US-Iran Washington Round",
-      "First formal implementation round moves to Washington DC. Nuclear enrichment disposition and final deal framework on the table. Breakdown could reignite protest activity nationally. Austin risk LOW unless collapse.",
-      "LOW"
+      "TUE Jun 23",
+      "Louis Tomlinson \u2014 SECOND Moody Center show (Jun 24, Wed) \u2014 note: Jun 22 is first night.",
+      "Check if VIP guests are multi-night hotel stays; flag for concierge."
     ],
     [
-      "JUN 28 \u2014 Austin FC vs. Inter Miami (Q2 Stadium)",
-      "High-profile MLS fixture. ~20,500 capacity Q2 Stadium (2.0 mi NE). Inter Miami (Messi) draws premium crowd and elevated security footprint. Monitor travel and parking impacts.",
-      "LOW"
+      "WED Jun 25",
+      "Ariana Grande \u2014 Moody Center ATX, Fri Jun 26 + Sat Jun 27 (two nights). ~15,000+ capacity each. Begin pre-briefing now.",
+      "Escalate traffic plan; coordinate with APD if needed."
+    ],
+    [
+      "THU\u2013SUN",
+      "Peak heat event continues through at least June 28 per NWS long-term guidance. Highs in upper 90s to low 100s.",
+      "Daily review of NWS weather.gov/ewx; update threat posture if advisory issued."
+    ],
+    [
+      "SAT Jun 28",
+      "Austin FC vs Inter Miami \u2014 Q2 Stadium (1.8 mi N, ~20,500 capacity). Anticipate post-game pedestrian surge on N. Lamar and 2nd St.",
+      "Plan for elevated valet and rideshare demand post-match."
     ]
   ]
 }
