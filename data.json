@@ -1,20 +1,20 @@
 {
-  "date_str": "June 24, 2026",
-  "day_str": "Wednesday",
-  "date_file": "20260624",
-  "generated_utc": "2026-07-04T10:01:21Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20260624.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20260624.pdf",
+  "date_str": "October 17, 2026",
+  "day_str": "Saturday",
+  "date_file": "20261017",
+  "generated_utc": "2026-10-17T10:07:31Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20261017.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20261017.pdf",
   "threat_matrix": [
     [
       "Physical Security",
       "AMBER",
-      "ELEVATED"
+      "STABLE"
     ],
     [
       "Civil Unrest",
       "GREEN",
-      "STABLE"
+      "WATCH"
     ],
     [
       "Cyber",
@@ -23,8 +23,8 @@
     ],
     [
       "Weather",
-      "AMBER",
-      "WATCH"
+      "GREEN",
+      "STABLE"
     ],
     [
       "Travel",
@@ -32,105 +32,136 @@
       "ELEVATED"
     ]
   ],
-  "bluf": "MAJOR EVENT DAY \u2014 Ariana Grande Night 1 of 3 at Moody Center (8:10 PM, ~15,000+ capacity, 1.1 mi NE); expect I-35 and Red River Corridor surge from 5 PM through midnight. Sustained heat event continues \u2014 high 93\u201397\u00b0F, heat index 97\u2013105\u00b0F; no advisory today but NWS monitoring for Thursday escalation. CONTRAX Austin 2026 Day 2 at Palmer Events Center (0.4 mi SW). US-Iran talks increasingly fragile: Trump threatened to walk out over Strait of Hormuz toll proposals; IAEA chief confirms nuclear site inspections will happen but timing flexible; Pakistani FM signals technical working groups restart next week. No civil unrest or active local criminal threats. E. Riverside AutoZone case fully resolved (both suspects in custody).",
+  "bluf": "GAME DAY + SATURDAY NIGHT \u2014 Texas vs Florida at Darrell K. Royal Stadium (11:00 AM per City of Austin listing; ~100,000 seats; 1.5 mi N on San Jacinto Blvd, the hotel's own street) drives heavy pedestrian, rideshare and I-35 traffic; Austin FC vs Vancouver follows at Q2 Stadium (7:30 PM). Weather is benign: breezy and cool, high 69-72F, N gusts 25-35 mph through the morning, no advisories. Crime pattern to brief: Oct 13 note-passing bank robbery at the 100 block of Congress Ave (suspect arrested within 2 minutes; no device), Oct 16 shooting inside a moving vehicle at W 10th and N Lamar (possible suspect in custody; occupants knew each other), and the Sep 13 armed robbery of off-duty soldiers at E 6th and Sabine at bar close (3 arrested). Civil unrest is low: nonpartisan No Kings Vote Early events are voter-outreach focused with the Austin events in the suburbs and north Austin, but anti-ICE protests continue as a backdrop. US-Iran: no agreement in force; reporting is contradictory; no direct Austin nexus.",
   "incidents": [
     {
-      "title": "ARIANA GRANDE ETERNAL SUNSHINE TOUR \u2014 MOODY CENTER NIGHT 1",
-      "location": "Moody Center ATX, 2001 Robert Dedman Dr (1.1 mi NE)",
-      "relevance": "Concert guests may be hotel guests \u2014 check-ins, luggage holds, and valet expected at elevated levels through 2 PM. Post-concert late-night F&B demand expected 10:30 PM\u20131 AM; confirm bar/restaurant staffing. Valet and door staff: brief on rideshare surge and pedestrian overflow from Red River/E. 5th. Two more nights (Jun 26, Jun 27) \u2014 maintain elevated event posture through the weekend.",
-      "detail": "Ariana Grande's Eternal Sunshine Tour North American leg makes its Austin stop with three nights: June 24, June 26, and June 27 at Moody Center ATX. Tonight is Night 1. Venue capacity ~15,000; show start time 8:10 PM. Tour opened June 6 in Oakland. Austin is the only multi-night Texas stop. Suspicious activity was logged at 2001 Robert Dedman Dr (Moody Center area) at 0432 June 24 by UT PD \u2014 routine notation. Expected crowd demographics: primarily young adult female fans; well-organized major touring production. Post-show rideshare surge: 10:30 PM\u2013midnight on I-35 northbound, Red River Corridor, and E. 5th St.",
+      "title": "TEXAS VS FLORIDA GAME DAY - DARRELL K. ROYAL STADIUM",
+      "location": "DKR-Texas Memorial Stadium, 2139 San Jacinto Blvd (~1.5 mi N)",
+      "relevance": "San Jacinto Blvd is the hotel's frontage street, so guest arrivals, valet queues and rideshare pickup will be congested. Opposing-fan visitors are likely among guests. Post-game crowds will push into the Red River, 6th Street and Rainey districts and the bars/restaurant. Confirm the kickoff time before shift briefing; listings vary.",
+      "detail": "Texas Longhorns host Florida Gators; City of Austin lists an 11:00 AM start. Stadium capacity is roughly 100,000. A Waterloo Park tailgate runs 8 AM-noon (500 E 12th St, ~0.8 mi N). Expect heavy foot, rideshare and vehicle flow on San Jacinto Blvd, Red River, I-35 and the Cesar Chavez corridor from early morning, with egress and downtown bar traffic from mid-afternoon into the evening.",
       "source": ""
     },
     {
-      "title": "US-IRAN TALKS INCREASINGLY FRAGILE \u2014 TRUMP THREATENS WALKOUT",
-      "location": "Washington DC / Islamabad / Geneva (national context)",
-      "relevance": "Low direct threat to Austin operations. Heightened geopolitical instability may affect high-value guest mix \u2014 corporate executives, government-adjacent travelers. Monitor federal building perimeter (US Courthouse, Capitol complex 0.5 mi NW) for any protest activity. Oil markets sensitive \u2014 if talks collapse, energy price spikes could affect hotel operations costs.",
-      "detail": "June 24 developments: Trump threatened to abandon Iran negotiations if Iran and Oman impose Strait of Hormuz transit tolls. IAEA Director-General Grossi confirmed nuclear site inspections will occur under the interim deal but stated exact timing is 'not essential.' Pakistani FM Andrabi stated technical working group talks will restart 'next week' (week of Jun 30), with Monday, Tuesday, or Wednesday as possible start dates. Iranian Parliament Speaker Ghalibaf described the Islamabad MOU as 'a declaration of America's defeat.' US Treasury 60-day sanctions waiver runs through August 21. Fragility is increasing: both sides publicly contradicting each other on inspection scope, toll rights, and timing.",
+      "title": "DOWNTOWN ROBBERY / SHOOTING PATTERN - RECENT 72 HOURS TO 5 WEEKS",
+      "location": "100 blk Congress Ave; W 10th & N Lamar; E 6th & Sabine",
+      "relevance": "Congress Ave bank is roughly 0.2 mi from the property: expect elevated APD presence; no ongoing threat. The E 6th/Sabine armed-robbery pattern is directly relevant to guests walking to Saturday-night bars after game day; suspects are in custody but the tactic (bar-close, group targeting, getaway vehicle) persists. Advise concierge to steer late-night walkers to rideshare and to well-lit routes.",
+      "detail": "(1) Oct 13: a man handed a Wells Fargo teller a note claiming he had a bomb at the 100 block of Congress Ave; APD arrested Makiya Johnson within about 2 minutes. No device reported. (2) Oct 16, ~7:18 PM: a driver was shot by someone inside his vehicle and crashed near W 10th St and N Lamar Blvd (~0.9 mi NW); he was in surgery; APD said all occupants knew each other and a possible suspect was in custody. (3) Sep 13, 2:25 AM at bar close: a juvenile robbed a woman near E 6th and Sabine, then he and a second juvenile (with a Draco rifle) robbed three off-duty Army service members, one shot in the face and survived; Alijah Rodriguez (18) and two juveniles were arrested Sep 22.",
       "source": ""
     },
     {
-      "title": "SUSTAINED HEAT EVENT \u2014 THURSDAY ESCALATION WATCH",
-      "location": "Travis County / I-35 Corridor",
-      "relevance": "Maintain all heat protocols for Day 3: hydration stations at door and valet, shade-break schedules for outdoor staff. Tonight's concert arrivals (5\u20138 PM) coincide with peak heat window \u2014 monitor outdoor queue management. Engineering to confirm HVAC fully operational at all zones before peak heat hours.",
-      "detail": "Day 3 of sustained heat event. High 93\u201397\u00b0F today; heat index 97\u2013105\u00b0F during peak hours. NWS watching for Thursday and Friday escalation \u2014 prior forecasts indicated 105\u2013110\u00b0F+ heat index Thursday, potentially reaching Heat Advisory threshold. CBS Austin confirms no advisory in effect today but tracking tomorrow closely. Austin cooling centers open at library branches and Parks & Recreation facilities.",
+      "title": "CAPITOL THREAT ARREST (SEP 30) - NO ONGOING THREAT PER DPS",
+      "location": "Texas State Capitol (~0.5 mi N)",
+      "relevance": "Informational: demonstrates the lone-actor threat pattern near downtown government sites. No change to posture. Capitol grounds close at 8 PM daily; DPS monitors demonstrations there.",
+      "detail": "Texas DPS and the FBI arrested Benny Caldera Jr., 40, of Converse on Sep 30 after credible information of a planned violent attack on the Capitol on Oct 1. He was charged with felony terroristic threat against a public servant, then taken into federal custody on additional federal charges. An official briefed on the case told ABC News he had been threatening a mass shooting and had been collecting ammunition and guns. DPS stated there is no reason to believe there is an ongoing threat to the Capitol, legislators, staff or the public.",
+      "source": ""
+    },
+    {
+      "title": "US-IRAN WAR / TALKS - NO AGREEMENT IN FORCE",
+      "location": "National / Gulf region (context)",
+      "relevance": "No direct Austin nexus. Possible effects: fuel and energy cost swings, travel disruption for international guests, and protest activity at federal sites if strikes resume. Monitor for a sudden escalation that could change the heightened-awareness posture.",
+      "detail": "The June 17 Islamabad memorandum collapsed over shipping in early July and one tracker reports it expired unextended Aug 17. Reporting on current status is contradictory: Iranian and Reuters-sourced reports describe intensified efforts toward a preliminary deal and a frozen-funds mechanism, while others report US-Iran air strikes and Iran calling the ceasefire meaningless. Mediators (Qatar, Pakistan, Egypt) continue to pass messages. One analysis says Washington has pledged no strikes before the Nov 3 midterms. Treat the situation as unresolved and volatile.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "No Active Civil Unrest \u2014 Downtown Austin",
-      "location": "Downtown Austin",
-      "detail": "No protest, demonstration, or civil disturbance activity reported or anticipated for June 24 in downtown Austin. Monitor federal building perimeter for any reaction to US-Iran talk developments. Austin housing advocates conducted an overnight vigil recently \u2014 no action scheduled downtown today.",
+      "title": "No Kings: Vote Early - Austin Events",
+      "location": "Circle C (9-10 AM), Onion Creek (10 AM-noon), First UU Church, 4700 Grover Ave (2-5 PM)",
+      "detail": "Nationwide 'No Kings: Vote Early' day (2,500+ events) is billed as nonpartisan voter participation, not purely a protest; organizers prohibit weapons and civil disobedience. Austin listings are outer-area or north-central (4700 Grover Ave is ~4 mi N). None are listed downtown today, unlike the March 28 No Kings march from City Hall to Auditorium Shores that drew thousands. Spontaneous downtown turnout is possible given the wider political climate.",
+      "level": "GREEN"
+    },
+    {
+      "title": "Anti-ICE Protest Backdrop (Garces Perez Shooting)",
+      "location": "Texas Capitol; Anderson Sq / Research Blvd (N Austin)",
+      "detail": "Protests have continued since the Sep 20 shooting of Wilber Rafael Garces Perez by an ICE officer in North Austin. Capitol-area crowds were ~150-200 and dispersed peacefully; the N Austin site saw 4 arrests on riot-related charges on Sep 20 and a City Council candidate was arrested Sep 26 on a riot-participation warrant. A federal judge temporarily halted his deportation. No specific downtown action is announced for today, but flash demonstrations at the Capitol remain possible (grounds close at 8 PM).",
       "level": "GREEN"
     }
   ],
   "weather": {
-    "high": "93\u201397\u00b0F",
-    "low": "75\u201378\u00b0F",
-    "humidity": "65\u201377%",
-    "wind": "S 7\u201312 mph",
-    "precip": "0% (dry)",
+    "high": "69-72F",
+    "low": "46-50F",
+    "humidity": "30-60%",
+    "wind": "N 10-20 mph, gusts 25-35 mph through morning; easing by afternoon",
+    "precip": "0-1% (dry)",
     "notes": [
-      "NWS CLM data for June 24: high 93\u00b0F, low 75\u00b0F, mean 84\u00b0F (observed at ABIA). WeatherBug shows 97\u00b0F with 99\u00b0F feels-like.",
-      "Dry and sunny \u2014 zero precipitation chance. Dew point ~70\u201372\u00b0F; moderate humidity.",
-      "Wind: S 7 mph through the day, minimal relief for outdoor staff.",
-      "Peak heating window noon\u20137 PM. Concert arrivals (5\u20138 PM) overlap with peak heat \u2014 outdoor queuing guests at risk.",
-      "Thursday forecast: heat index potentially reaching 105\u2013110\u00b0F+. Begin Heat Advisory protocol pre-positioning today.",
-      "Barton Springs Pool open; Austin Aquatics facilities active \u2014 elevated outdoor pedestrian volume city-wide."
+      "NWS Area Forecast Discussion (126 AM CDT Sat Oct 17): breezy N winds 10-20 mph with gusts 25-35 mph overnight into the morning, decreasing through the afternoon.",
+      "Lows in the 40s to around 50 this morning; highs in the 60s to low 70s under mostly sunny to partly cloudy skies. Observed 55F at 3 AM; roughly 62-69F by midday.",
+      "Tonight and Sunday morning are the coolest of the period: mid to upper 40s in Austin (upper 30s to low 40s in the Hill Country). Austin FC kickoff 7:30 PM will be cool and clear.",
+      "Gusty morning wind: secure outdoor signage, umbrellas, valet stand canopies, patio furniture and any event decor before 10 AM.",
+      "Sunrise 7:34 AM, sunset 6:57 PM. Dry through next week with a warming trend (highs near 80F Monday, 80s by Thursday).",
+      "Regional note: West Texas flash flooding and severe storms Oct 14-16 (state resources activated by the Governor); no impact expected on Austin today."
     ]
   },
   "events": [
     {
-      "name": "Ariana Grande \u2014 Eternal Sunshine Tour (Night 1 of 3)",
-      "venue": "Eternal Sunshine Tour (Night 1 of 3)",
-      "distance": "1.1 mi NE",
-      "time": "8:10 PM",
-      "crowd": "~15,000+",
+      "name": "Texas vs Florida - DKR Stadium",
+      "venue": "DKR Stadium",
+      "distance": "1.5 mi N",
+      "time": "11:00 AM",
+      "crowd": "~100,000",
       "risk": "HIGH",
-      "detail": "8:10 PM | Moody Center ATX, 2001 Robert Dedman Dr (1.1 mi NE) | ~15,000+ capacity | Support TBD | 3-night run: Jun 24, 26, 27"
+      "detail": "11:00 AM (per City of Austin) | 2139 San Jacinto Blvd | ~100,000 seats | Waterloo Park tailgate 8 AM-noon"
     },
     {
-      "name": "CONTRAX Austin 2026 \u2014 Palmer Events Center (Day 2 of 3)",
-      "venue": "Palmer Events Center (Day 2 of 3)",
-      "distance": "0.4 mi SW",
-      "time": "All day",
-      "crowd": "~300",
-      "risk": "LOW",
-      "detail": "All day | Palmer Events Center, 900 Barton Springs Rd (0.4 mi SW) | ~300 contract/tech attendees | Continues through June 25"
+      "name": "Austin FC vs Vancouver - Q2 Stadium",
+      "venue": "Q2 Stadium",
+      "distance": "~8 mi N",
+      "time": "7:30 PM",
+      "crowd": "~20,500",
+      "risk": "MODERATE",
+      "detail": "7:30 PM | 10414 McKalla Pl | ~20,500 capacity | post-match rideshare surge N Lamar / Burnet"
     },
     {
-      "name": "Tiny Desk Contest On The Road \u2014 Emo's Austin",
-      "venue": "Emo's Austin",
-      "distance": "2.1 mi SE",
-      "time": "Evening",
-      "crowd": "~400\u2013600",
+      "name": "Hot Luck Fest - House Party",
+      "venue": "Assembly Hall",
+      "distance": "1.0 mi E",
+      "time": "6:30 PM",
+      "crowd": "Several hundred",
       "risk": "LOW",
-      "detail": "Evening | Emo's Austin, 2015 E Riverside Dr (2.1 mi SE) | ~400\u2013600 capacity | NPR music event; minor Red River/E. 6th area impact"
+      "detail": "6:30-10:00 PM | Assembly Hall, 1121 E 7th St | food and music festival weekend (Oct 16-18)"
     },
     {
-      "name": "FIFA World Cup Day 14 Watch Parties",
-      "venue": "See detail",
-      "distance": "0.1\u20130.9 mi",
-      "time": "All day",
-      "crowd": "Variable",
+      "name": "Austin Libraries Centennial / PBS Family Fest",
+      "venue": "Central Library",
+      "distance": "0.8 mi W",
+      "time": "10 AM-5 PM",
+      "crowd": "Thousands (family)",
       "risk": "LOW",
-      "detail": "All day | Downtown bars and Texas Union (0.9 mi N) | Distributed viewing activity"
+      "detail": "10 AM-5 PM | Austin Central Library, 710 W Cesar Chavez St | family event"
+    },
+    {
+      "name": "Markets for Makers Fall Market (+ Austin Coffee Festival)",
+      "venue": "Palmer Events Center",
+      "distance": "0.7 mi SW",
+      "time": "Daytime",
+      "crowd": "Thousands",
+      "risk": "LOW",
+      "detail": "Oct 17-18 | Palmer Events Center, 900 Barton Springs Rd | 120+ vendors; coffee festival listed 9 AM at Auditorium Shores/Palmer"
+    },
+    {
+      "name": "Basement & Momma - Stubb's Waller Creek",
+      "venue": "Stubb's",
+      "distance": "0.6 mi NE",
+      "time": "6:00 PM",
+      "crowd": "~2,000-3,000",
+      "risk": "LOW",
+      "detail": "6:00 PM | 801 Red River St | concert"
     }
   ],
   "property_actions": [
-    "ACTIVATE full concert egress protocol for Ariana Grande Night 1: brief all valet, door, and concierge staff on post-show rideshare surge 10:30 PM\u2013midnight on Red River Corridor, E. 5th St, and I-35 on/off ramps.",
-    "CONFIRM F&B late-night staffing: bar and restaurant capacity plan for post-concert demand surge 10:30 PM\u20131 AM.",
-    "ENFORCE heat protocols Day 3: outdoor queue management for concert check-in guests arriving 5\u20138 PM during peak heat. Ensure cold water is available at door and valet stations.",
-    "MONITOR hotel check-in volume for Ariana Grande multi-night guests \u2014 confirm bell, valet, and front desk staffing is adequate for afternoon surge.",
-    "BEGIN explicit pre-positioning for Thursday Heat Advisory: stock cold towels, additional bottled water, and electrolyte supplies at outdoor-facing service points.",
-    "VERIFY HVAC and all building systems are running at full capacity before noon peak heat hours.",
-    "BRIEF security supervisor on concert venue suspicious activity notation at 2001 Robert Dedman Dr at 0432 (UT PD log, routine); ensure Moody Center liaison is in communication tonight.",
-    "NOTE: Ariana Grande runs Jun 24, 26, 27 \u2014 no show Friday (Jun 25). Maintain event posture Thursday through weekend."
+    "BRIEF door, valet and concierge on Texas vs Florida: San Jacinto Blvd congestion from early morning, rideshare staging, and a fan-heavy lobby/bar. Confirm the kickoff time and road closures with APD downtown before the shift.",
+    "SECURE outdoor items before 10 AM: N winds gust 25-35 mph. Anchor valet signage, umbrellas, patio furniture and event decor.",
+    "BRIEF concierge to steer guests walking to E 6th/Red River after dark to rideshare or lit routes; cite the Sep 13 bar-close armed robbery of soldiers at E 6th and Sabine (suspects now in custody).",
+    "LOG Congress Ave bank robbery (Oct 13, note claimed a bomb, no device): remind front desk and valet of bomb-threat and suspicious-person reporting procedure; no change in posture.",
+    "STAFF the lobby bar and restaurant for post-game surge (afternoon through evening) and late-night after Austin FC (match ends ~9:45 PM).",
+    "MONITOR the Texas Capitol (0.5 mi N) for flash demonstrations tied to No Kings or anti-ICE activity; Capitol grounds close at 8 PM. Escalate to the duty supervisor if crowds exceed 200 or move toward downtown.",
+    "VERIFY CCTV, door-lock and panic-button function; ensure the on-duty supervisor has the APD Downtown Division number (512) 974-5200.",
+    "NOTE for overnight: Saturday bar close is 2 AM. Increase exterior patrols and valet lane coverage 1:30-3:00 AM."
   ],
   "national_context": [
-    "US-Iran diplomatic sprint increasingly fragile on Day 7 of ceasefire \u2014 Trump threatening walkout over Strait of Hormuz toll dispute; Iranian parliament speaker calling MOU a 'US defeat.' Technical working group talks expected to restart week of June 30. Oil markets remain sensitive; 60-day sanctions waiver active through August 21.",
-    "Ariana Grande Eternal Sunshine Tour is a major cultural event \u2014 10-city North American leg with 3 Austin nights. Austin is the highest-profile stop in terms of local operational impact (multi-night, ~45,000 total attendees over 3 nights). Tour security protocols are handled by tour management; property focus is on ingress/egress, guest experience, and late-night demand.",
-    "Sustained Texas heat event continues \u2014 now in Day 3 at property. No Extreme Heat Warning in effect today but trending toward advisory conditions Thursday. ATC-EMS reports elevated heat-related call volume citywide. Heat risk for outdoor workers and guests remains elevated."
+    "US-Iran: the June 17 memorandum has collapsed; Qatar-mediated indirect talks continue over sequencing (Hormuz reopening vs blockade relief) and a frozen-funds mechanism. Sources disagree on whether recent strikes occurred and whether a preliminary deal is close; treat as unresolved. Possible energy-cost and travel effects only.",
+    "Political climate: nationwide No Kings: Vote Early (Oct 17-18) focuses on voter turnout ahead of the Nov 3 midterms; organizers stress nonviolence and no weapons. Anti-ICE tension in Austin persists after the Sep 20 Garces Perez shooting; Capitol-area demonstrations have been peaceful.",
+    "Lone-actor threats: the Sep 30 arrest of a man accused of planning a mass shooting at the Texas Capitol shows the threat pattern near downtown government sites. DPS reports no ongoing threat."
   ],
   "contacts": [
     [
@@ -168,29 +199,29 @@
   ],
   "lookaheads": [
     [
-      "THU Jun 25",
-      "CONTRAX Austin 2026 Day 3 (final day) \u2014 Palmer Events Center, 0.4 mi SW. Minor property impact.",
-      "No action required; awareness only."
+      "SUN Oct 18",
+      "Cool and clear: lows mid to upper 40s, highs upper 60s to 70s; light winds. Hot Luck Fest and No Kings Vote Early events continue; Markets for Makers day 2 at Palmer.",
+      "Post-game and weekend checkout traffic; normal posture."
     ],
     [
-      "THU Jun 25",
-      "NWS monitoring Heat Advisory threshold for Thursday \u2014 heat index 105\u2013110\u00b0F+ potentially. Confirm escalation protocol with GM and security supervisor.",
-      "Escalate Weather to RED if Heat Advisory issued. Activate cooling center referral plan."
+      "SUN Oct 18",
+      "Hotel checkout surge for visiting UT-Florida fans; early flights from AUS.",
+      "Bell and valet staffing for 7-11 AM; confirm luggage-hold capacity."
     ],
     [
-      "FRI Jun 26",
-      "Ariana Grande Night 2 \u2014 Moody Center (8:10 PM, ~15,000+, 1.1 mi NE). Brief full concert protocol for valet/door.",
-      "Same egress plan as tonight \u2014 Red River / E. 5th rideshare surge 10:30 PM\u2013midnight."
+      "MON Oct 19",
+      "Warming trend begins: highs 70s to ~80F; dry. Work-week arrivals resume.",
+      "No weather action required."
     ],
     [
-      "SAT Jun 27",
-      "Ariana Grande Night 3 and Grande's 33rd birthday (Jun 26 is birthday, Jun 27 is Night 3). Expect elevated media and fan presence.",
-      "Flag for concierge \u2014 potential VIP/celebrity guest traffic. Confirm hotel security posture."
+      "THU Oct 22",
+      "Highs in the 80s across the area; forecast remains dry per NWS.",
+      "None."
     ],
     [
-      "SAT Jun 28",
-      "Austin FC vs Inter Miami \u2014 Q2 Stadium (~20,500, 1.8 mi N). Post-game pedestrian surge N. Lamar / 2nd St.",
-      "Plan elevated valet and rideshare demand post-match."
+      "NOV 3",
+      "Midterm election day. Elevated political-activity and protest potential in the run-up; Iran strike pledge reportedly runs to this date.",
+      "Review election-period posture and Capitol-area demonstration monitoring with the GM."
     ]
   ]
 }
