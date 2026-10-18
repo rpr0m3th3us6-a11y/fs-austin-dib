@@ -1,10 +1,10 @@
 {
-  "date_str": "October 17, 2026",
-  "day_str": "Saturday",
-  "date_file": "20261017",
-  "generated_utc": "2026-10-17T10:07:31Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20261017.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20261017.pdf",
+  "date_str": "October 18, 2026",
+  "day_str": "Sunday",
+  "date_file": "20261018",
+  "generated_utc": "2026-10-18T10:10:20Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20261018.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20261018.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -18,8 +18,8 @@
     ],
     [
       "Cyber",
-      "GREEN",
-      "STABLE"
+      "AMBER",
+      "ELEVATED"
     ],
     [
       "Weather",
@@ -28,140 +28,140 @@
     ],
     [
       "Travel",
-      "AMBER",
-      "ELEVATED"
+      "GREEN",
+      "WATCH"
     ]
   ],
-  "bluf": "GAME DAY + SATURDAY NIGHT \u2014 Texas vs Florida at Darrell K. Royal Stadium (11:00 AM per City of Austin listing; ~100,000 seats; 1.5 mi N on San Jacinto Blvd, the hotel's own street) drives heavy pedestrian, rideshare and I-35 traffic; Austin FC vs Vancouver follows at Q2 Stadium (7:30 PM). Weather is benign: breezy and cool, high 69-72F, N gusts 25-35 mph through the morning, no advisories. Crime pattern to brief: Oct 13 note-passing bank robbery at the 100 block of Congress Ave (suspect arrested within 2 minutes; no device), Oct 16 shooting inside a moving vehicle at W 10th and N Lamar (possible suspect in custody; occupants knew each other), and the Sep 13 armed robbery of off-duty soldiers at E 6th and Sabine at bar close (3 arrested). Civil unrest is low: nonpartisan No Kings Vote Early events are voter-outreach focused with the Austin events in the suburbs and north Austin, but anti-ICE protests continue as a backdrop. US-Iran: no agreement in force; reporting is contradictory; no direct Austin nexus.",
+  "bluf": "QUIETER SUNDAY, ELEVATED NIGHTLIFE AND CYBER AWARENESS \u2014 Saturday's Texas-Florida game (Florida won 27-24; 103,989 in attendance) and Austin FC's 2-1 loss to Vancouver are over, and open-source reporting through 5 AM shows no significant downtown disturbance tied to either. Today is calm and sunny: high about 75F, light winds, no advisories. Event load is moderate: Livestrong Run for the Roses at Auditorium Shores (8 AM, road closures near Riverside), Texas Street Food Tour at Republic Square (1-9 PM), and Weezer at Moody Center (7 PM). Physical risk stays AMBER: the Oct 16 shooting inside a moving vehicle at W 10th and N Lamar remains under investigation (a possible suspect was questioned; no charges released), the Oct 13 bomb-note bank robbery at 111 Congress Ave is closed by arrest, and the Mar 1 Sixth Street attack (3 dead including the gunman, 14 hospitalized, FBI treated as potential terrorism, reportedly linked to US action against Iran) is the standing precedent for bar-close risk. Cyber moves to AMBER: Microsoft reports hotel Wi-Fi captive-portal credential theft (resumed Sep 29) and Cofense reports fake guest-complaint emails to hotel front desks delivering remote-access malware. Civil unrest is low: Saturday's Austin No Kings event was a peaceful Halloween election fair; early voting begins Monday Oct 19. US-Iran: no settlement, indirect talks continue.",
   "incidents": [
     {
-      "title": "TEXAS VS FLORIDA GAME DAY - DARRELL K. ROYAL STADIUM",
-      "location": "DKR-Texas Memorial Stadium, 2139 San Jacinto Blvd (~1.5 mi N)",
-      "relevance": "San Jacinto Blvd is the hotel's frontage street, so guest arrivals, valet queues and rideshare pickup will be congested. Opposing-fan visitors are likely among guests. Post-game crowds will push into the Red River, 6th Street and Rainey districts and the bars/restaurant. Confirm the kickoff time before shift briefing; listings vary.",
-      "detail": "Texas Longhorns host Florida Gators; City of Austin lists an 11:00 AM start. Stadium capacity is roughly 100,000. A Waterloo Park tailgate runs 8 AM-noon (500 E 12th St, ~0.8 mi N). Expect heavy foot, rideshare and vehicle flow on San Jacinto Blvd, Red River, I-35 and the Cesar Chavez corridor from early morning, with egress and downtown bar traffic from mid-afternoon into the evening.",
+      "title": "DOWNTOWN VIOLENCE / ROBBERY PATTERN - ONGOING",
+      "location": "W 10th & N Lamar (~0.9 mi NW); 111 Congress Ave (~0.2 mi); E 6th & Sabine",
+      "relevance": "The Congress Ave bank is roughly 0.2 mi from the property; the suspect is in custody, so no ongoing threat, but expect continued APD presence. The Oct 16 shooting appears targeted (occupants knew each other) and not a random-public threat. The recurring pattern is armed robbery and shootings in the bar-close window (about 1:30-3:00 AM, Saturday-Sunday), so brief concierge and valet to steer late walkers to rideshare.",
+      "detail": "(1) Oct 16, ~7:18 PM: a driver was shot by someone inside his moving vehicle and crashed near W 10th St and N Lamar Blvd; he was taken into surgery. APD said everyone in the vehicle knew each other and a possible suspect was in custody and being questioned. No charges or identities had been released as of this brief. (2) Oct 13, 4:44 PM: Wells Fargo at 111 Congress Ave was robbed after a note claimed a bomb; an officer arrested Makiya Johnson, 26, 1 minute 54 seconds after the call, less than two blocks away. He faces two counts of robbery by threat and had a warrant for an Oct 10 aggravated robbery in a neighboring jurisdiction. No device was reported. (3) Sep 13, bar close at E 6th and Sabine: three off-duty soldiers were robbed at gunpoint (one shot, survived); three suspects were arrested Sep 22.",
       "source": ""
     },
     {
-      "title": "DOWNTOWN ROBBERY / SHOOTING PATTERN - RECENT 72 HOURS TO 5 WEEKS",
-      "location": "100 blk Congress Ave; W 10th & N Lamar; E 6th & Sabine",
-      "relevance": "Congress Ave bank is roughly 0.2 mi from the property: expect elevated APD presence; no ongoing threat. The E 6th/Sabine armed-robbery pattern is directly relevant to guests walking to Saturday-night bars after game day; suspects are in custody but the tactic (bar-close, group targeting, getaway vehicle) persists. Advise concierge to steer late-night walkers to rideshare and to well-lit routes.",
-      "detail": "(1) Oct 13: a man handed a Wells Fargo teller a note claiming he had a bomb at the 100 block of Congress Ave; APD arrested Makiya Johnson within about 2 minutes. No device reported. (2) Oct 16, ~7:18 PM: a driver was shot by someone inside his vehicle and crashed near W 10th St and N Lamar Blvd (~0.9 mi NW); he was in surgery; APD said all occupants knew each other and a possible suspect was in custody. (3) Sep 13, 2:25 AM at bar close: a juvenile robbed a woman near E 6th and Sabine, then he and a second juvenile (with a Draco rifle) robbed three off-duty Army service members, one shot in the face and survived; Alijah Rodriguez (18) and two juveniles were arrested Sep 22.",
+      "title": "SIXTH STREET ATTACK PRECEDENT / US-IRAN WAR CONTEXT",
+      "location": "W 6th & Rio Grande (~0.7 mi NW); national / Gulf region",
+      "relevance": "No credible, specific threat to Austin or the property is identified today. The Mar 1 attack is the reason bar-close hours and entertainment-district crowds stay on the AMBER watch list: a lone actor tied to events abroad struck a crowded Saturday-night location. Escalation or a breakdown in talks is the trigger to reassess posture.",
+      "detail": "On Mar 1, a gunman fired from an SUV and then on foot outside Buford's at W 6th and Rio Grande at about 1:59 AM, a day after the US-Israeli offensive on Iran began. Three people died (including the gunman, killed by APD within about a minute) and 14 were hospitalized; the FBI treated it as potential terrorism. The gunman wore Iranian-flag attire, and the Statesman reports he was motivated by US military action in Iran. The war is now about seven months old. The June memorandum collapsed; Iran offered to reopen the Strait of Hormuz within seven days if the US lifts its blockade and eases pressure; President Trump rejected the plan but left room for talks. Qatar and Pakistan are mediating. Reporting is contradictory: Defense Secretary Hegseth warned Iran of 'destruction' while Iran's foreign minister demands 'credible guarantees' before talks resume.",
       "source": ""
     },
     {
-      "title": "CAPITOL THREAT ARREST (SEP 30) - NO ONGOING THREAT PER DPS",
+      "title": "HOSPITALITY CYBER CAMPAIGNS TARGETING HOTEL STAFF",
+      "location": "Front desk, reservations, guest-relations inboxes; guest Wi-Fi",
+      "relevance": "No compromise of the property is known. Front desk, reservations and concierge are the intended targets. Staff should not open complaint-email attachments or 'photo' links, and should report any captive-portal prompt asking for a software update or a device code. Ask IT to confirm MFA and conditional access on staff accounts.",
+      "detail": "Two active campaigns: (1) Cofense (Oct 7) reports fake guest complaints and negative-review emails with links to a 'photo or video' that is really a Windows shortcut disguised as a JPG; it installs Node.js and the EtherRAT or TONResolver remote-access malware. (2) Microsoft says Storm-2945, a Midnight Blizzard (Russia SVR-linked) sub-cluster, resumed its CaptiveCrunch campaign Sep 29, tampering with hotel Wi-Fi captive portals to push fake updates and device-code login prompts that steal Microsoft 365 sessions; reporting ties the activity to managed service providers serving seven of the ten largest US hotel chains.",
+      "source": ""
+    },
+    {
+      "title": "CAPITOL THREAT ARREST (SEP 30) - NO ONGOING THREAT",
       "location": "Texas State Capitol (~0.5 mi N)",
-      "relevance": "Informational: demonstrates the lone-actor threat pattern near downtown government sites. No change to posture. Capitol grounds close at 8 PM daily; DPS monitors demonstrations there.",
-      "detail": "Texas DPS and the FBI arrested Benny Caldera Jr., 40, of Converse on Sep 30 after credible information of a planned violent attack on the Capitol on Oct 1. He was charged with felony terroristic threat against a public servant, then taken into federal custody on additional federal charges. An official briefed on the case told ABC News he had been threatening a mass shooting and had been collecting ammunition and guns. DPS stated there is no reason to believe there is an ongoing threat to the Capitol, legislators, staff or the public.",
-      "source": ""
-    },
-    {
-      "title": "US-IRAN WAR / TALKS - NO AGREEMENT IN FORCE",
-      "location": "National / Gulf region (context)",
-      "relevance": "No direct Austin nexus. Possible effects: fuel and energy cost swings, travel disruption for international guests, and protest activity at federal sites if strikes resume. Monitor for a sudden escalation that could change the heightened-awareness posture.",
-      "detail": "The June 17 Islamabad memorandum collapsed over shipping in early July and one tracker reports it expired unextended Aug 17. Reporting on current status is contradictory: Iranian and Reuters-sourced reports describe intensified efforts toward a preliminary deal and a frozen-funds mechanism, while others report US-Iran air strikes and Iran calling the ceasefire meaningless. Mediators (Qatar, Pakistan, Egypt) continue to pass messages. One analysis says Washington has pledged no strikes before the Nov 3 midterms. Treat the situation as unresolved and volatile.",
+      "relevance": "Informational: lone-actor threat pattern near downtown government sites. No change in posture.",
+      "detail": "Texas DPS arrested Benny Caldera Jr., 40, of Converse on Sep 30 after credible information about a planned violent attack on the Capitol; he faces state terroristic-threat and federal charges. DPS said there is no ongoing threat to the Capitol, legislators, staff or the public.",
       "source": ""
     }
   ],
   "civil_unrest": [
     {
       "title": "No Kings: Vote Early - Austin Events",
-      "location": "Circle C (9-10 AM), Onion Creek (10 AM-noon), First UU Church, 4700 Grover Ave (2-5 PM)",
-      "detail": "Nationwide 'No Kings: Vote Early' day (2,500+ events) is billed as nonpartisan voter participation, not purely a protest; organizers prohibit weapons and civil disobedience. Austin listings are outer-area or north-central (4700 Grover Ave is ~4 mi N). None are listed downtown today, unlike the March 28 No Kings march from City Hall to Auditorium Shores that drew thousands. Spontaneous downtown turnout is possible given the wider political climate.",
+      "location": "Austin metro; none scheduled downtown",
+      "detail": "Saturday's Austin event ('Don't Ghost the Vote' at First UU Church, 4700 Grover Ave) was a Halloween-themed election fair with sample ballots and polling information, not a march, per CBS Austin. A small rally also gathered outside a busy park in southwest Austin. Nationwide events run Saturday and Sunday and are nonpartisan; organizers prohibit weapons and civil disobedience. Early voting in Texas begins Monday Oct 19 and runs through Oct 30; Election Day is Nov 3. A 'Parade to the Polls' is planned for the coming week.",
       "level": "GREEN"
     },
     {
-      "title": "Anti-ICE Protest Backdrop (Garces Perez Shooting)",
-      "location": "Texas Capitol; Anderson Sq / Research Blvd (N Austin)",
-      "detail": "Protests have continued since the Sep 20 shooting of Wilber Rafael Garces Perez by an ICE officer in North Austin. Capitol-area crowds were ~150-200 and dispersed peacefully; the N Austin site saw 4 arrests on riot-related charges on Sep 20 and a City Council candidate was arrested Sep 26 on a riot-participation warrant. A federal judge temporarily halted his deportation. No specific downtown action is announced for today, but flash demonstrations at the Capitol remain possible (grounds close at 8 PM).",
+      "title": "Anti-ICE / Capitol-Area Activity",
+      "location": "Texas Capitol; North Austin",
+      "detail": "Tension persists after the Sep 20 shooting of Wilber Rafael Garces Perez by an ICE officer: he was charged federally with assaulting and resisting a federal officer, and Rep. Casar and other members of Congress held a hearing on ICE's actions Oct 15. Capitol-area crowds have been small and peaceful (about 150-200). An anti-death-penalty rally was also held at the Capitol. No specific downtown action is announced for today; flash demonstrations remain possible (Capitol grounds close 8 PM).",
       "level": "GREEN"
     }
   ],
   "weather": {
-    "high": "69-72F",
-    "low": "46-50F",
-    "humidity": "30-60%",
-    "wind": "N 10-20 mph, gusts 25-35 mph through morning; easing by afternoon",
+    "high": "74-76F",
+    "low": "48-52F (tonight low-mid 50s)",
+    "humidity": "30-60% (very dry air, dewpoints 30s-40s)",
+    "wind": "Light and variable to near calm; NE ~5 mph",
     "precip": "0-1% (dry)",
     "notes": [
-      "NWS Area Forecast Discussion (126 AM CDT Sat Oct 17): breezy N winds 10-20 mph with gusts 25-35 mph overnight into the morning, decreasing through the afternoon.",
-      "Lows in the 40s to around 50 this morning; highs in the 60s to low 70s under mostly sunny to partly cloudy skies. Observed 55F at 3 AM; roughly 62-69F by midday.",
-      "Tonight and Sunday morning are the coolest of the period: mid to upper 40s in Austin (upper 30s to low 40s in the Hill Country). Austin FC kickoff 7:30 PM will be cool and clear.",
-      "Gusty morning wind: secure outdoor signage, umbrellas, valet stand canopies, patio furniture and any event decor before 10 AM.",
-      "Sunrise 7:34 AM, sunset 6:57 PM. Dry through next week with a warming trend (highs near 80F Monday, 80s by Thursday).",
-      "Regional note: West Texas flash flooding and severe storms Oct 14-16 (state resources activated by the Governor); no impact expected on Austin today."
+      "NWS Area Forecast Discussion (128 AM CDT Sun Oct 18): another crisp, cool fall morning; lows upper 40s to near 50 along and south of I-35 (low 40s in the Hill Country); highs in the 70s area-wide.",
+      "Unlike the past several days, winds are very light to almost calm under plentiful sunshine. Saturday's gusty northerlies (gusts to 35 mph) are gone; outdoor setups are no longer wind-limited.",
+      "Tonight: much warmer lows in the low to mid 50s with increasing clouds as southerly return flow arrives. No rain expected anywhere in the extended forecast.",
+      "Monday: upper 70s to low 80s. Tuesday onward: above-normal warmth, low 80s climbing to upper 80s/low 90s by the end of the week; dewpoints return to the 50s-60s (more humid).",
+      "Sunrise 7:35 AM, sunset 6:56 PM. UV index moderate (about 5) at midday; sun exposure advisory for the Auditorium Shores run and Republic Square festival crowds.",
+      "Regional: no flood or severe-weather concerns for Central Texas this week."
     ]
   },
   "events": [
     {
-      "name": "Texas vs Florida - DKR Stadium",
-      "venue": "DKR Stadium",
-      "distance": "1.5 mi N",
-      "time": "11:00 AM",
-      "crowd": "~100,000",
-      "risk": "HIGH",
-      "detail": "11:00 AM (per City of Austin) | 2139 San Jacinto Blvd | ~100,000 seats | Waterloo Park tailgate 8 AM-noon"
-    },
-    {
-      "name": "Austin FC vs Vancouver - Q2 Stadium",
-      "venue": "Q2 Stadium",
-      "distance": "~8 mi N",
-      "time": "7:30 PM",
-      "crowd": "~20,500",
+      "name": "Weezer, The Shins & Silversun Pickups - Moody Center",
+      "venue": "Moody Center",
+      "distance": "~1.6 mi N",
+      "time": "7:00 PM",
+      "crowd": "~12,000-15,000",
       "risk": "MODERATE",
-      "detail": "7:30 PM | 10414 McKalla Pl | ~20,500 capacity | post-match rideshare surge N Lamar / Burnet"
+      "detail": "7:00 PM | 2001 Robert Dedman Dr | arena concert, egress ~10:00-10:30 PM"
     },
     {
-      "name": "Hot Luck Fest - House Party",
-      "venue": "Assembly Hall",
-      "distance": "1.0 mi E",
-      "time": "6:30 PM",
-      "crowd": "Several hundred",
-      "risk": "LOW",
-      "detail": "6:30-10:00 PM | Assembly Hall, 1121 E 7th St | food and music festival weekend (Oct 16-18)"
-    },
-    {
-      "name": "Austin Libraries Centennial / PBS Family Fest",
-      "venue": "Central Library",
-      "distance": "0.8 mi W",
-      "time": "10 AM-5 PM",
-      "crowd": "Thousands (family)",
-      "risk": "LOW",
-      "detail": "10 AM-5 PM | Austin Central Library, 710 W Cesar Chavez St | family event"
-    },
-    {
-      "name": "Markets for Makers Fall Market (+ Austin Coffee Festival)",
-      "venue": "Palmer Events Center",
-      "distance": "0.7 mi SW",
-      "time": "Daytime",
+      "name": "Texas Street Food Tour - Republic Square",
+      "venue": "Republic Square",
+      "distance": "~0.7 mi NW",
+      "time": "1-9 PM",
       "crowd": "Thousands",
       "risk": "LOW",
-      "detail": "Oct 17-18 | Palmer Events Center, 900 Barton Springs Rd | 120+ vendors; coffee festival listed 9 AM at Auditorium Shores/Palmer"
+      "detail": "1:00-9:00 PM | 422 Guadalupe St | 50+ food vendors, live bands, free entry"
     },
     {
-      "name": "Basement & Momma - Stubb's Waller Creek",
-      "venue": "Stubb's",
-      "distance": "0.6 mi NE",
-      "time": "6:00 PM",
-      "crowd": "~2,000-3,000",
+      "name": "Livestrong Run for the Roses (5K/10K)",
+      "venue": "Auditorium Shores",
+      "distance": "~1.0 mi SW",
+      "time": "8 AM-noon",
+      "crowd": "Thousands",
       "risk": "LOW",
-      "detail": "6:00 PM | 801 Red River St | concert"
+      "detail": "8:00 AM-noon | Auditorium Shores, 900 W Riverside Dr | rolling road closures near Riverside/Lamar/S 1st"
+    },
+    {
+      "name": "Hermanos Gutierrez - Moody Amphitheater",
+      "venue": "Moody Amphitheater",
+      "distance": "~0.9 mi N",
+      "time": "7:00 PM",
+      "crowd": "~5,000",
+      "risk": "LOW",
+      "detail": "7:00 PM | Waterloo Park, 401 Sabine St | outdoor concert"
+    },
+    {
+      "name": "Jimmie Dale Gilmore - Antone's Nightclub",
+      "venue": "Antone's",
+      "distance": "~0.3 mi N",
+      "time": "6:00 PM",
+      "crowd": "~500",
+      "risk": "LOW",
+      "detail": "6:00 PM | 305 E 5th St | club show"
+    },
+    {
+      "name": "Texas Women's Volleyball vs Florida - Gregory Gym",
+      "venue": "Gregory Gym",
+      "distance": "~1.7 mi N",
+      "time": "7:30 PM",
+      "crowd": "~3,000",
+      "risk": "LOW",
+      "detail": "7:30 PM | 2101 Speedway | campus athletic event"
     }
   ],
   "property_actions": [
-    "BRIEF door, valet and concierge on Texas vs Florida: San Jacinto Blvd congestion from early morning, rideshare staging, and a fan-heavy lobby/bar. Confirm the kickoff time and road closures with APD downtown before the shift.",
-    "SECURE outdoor items before 10 AM: N winds gust 25-35 mph. Anchor valet signage, umbrellas, patio furniture and event decor.",
-    "BRIEF concierge to steer guests walking to E 6th/Red River after dark to rideshare or lit routes; cite the Sep 13 bar-close armed robbery of soldiers at E 6th and Sabine (suspects now in custody).",
-    "LOG Congress Ave bank robbery (Oct 13, note claimed a bomb, no device): remind front desk and valet of bomb-threat and suspicious-person reporting procedure; no change in posture.",
-    "STAFF the lobby bar and restaurant for post-game surge (afternoon through evening) and late-night after Austin FC (match ends ~9:45 PM).",
-    "MONITOR the Texas Capitol (0.5 mi N) for flash demonstrations tied to No Kings or anti-ICE activity; Capitol grounds close at 8 PM. Escalate to the duty supervisor if crowds exceed 200 or move toward downtown.",
-    "VERIFY CCTV, door-lock and panic-button function; ensure the on-duty supervisor has the APD Downtown Division number (512) 974-5200.",
-    "NOTE for overnight: Saturday bar close is 2 AM. Increase exterior patrols and valet lane coverage 1:30-3:00 AM."
+    "BRIEF door, valet and concierge on the Livestrong run closures (8 AM-noon, Auditorium Shores/Riverside) and Weezer egress (about 10:00-10:30 PM): allow extra time for guests heading to airport or events.",
+    "EXPECT a checkout surge from visiting Texas-Florida fans and weekend leisure guests: bell and valet at full strength 7-11 AM; confirm luggage hold and rideshare staging.",
+    "BRIEF front desk, reservations and concierge on the guest-complaint phishing campaign: do not open attachments or 'photo/video' links in complaint or review emails; forward to IT and Security. Report any guest Wi-Fi portal prompt for a software update or device code.",
+    "ASK IT to confirm MFA and conditional access on staff Microsoft 365 accounts and to check the guest Wi-Fi captive portal and managed-service-provider alerts.",
+    "STEER late-night walkers to rideshare after dark, especially around E 6th, Rainey and Red River; remind staff of the bomb-threat and suspicious-person reporting procedure (Congress Ave robbery, Oct 13).",
+    "MONITOR the Texas Capitol for flash demonstrations and Waterloo Park/Moody Center crowds; escalate to the duty supervisor if crowds exceed 200 or move toward downtown.",
+    "VERIFY CCTV, door locks and panic buttons; ensure the supervisor has APD Downtown Division (512) 974-5200.",
+    "REMIND outdoor F&B and pool staff of UV and sun exposure (UV index about 5) and dry air: water stations for guests."
   ],
   "national_context": [
-    "US-Iran: the June 17 memorandum has collapsed; Qatar-mediated indirect talks continue over sequencing (Hormuz reopening vs blockade relief) and a frozen-funds mechanism. Sources disagree on whether recent strikes occurred and whether a preliminary deal is close; treat as unresolved. Possible energy-cost and travel effects only.",
-    "Political climate: nationwide No Kings: Vote Early (Oct 17-18) focuses on voter turnout ahead of the Nov 3 midterms; organizers stress nonviolence and no weapons. Anti-ICE tension in Austin persists after the Sep 20 Garces Perez shooting; Capitol-area demonstrations have been peaceful.",
-    "Lone-actor threats: the Sep 30 arrest of a man accused of planning a mass shooting at the Texas Capitol shows the threat pattern near downtown government sites. DPS reports no ongoing threat."
+    "US-Iran war (about seven months): no settlement in force. Iran says its offer to reopen the Strait of Hormuz within seven days is still on the table and demands credible guarantees against future attack; the US rejected the plan but signaled further talks; Qatar and Pakistan are mediating. Statements are contradictory (Hegseth threatens 'destruction'; Iran's president calls talks 'meaningless'). Austin has a direct precedent: the Mar 1 Sixth Street attack, which the FBI treated as potential terrorism.",
+    "Political climate: nationwide No Kings: Vote Early events (Oct 17-18) focus on turnout; Saturday's Austin event was peaceful. Early voting begins Oct 19; Election Day is Nov 3. Anti-ICE tension in Austin persists after the Sep 20 Garces Perez shooting.",
+    "Cyber: hospitality is a high-volume ransomware and phishing target (Qilin, Akira, Play, LockBit lead sector claims), with Midnight Blizzard hotel Wi-Fi and fake guest-complaint campaigns active this month."
   ],
   "contacts": [
     [
@@ -199,29 +199,29 @@
   ],
   "lookaheads": [
     [
-      "SUN Oct 18",
-      "Cool and clear: lows mid to upper 40s, highs upper 60s to 70s; light winds. Hot Luck Fest and No Kings Vote Early events continue; Markets for Makers day 2 at Palmer.",
-      "Post-game and weekend checkout traffic; normal posture."
-    ],
-    [
-      "SUN Oct 18",
-      "Hotel checkout surge for visiting UT-Florida fans; early flights from AUS.",
-      "Bell and valet staffing for 7-11 AM; confirm luggage-hold capacity."
-    ],
-    [
       "MON Oct 19",
-      "Warming trend begins: highs 70s to ~80F; dry. Work-week arrivals resume.",
-      "No weather action required."
+      "Early voting begins in Travis County (through Oct 30). Warmer: highs upper 70s to low 80s, increasing clouds overnight, dry.",
+      "Expect more voter-outreach activity downtown; normal posture. Monitor Capitol-area demonstrations."
     ],
     [
-      "THU Oct 22",
-      "Highs in the 80s across the area; forecast remains dry per NWS.",
-      "None."
+      "TUE Oct 20",
+      "Warming trend continues; highs low 80s; no rain.",
+      "No weather action required. US-Iran mediated talks may produce news; monitor."
+    ],
+    [
+      "WED-FRI Oct 21-23",
+      "Highs climb to upper 80s and low 90s with returning humidity (dewpoints 50s-60s); dry.",
+      "Resume heat-awareness protocol for pool and outdoor service by Thursday."
+    ],
+    [
+      "WEEKEND Oct 24-25",
+      "Above-normal temperatures, dry; weekend event calendar not yet finalized.",
+      "Check City of Austin and Downtown Austin Alliance calendars Friday."
     ],
     [
       "NOV 3",
-      "Midterm election day. Elevated political-activity and protest potential in the run-up; Iran strike pledge reportedly runs to this date.",
-      "Review election-period posture and Capitol-area demonstration monitoring with the GM."
+      "Election Day. Elevated political-activity and protest potential through the run-up; US-Iran talks unresolved.",
+      "Review election-period posture with the GM; keep Capitol-area monitoring in place."
     ]
   ]
 }
