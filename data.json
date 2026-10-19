@@ -1,10 +1,10 @@
 {
-  "date_str": "October 18, 2026",
-  "day_str": "Sunday",
-  "date_file": "20261018",
-  "generated_utc": "2026-10-18T10:10:20Z",
-  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20261018.pdf",
-  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20261018.pdf",
+  "date_str": "October 19, 2026",
+  "day_str": "Monday",
+  "date_file": "20261019",
+  "generated_utc": "2026-10-19T10:04:48Z",
+  "full_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_FourSeasons_Austin_20261019.pdf",
+  "onepager_pdf_url": "https://raw.githubusercontent.com/rpr0m3th3us6-a11y/fs-austin-dib/main/pdfs/DIB_1Pager_FourSeasons_Austin_20261019.pdf",
   "threat_matrix": [
     [
       "Physical Security",
@@ -29,23 +29,30 @@
     [
       "Travel",
       "GREEN",
-      "WATCH"
+      "STABLE"
     ]
   ],
-  "bluf": "QUIETER SUNDAY, ELEVATED NIGHTLIFE AND CYBER AWARENESS \u2014 Saturday's Texas-Florida game (Florida won 27-24; 103,989 in attendance) and Austin FC's 2-1 loss to Vancouver are over, and open-source reporting through 5 AM shows no significant downtown disturbance tied to either. Today is calm and sunny: high about 75F, light winds, no advisories. Event load is moderate: Livestrong Run for the Roses at Auditorium Shores (8 AM, road closures near Riverside), Texas Street Food Tour at Republic Square (1-9 PM), and Weezer at Moody Center (7 PM). Physical risk stays AMBER: the Oct 16 shooting inside a moving vehicle at W 10th and N Lamar remains under investigation (a possible suspect was questioned; no charges released), the Oct 13 bomb-note bank robbery at 111 Congress Ave is closed by arrest, and the Mar 1 Sixth Street attack (3 dead including the gunman, 14 hospitalized, FBI treated as potential terrorism, reportedly linked to US action against Iran) is the standing precedent for bar-close risk. Cyber moves to AMBER: Microsoft reports hotel Wi-Fi captive-portal credential theft (resumed Sep 29) and Cofense reports fake guest-complaint emails to hotel front desks delivering remote-access malware. Civil unrest is low: Saturday's Austin No Kings event was a peaceful Halloween election fair; early voting begins Monday Oct 19. US-Iran: no settlement, indirect talks continue.",
+  "bluf": "EARLY VOTING OPENS, MODERATE EVENT LOAD, AMBER NIGHTLIFE AND CYBER AWARENESS \u2014 No significant downtown disturbance surfaced in open-source reporting for Oct 17-18 (absence of reporting is not proof of absence). Today is dry and mild: crisp start near 50F, high about 78-80F, light east/southeast winds, no advisories. Early voting begins in Travis County today (7 AM-7 PM daily through Oct 30; Austin City Hall at 301 W 2nd St is about 0.4 mi away), so expect added foot traffic and voter-outreach activity downtown. Events: Staind, Seether, Hoobastank and Hinder at Moody Center (6 PM; egress about 10 PM), Snarky Puppy at ACL Live (8 PM, ~0.3 mi), Monday-night block party on Rainey Street (5-11 PM, ~0.2 mi). Physical risk stays AMBER: the Oct 16 in-vehicle shooting at W 10th and N Lamar remains under investigation (a possible suspect was questioned; no charges or identities released); the Oct 13 bomb-note bank robbery at 111 Congress Ave is closed by arrest; the Sep 16 cluster of five suspected opioid overdoses outside a Sixth Street bar (fentanyl suspected) led APD and EMS to distribute Narcan to bars; and the Mar 1 Sixth Street attack (FBI: potential terrorism, Iran-war context) remains the bar-close precedent. Cyber stays AMBER: hotel-targeted fake guest-complaint emails (Cofense) and Wi-Fi captive-portal credential theft (Microsoft, resumed Sep 29) are active. US-Iran: no settlement; State Department urged heightened vigilance Oct 18-19 and warned Iran or its proxies may target US interests worldwide, but no DHS or FBI bulletin naming Austin or a specific homeland threat was found.",
   "incidents": [
     {
       "title": "DOWNTOWN VIOLENCE / ROBBERY PATTERN - ONGOING",
       "location": "W 10th & N Lamar (~0.9 mi NW); 111 Congress Ave (~0.2 mi); E 6th & Sabine",
-      "relevance": "The Congress Ave bank is roughly 0.2 mi from the property; the suspect is in custody, so no ongoing threat, but expect continued APD presence. The Oct 16 shooting appears targeted (occupants knew each other) and not a random-public threat. The recurring pattern is armed robbery and shootings in the bar-close window (about 1:30-3:00 AM, Saturday-Sunday), so brief concierge and valet to steer late walkers to rideshare.",
-      "detail": "(1) Oct 16, ~7:18 PM: a driver was shot by someone inside his moving vehicle and crashed near W 10th St and N Lamar Blvd; he was taken into surgery. APD said everyone in the vehicle knew each other and a possible suspect was in custody and being questioned. No charges or identities had been released as of this brief. (2) Oct 13, 4:44 PM: Wells Fargo at 111 Congress Ave was robbed after a note claimed a bomb; an officer arrested Makiya Johnson, 26, 1 minute 54 seconds after the call, less than two blocks away. He faces two counts of robbery by threat and had a warrant for an Oct 10 aggravated robbery in a neighboring jurisdiction. No device was reported. (3) Sep 13, bar close at E 6th and Sabine: three off-duty soldiers were robbed at gunpoint (one shot, survived); three suspects were arrested Sep 22.",
+      "relevance": "The Congress Ave bank is roughly 0.2 mi from the property; the suspect is in custody, so no ongoing threat, but expect continued APD presence. The Oct 16 shooting appears targeted (occupants knew each other) rather than a random-public threat. The recurring pattern is armed robbery and shootings in the bar-close window (about 1:30-3:00 AM, Friday-Sunday), so keep concierge and valet steering late walkers to rideshare.",
+      "detail": "(1) Oct 16, ~7:18 PM: a driver was shot by someone inside his moving vehicle and crashed near W 10th St and N Lamar Blvd. APD said everyone in the vehicle knew each other and a possible suspect was questioned; no charges or identities have been released. (2) Oct 13, 4:44 PM: Wells Fargo at 111 Congress Ave was robbed after a note claimed a bomb; an officer arrested Makiya Johnson, 26, 1 minute 54 seconds after the call, less than two blocks away. He faces two counts of robbery by threat and had a warrant for an Oct 10 aggravated robbery in a neighboring jurisdiction. No device was reported. (3) Sep 13, bar close at E 6th and Sabine: three off-duty soldiers were robbed at gunpoint (one shot, survived); three suspects were arrested Sep 22. No new downtown violent incident was found in open-source reporting for Oct 17-19.",
+      "source": ""
+    },
+    {
+      "title": "SIXTH STREET OVERDOSE CLUSTER (SEP 16) - NARCAN PUSH",
+      "location": "300 block E 6th St (~0.5 mi N/NE); Sixth Street entertainment district",
+      "relevance": "Guests and staff who visit Sixth Street or Rainey Street venues could be exposed to contaminated drugs. Ensure bar, F&B, security and door staff know the signs of opioid overdose (small pupils, unresponsiveness, clammy skin), call 911 first, and know where on-property naloxone and AED equipment are located.",
+      "detail": "About 2:20 AM on Sep 16, five adults were treated for suspected opioid overdoses in and around Shakespeare's Pub (300 block of E 6th St); one was in respiratory arrest and several needed multiple Narcan doses; four were hospitalized in stable condition and no deaths were reported. APD suspects a 'bad batch' and later said fentanyl was believed involved; officials called it the first multi-patient overdose event downtown since the spring 2024 surge. APD, Austin Public Health and EMS then distributed hundreds of Narcan kits to Sixth Street bars. Anyone with information can call Crime Stoppers at (512) 472-8477.",
       "source": ""
     },
     {
       "title": "SIXTH STREET ATTACK PRECEDENT / US-IRAN WAR CONTEXT",
       "location": "W 6th & Rio Grande (~0.7 mi NW); national / Gulf region",
-      "relevance": "No credible, specific threat to Austin or the property is identified today. The Mar 1 attack is the reason bar-close hours and entertainment-district crowds stay on the AMBER watch list: a lone actor tied to events abroad struck a crowded Saturday-night location. Escalation or a breakdown in talks is the trigger to reassess posture.",
-      "detail": "On Mar 1, a gunman fired from an SUV and then on foot outside Buford's at W 6th and Rio Grande at about 1:59 AM, a day after the US-Israeli offensive on Iran began. Three people died (including the gunman, killed by APD within about a minute) and 14 were hospitalized; the FBI treated it as potential terrorism. The gunman wore Iranian-flag attire, and the Statesman reports he was motivated by US military action in Iran. The war is now about seven months old. The June memorandum collapsed; Iran offered to reopen the Strait of Hormuz within seven days if the US lifts its blockade and eases pressure; President Trump rejected the plan but left room for talks. Qatar and Pakistan are mediating. Reporting is contradictory: Defense Secretary Hegseth warned Iran of 'destruction' while Iran's foreign minister demands 'credible guarantees' before talks resume.",
+      "relevance": "No credible, specific threat to Austin or the property is identified today, and no DHS or FBI bulletin naming a new homeland threat was found for Oct 18-19. The Mar 1 attack is why bar-close hours and entertainment-district crowds stay on the AMBER watch list: a lone actor tied to events abroad struck a crowded location. Escalation or a breakdown in talks is the trigger to reassess posture.",
+      "detail": "On Mar 1, a gunman fired from an SUV and then on foot outside Buford's at W 6th and Rio Grande at about 1:59 AM, a day after the US-Israeli offensive on Iran began. Three people died (including the gunman, killed by APD within about a minute) and 14 were hospitalized; the FBI treated it as potential terrorism. The war is about seven and a half months old. The June memorandum collapsed; Iran says its seven-day Strait of Hormuz reopening plan is still on the table but demands guarantees; President Trump rejected it Saturday but expects further talks this week, and Iran's president calls talks 'meaningless'. On Oct 18-19 the State Department urged Americans in the Middle East to exercise heightened vigilance and said Iran or groups supportive of it may target US interests worldwide; Houthi-Saudi hostilities are disrupting regional airports. Reporting is contradictory and there is no ceasefire in force.",
       "source": ""
     },
     {
@@ -54,113 +61,106 @@
       "relevance": "No compromise of the property is known. Front desk, reservations and concierge are the intended targets. Staff should not open complaint-email attachments or 'photo' links, and should report any captive-portal prompt asking for a software update or a device code. Ask IT to confirm MFA and conditional access on staff accounts.",
       "detail": "Two active campaigns: (1) Cofense (Oct 7) reports fake guest complaints and negative-review emails with links to a 'photo or video' that is really a Windows shortcut disguised as a JPG; it installs Node.js and the EtherRAT or TONResolver remote-access malware. (2) Microsoft says Storm-2945, a Midnight Blizzard (Russia SVR-linked) sub-cluster, resumed its CaptiveCrunch campaign Sep 29, tampering with hotel Wi-Fi captive portals to push fake updates and device-code login prompts that steal Microsoft 365 sessions; reporting ties the activity to managed service providers serving seven of the ten largest US hotel chains.",
       "source": ""
-    },
-    {
-      "title": "CAPITOL THREAT ARREST (SEP 30) - NO ONGOING THREAT",
-      "location": "Texas State Capitol (~0.5 mi N)",
-      "relevance": "Informational: lone-actor threat pattern near downtown government sites. No change in posture.",
-      "detail": "Texas DPS arrested Benny Caldera Jr., 40, of Converse on Sep 30 after credible information about a planned violent attack on the Capitol; he faces state terroristic-threat and federal charges. DPS said there is no ongoing threat to the Capitol, legislators, staff or the public.",
-      "source": ""
     }
   ],
   "civil_unrest": [
     {
-      "title": "No Kings: Vote Early - Austin Events",
-      "location": "Austin metro; none scheduled downtown",
-      "detail": "Saturday's Austin event ('Don't Ghost the Vote' at First UU Church, 4700 Grover Ave) was a Halloween-themed election fair with sample ballots and polling information, not a march, per CBS Austin. A small rally also gathered outside a busy park in southwest Austin. Nationwide events run Saturday and Sunday and are nonpartisan; organizers prohibit weapons and civil disobedience. Early voting in Texas begins Monday Oct 19 and runs through Oct 30; Election Day is Nov 3. A 'Parade to the Polls' is planned for the coming week.",
+      "title": "Early Voting Begins - Travis County",
+      "location": "Austin City Hall, 301 W 2nd St (~0.4 mi); Travis County Civil & Family Courts, 1700 Guadalupe St",
+      "detail": "Early voting in Travis County runs Oct 19-30, 7 AM-7 PM daily, at any county early-voting site; Election Day is Tuesday Nov 3. Austin City Hall (301 W 2nd St) and the Civil and Family Courts Facility (1700 Guadalupe St) are the nearest sites. Expect higher foot and vehicle traffic in the Second Street district, plus voter-outreach, campaign and advocacy activity. Saturday's Austin No Kings event was a peaceful election fair, not a march; no downtown demonstration is announced for today.",
       "level": "GREEN"
     },
     {
       "title": "Anti-ICE / Capitol-Area Activity",
-      "location": "Texas Capitol; North Austin",
-      "detail": "Tension persists after the Sep 20 shooting of Wilber Rafael Garces Perez by an ICE officer: he was charged federally with assaulting and resisting a federal officer, and Rep. Casar and other members of Congress held a hearing on ICE's actions Oct 15. Capitol-area crowds have been small and peaceful (about 150-200). An anti-death-penalty rally was also held at the Capitol. No specific downtown action is announced for today; flash demonstrations remain possible (Capitol grounds close 8 PM).",
+      "location": "Texas Capitol (~0.5 mi N); North Austin",
+      "detail": "Tension persists after the Sep 20 shooting of Wilber Rafael Garces Perez by an ICE officer. Sep 20-21 protests near Anderson Square and Research Blvd turned confrontational (rocks and bottles thrown, pepper balls used, four arrests), while Capitol gatherings of about 100-200 were peaceful and dispersed shortly after 9 PM. Congress held a hearing on ICE's actions Oct 15. No specific downtown action is announced for today; flash demonstrations remain possible (Capitol grounds close 8 PM).",
       "level": "GREEN"
     }
   ],
   "weather": {
-    "high": "74-76F",
-    "low": "48-52F (tonight low-mid 50s)",
-    "humidity": "30-60% (very dry air, dewpoints 30s-40s)",
-    "wind": "Light and variable to near calm; NE ~5 mph",
+    "high": "78-80F (upper 70s to near 80)",
+    "low": "48-53F early; tonight mid-upper 50s",
+    "humidity": "Low-moderate (dewpoints 30s-40s today, rising to 50s-60s later in the week)",
+    "wind": "East/southeast 5 mph, up to ~10 mph in the afternoon",
     "precip": "0-1% (dry)",
     "notes": [
-      "NWS Area Forecast Discussion (128 AM CDT Sun Oct 18): another crisp, cool fall morning; lows upper 40s to near 50 along and south of I-35 (low 40s in the Hill Country); highs in the 70s area-wide.",
-      "Unlike the past several days, winds are very light to almost calm under plentiful sunshine. Saturday's gusty northerlies (gusts to 35 mph) are gone; outdoor setups are no longer wind-limited.",
-      "Tonight: much warmer lows in the low to mid 50s with increasing clouds as southerly return flow arrives. No rain expected anywhere in the extended forecast.",
-      "Monday: upper 70s to low 80s. Tuesday onward: above-normal warmth, low 80s climbing to upper 80s/low 90s by the end of the week; dewpoints return to the 50s-60s (more humid).",
-      "Sunrise 7:35 AM, sunset 6:56 PM. UV index moderate (about 5) at midday; sun exposure advisory for the Auditorium Shores run and Republic Square festival crowds.",
+      "NWS Area Forecast Discussion (140 AM CDT Mon Oct 19): cool, dry start with lows around 48-53F in Austin; highs in the mid to upper 70s area-wide, with 80s possible along and south of I-35 (Camp Mabry about 81F).",
+      "Very light showers are possible on the extreme southern counties overnight; Austin has 0% rain chance today. Winds are light from the east/southeast (about 5 mph, up to ~10 mph in the afternoon).",
+      "Tonight: increasing clouds and moisture with lows in the mid to upper 50s. Tuesday: low to mid 80s, dry.",
+      "Wednesday-Friday: upper 80s to low 90s with humidity returning (dewpoints 50s-60s versus 30s-40s now). No rain expected through about Saturday; only a ~20% chance for western areas around Sun Oct 25.",
+      "Sunrise 7:35 AM, sunset 6:55 PM. UV index moderate (about 5) at midday.",
       "Regional: no flood or severe-weather concerns for Central Texas this week."
     ]
   },
   "events": [
     {
-      "name": "Weezer, The Shins & Silversun Pickups - Moody Center",
+      "name": "Staind, Seether, Hoobastank & Hinder - Moody Center",
       "venue": "Moody Center",
       "distance": "~1.6 mi N",
-      "time": "7:00 PM",
-      "crowd": "~12,000-15,000",
-      "risk": "MODERATE",
-      "detail": "7:00 PM | 2001 Robert Dedman Dr | arena concert, egress ~10:00-10:30 PM"
-    },
-    {
-      "name": "Texas Street Food Tour - Republic Square",
-      "venue": "Republic Square",
-      "distance": "~0.7 mi NW",
-      "time": "1-9 PM",
-      "crowd": "Thousands",
-      "risk": "LOW",
-      "detail": "1:00-9:00 PM | 422 Guadalupe St | 50+ food vendors, live bands, free entry"
-    },
-    {
-      "name": "Livestrong Run for the Roses (5K/10K)",
-      "venue": "Auditorium Shores",
-      "distance": "~1.0 mi SW",
-      "time": "8 AM-noon",
-      "crowd": "Thousands",
-      "risk": "LOW",
-      "detail": "8:00 AM-noon | Auditorium Shores, 900 W Riverside Dr | rolling road closures near Riverside/Lamar/S 1st"
-    },
-    {
-      "name": "Hermanos Gutierrez - Moody Amphitheater",
-      "venue": "Moody Amphitheater",
-      "distance": "~0.9 mi N",
-      "time": "7:00 PM",
-      "crowd": "~5,000",
-      "risk": "LOW",
-      "detail": "7:00 PM | Waterloo Park, 401 Sabine St | outdoor concert"
-    },
-    {
-      "name": "Jimmie Dale Gilmore - Antone's Nightclub",
-      "venue": "Antone's",
-      "distance": "~0.3 mi N",
       "time": "6:00 PM",
+      "crowd": "Est. 8,000-12,000",
+      "risk": "MODERATE",
+      "detail": "6:00 PM | 2001 Robert Dedman Dr | arena rock concert, egress ~10:00 PM"
+    },
+    {
+      "name": "Snarky Puppy - ACL Live at The Moody Theater",
+      "venue": "ACL Live",
+      "distance": "~0.3 mi NW",
+      "time": "8:00 PM",
+      "crowd": "~2,750",
+      "risk": "LOW",
+      "detail": "8:00 PM | 310 W Willie Nelson Blvd | 2,750-seat theater"
+    },
+    {
+      "name": "MNP Monday Night Rainey St Block Party",
+      "venue": "Rainey Street",
+      "distance": "~0.2 mi E",
+      "time": "5-11 PM",
+      "crowd": "Hundreds",
+      "risk": "LOW",
+      "detail": "5:00-11:00 PM | 73-88 Rainey St | outdoor bar-district party"
+    },
+    {
+      "name": "Soul Man Sam / Blue Monday - Antone's Nightclub",
+      "venue": "Antone's",
+      "distance": "~0.3 mi NW",
+      "time": "7:00 PM",
       "crowd": "~500",
       "risk": "LOW",
-      "detail": "6:00 PM | 305 E 5th St | club show"
+      "detail": "7:00 PM | 213 W 5th St | club show"
     },
     {
-      "name": "Texas Women's Volleyball vs Florida - Gregory Gym",
-      "venue": "Gregory Gym",
-      "distance": "~1.7 mi N",
-      "time": "7:30 PM",
-      "crowd": "~3,000",
+      "name": "Mask-making workshop - Mexic-Arte Museum",
+      "venue": "Mexic-Arte",
+      "distance": "~0.4 mi N",
+      "time": "12-5 PM",
+      "crowd": "Small",
       "risk": "LOW",
-      "detail": "7:30 PM | 2101 Speedway | campus athletic event"
+      "detail": "12:00-5:00 PM (drop-in 10-6) | 419 Congress Ave | free; Viva La Vida Parade is Oct 24"
+    },
+    {
+      "name": "Monday Night Football: Commanders at 49ers (bar viewing)",
+      "venue": "Downtown bars",
+      "distance": "Various",
+      "time": "7:15 PM",
+      "crowd": "Bar crowds",
+      "risk": "LOW",
+      "detail": "7:15 PM | televised; expect bar crowds on 6th, Rainey and Red River"
     }
   ],
   "property_actions": [
-    "BRIEF door, valet and concierge on the Livestrong run closures (8 AM-noon, Auditorium Shores/Riverside) and Weezer egress (about 10:00-10:30 PM): allow extra time for guests heading to airport or events.",
-    "EXPECT a checkout surge from visiting Texas-Florida fans and weekend leisure guests: bell and valet at full strength 7-11 AM; confirm luggage hold and rideshare staging.",
+    "BRIEF door, valet and concierge on Staind/Seether egress (about 10:00 PM, Moody Center, ~1.6 mi N) and the Rainey Street Monday block party (5-11 PM, ~0.2 mi E): allow extra time for guests heading to events and expect rideshare congestion near Rainey and Cesar Chavez.",
+    "EXPECT added foot and vehicle traffic around Austin City Hall (301 W 2nd St) for early voting (7 AM-7 PM): keep drop-off lanes clear and brief staff that outreach and canvassing activity is normal and lawful on public sidewalks.",
     "BRIEF front desk, reservations and concierge on the guest-complaint phishing campaign: do not open attachments or 'photo/video' links in complaint or review emails; forward to IT and Security. Report any guest Wi-Fi portal prompt for a software update or device code.",
     "ASK IT to confirm MFA and conditional access on staff Microsoft 365 accounts and to check the guest Wi-Fi captive portal and managed-service-provider alerts.",
-    "STEER late-night walkers to rideshare after dark, especially around E 6th, Rainey and Red River; remind staff of the bomb-threat and suspicious-person reporting procedure (Congress Ave robbery, Oct 13).",
-    "MONITOR the Texas Capitol for flash demonstrations and Waterloo Park/Moody Center crowds; escalate to the duty supervisor if crowds exceed 200 or move toward downtown.",
+    "REMIND bar, food-and-beverage, door and security staff of opioid-overdose signs and the 911-first, Narcan and AED procedure following the Sixth Street overdose cluster; steer late-night walkers to rideshare after dark, especially around E 6th, Rainey and Red River.",
+    "MONITOR the Texas Capitol for flash demonstrations (grounds close 8 PM) and Iran-war headlines; escalate to the duty supervisor if crowds exceed 200 or move toward downtown, or if DHS/FBI issue a new bulletin.",
     "VERIFY CCTV, door locks and panic buttons; ensure the supervisor has APD Downtown Division (512) 974-5200.",
-    "REMIND outdoor F&B and pool staff of UV and sun exposure (UV index about 5) and dry air: water stations for guests."
+    "REMIND outdoor F&B and pool staff of UV (index about 5): water and shade for guests; heat-awareness resumes late this week."
   ],
   "national_context": [
-    "US-Iran war (about seven months): no settlement in force. Iran says its offer to reopen the Strait of Hormuz within seven days is still on the table and demands credible guarantees against future attack; the US rejected the plan but signaled further talks; Qatar and Pakistan are mediating. Statements are contradictory (Hegseth threatens 'destruction'; Iran's president calls talks 'meaningless'). Austin has a direct precedent: the Mar 1 Sixth Street attack, which the FBI treated as potential terrorism.",
-    "Political climate: nationwide No Kings: Vote Early events (Oct 17-18) focus on turnout; Saturday's Austin event was peaceful. Early voting begins Oct 19; Election Day is Nov 3. Anti-ICE tension in Austin persists after the Sep 20 Garces Perez shooting.",
+    "US-Iran war (about seven and a half months): no settlement in force. Iran says its seven-day Strait of Hormuz plan is still on the table but demands guarantees; Trump rejected it Saturday yet expects talks this week; Qatar is mediating and Brent crude is above about $106. On Oct 18-19 the State Department urged heightened vigilance for Americans in the Middle East and warned Iran or its proxies may target US interests worldwide. No DHS/FBI homeland bulletin naming Austin was found. Austin has a direct precedent: the Mar 1 Sixth Street attack.",
+    "Political climate: early voting starts today (Oct 19-30); Election Day is Nov 3. Anti-ICE tension in Austin persists after the Sep 20 Garces Perez shooting, though recent Capitol gatherings have been small and peaceful.",
     "Cyber: hospitality is a high-volume ransomware and phishing target (Qilin, Akira, Play, LockBit lead sector claims), with Midnight Blizzard hotel Wi-Fi and fake guest-complaint campaigns active this month."
   ],
   "contacts": [
@@ -199,13 +199,8 @@
   ],
   "lookaheads": [
     [
-      "MON Oct 19",
-      "Early voting begins in Travis County (through Oct 30). Warmer: highs upper 70s to low 80s, increasing clouds overnight, dry.",
-      "Expect more voter-outreach activity downtown; normal posture. Monitor Capitol-area demonstrations."
-    ],
-    [
       "TUE Oct 20",
-      "Warming trend continues; highs low 80s; no rain.",
+      "Warmer: highs low to mid 80s; dry, clouds then sun.",
       "No weather action required. US-Iran mediated talks may produce news; monitor."
     ],
     [
@@ -214,9 +209,14 @@
       "Resume heat-awareness protocol for pool and outdoor service by Thursday."
     ],
     [
-      "WEEKEND Oct 24-25",
-      "Above-normal temperatures, dry; weekend event calendar not yet finalized.",
-      "Check City of Austin and Downtown Austin Alliance calendars Friday."
+      "SAT Oct 24",
+      "Viva La Vida Parade (Mexic-Arte, Congress Ave, around noon); dry, warm.",
+      "Plan for Congress Ave closures and crowds near the property's north approach; check route details Friday."
+    ],
+    [
+      "SUN Oct 25",
+      "Warm; a ~20% chance of showers for western areas only.",
+      "Check City of Austin and Downtown Austin Alliance calendars Friday for weekend events."
     ],
     [
       "NOV 3",
